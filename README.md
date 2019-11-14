@@ -135,7 +135,6 @@ with this service 100% of the money goes to you.
 
 # Contributing
 
-- No Unittests required.
 - At least Tweet-sized documentation must be provided, so people can understand what it is.
 - No Ads, Watermarks, or similar on the contributed resources, to keep it clean for everyone.
 - You can link to your pages and add explicit credit on documentation of such resources.

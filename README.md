@@ -137,7 +137,7 @@ you can download full quality music for free to use on your streams and dont get
 
 - This runs on Windows ?.
 
-Yes. But most people use the Proprietary OBS from Twitch on Windows, so is untested.
+Yes. But most people use the Proprietary StreamLabs OBS on Windows, so is untested.
 
 - This runs on Mac ?.
 

@@ -1,6 +1,6 @@
 # OBS-Starter-Kit
 
-- [OBS Studio](https://obsproject.com/download) Starter Kit.
+- [OBS Studio](https://obsproject.com/download) Starter Kit, tech stream oriented.
 
 ![](https://img.shields.io/github/languages/count/juancarlospaco/obs-starter-kit?logoColor=green&style=for-the-badge)
 ![](https://img.shields.io/github/languages/top/juancarlospaco/obs-starter-kit?style=for-the-badge)
@@ -15,6 +15,9 @@
 
 
 # Tools
+
+- These are some visually attractive and useful tools that you can show off on your stream, install the ones you see fit...
+
 
 ## Clementine
 

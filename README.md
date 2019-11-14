@@ -73,6 +73,14 @@ emojis and unicode works, copy&paste works, is very lightweight being coded on C
 is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
 
 
+## SWCursor
+
+[SWCursor](https://github.com/andykitchen/swcursor#swcursor) is a simple C program that allows you to use any PNG image as Mouse cursor,
+so you can use your Logo as cursor or an extra big cursor on your stream. You can remove the cursor by closing the program.
+
+[![](https://raw.githubusercontent.com/andykitchen/swcursor/master/screenshot.png)](https://github.com/andykitchen/swcursor#swcursor)
+
+
 # Requisites
 
 - [OBS Studio](https://obsproject.com/download) for Linux or Mac.

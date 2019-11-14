@@ -40,6 +40,15 @@ it can cover faces with PNG images, it can blurry faces, it can add face masks a
 [![](https://webcamoid.github.io/theme/images/screenshots/Effects.png)](https://webcamoid.github.io)
 
 
+## Flameshot
+
+[Flameshot](https://github.com/lupoDharkael/flameshot) is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+very nice if you need to take screenshots for your stream.
+
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot----)
+
+
+
 # Uninstall
 
 - Delete it.

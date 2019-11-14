@@ -1,6 +1,6 @@
 # OBS-Starter-Kit
 
-- [OBS Studio](https://obsproject.com/download) Starter Kit, tech stream oriented.
+- [OBS Studio](https://obsproject.com/download) Starter Kit, for Linux, tech stream oriented.
 
 ![](https://img.shields.io/github/languages/count/juancarlospaco/obs-starter-kit?logoColor=green&style=for-the-badge)
 ![](https://img.shields.io/github/languages/top/juancarlospaco/obs-starter-kit?style=for-the-badge)
@@ -61,7 +61,7 @@ with configurable effects, you can disable any or all effects too, copy&paste wo
 
 ## Orion
 
-[Orion](https://alamminsalo.github.io/orion) is a is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working,
+[Orion](https://alamminsalo.github.io/orion) is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working,
 emojis and unicode works, copy&paste works, is very lightweight being coded on C++, it wont replace the web but if you only need to watch streams is very comfy.
 
 [![](https://user-images.githubusercontent.com/5585454/27840063-b6429fce-60fe-11e7-9e96-54d6d0657953.png)](https://alamminsalo.github.io/orion)
@@ -69,7 +69,7 @@ emojis and unicode works, copy&paste works, is very lightweight being coded on C
 
 ## Twire
 
-[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is a is an open source Android Twitch Client app for Mobile,
+[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,
 is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
 
 
@@ -79,6 +79,17 @@ is a lot more lightweigth than the official app and the features are almost the 
 so you can use your Logo as cursor or an extra big cursor on your stream. You can remove the cursor by closing the program.
 
 [![](https://raw.githubusercontent.com/andykitchen/swcursor/master/screenshot.png)](https://github.com/andykitchen/swcursor#swcursor)
+
+
+## ShowMeTheWay
+
+[ShowMeTheWay](https://osmlab.github.io/show-me-the-way) is an open source web service that shows real time updates on [OpenStreetMap](https://www.openstreetmap.org),
+If you dont have Designs for *"Will be back soon"* kind of screens, just leaving this web on screen will do, at least for a while.
+
+## LiveOpenStreetMap
+
+[LiveOpenStreetMap](http://live.openstreetmap.fr) is an open source web service that shows real time updates on [OpenStreetMap](https://www.openstreetmap.org),
+If you dont have Designs for *"Will be back soon"* kind of screens, just leaving this web on screen will do, at least for a while.
 
 
 # Requisites

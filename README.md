@@ -41,9 +41,5 @@ Yes.
 
 Yes.
 
-- This runs on Alpine Linux ?.
-
-Yes.
-
 
 [  ⬆️  ⬆️  ⬆️  ⬆️  ](#OBS-Starter-Kit "Go to top")

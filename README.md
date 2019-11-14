@@ -91,6 +91,10 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 [LiveOpenStreetMap](http://live.openstreetmap.fr) is an open source web service that shows real time updates on [OpenStreetMap](https://www.openstreetmap.org),
 If you dont have Designs for *"Will be back soon"* kind of screens, just leaving this web on screen will do, at least for a while.
 
+## Jamendo
+
+[Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs.
+
 
 # Requisites
 

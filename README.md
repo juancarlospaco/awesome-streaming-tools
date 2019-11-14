@@ -143,9 +143,5 @@ Yes. But most people use the Proprietary OBS from Twitch on Windows, so is untes
 
 Yes.
 
-- This runs on ARM and Raspberry Pi and Notebooks ?.
-
-Yes.
-
 
 [  ⬆️  ⬆️  ⬆️  ⬆️  ](#OBS-Starter-Kit "Go to top")

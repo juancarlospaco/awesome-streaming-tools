@@ -2,6 +2,17 @@
 
 - [OBS Studio](https://obsproject.com/download) Starter Kit. Fully automated instant N00b2Pro. *Pull Requests welcome!*
 
+![](https://img.shields.io/github/languages/count/juancarlospaco/obs-starter-kit?logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/languages/top/juancarlospaco/obs-starter-kit?style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/obs-starter-kit?style=for-the-badge)
+![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge)
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/obs-starter-kit?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/obs-starter-kit?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/obs-starter-kit?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/juancarlospaco/obs-starter-kit?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/juancarlospaco/obs-starter-kit?style=for-the-badge)
+![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
+
 
 # Install
 

@@ -22,8 +22,9 @@
 
 - No Unittests required.
 - At least Tweet-sized documentation must be provided, so people can understand what it is.
-- No Ads, Watermarks, or similar on the contributed resources, to keep it clean  for everyone.
+- No Ads, Watermarks, or similar on the contributed resources, to keep it clean for everyone.
 - You can link to your pages and add explicit credit on documentation of such resources.
+- Basically the resources contributed here must be clean, if you want to link your page and charge for premium resources there, is Ok, but resources on this repo must be clean.
 
 
 # FAQ
@@ -36,7 +37,7 @@ Yes. But most people use the Proprietary OBS from Twitch on Windows, so is untes
 
 Yes.
 
-- This runs on ARM and Raspberry Pi ?.
+- This runs on ARM and Raspberry Pi and Notebooks ?.
 
 Yes.
 

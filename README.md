@@ -40,7 +40,7 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 is very lightweight being coded on C, uses few resources, it can add custom effects to your webcam on real time,
 it can cover faces with PNG images, it can blurry faces, it can add face masks and more fancy toys.
 
-[![](https://webcamoid.github.io/theme/images/screenshots/Effects.png)](https://webcamoid.github.io)
+[![](https://webcamoid.github.io/theme/images/screenshots/Effects.png)](https://webcamoid.github.io "Real time effects for your camera")
 
 
 ## Flameshot
@@ -48,7 +48,15 @@ it can cover faces with PNG images, it can blurry faces, it can add face masks a
 [Flameshot](https://github.com/lupoDharkael/flameshot) is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot----)
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots")
+
+
+## Cool Retro Term
+
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) is a is an open source crossplatform Qt5/QML Terminal app,
+with configurable effects, you can disable any or all effects too, copy&paste works, for the rest is a normal terminal app but looks fancy.
+
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term)
 
 
 

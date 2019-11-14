@@ -114,6 +114,15 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 you can download full quality music for free to use on your streams and dont get muted, etc.
 
 
+## LiberaPay
+
+[LiberaPay](https://liberapay.com) is an open source free web service that allows you to take Donations $,
+it is like an alternative to Patreon and similar services,
+when you stream on a fixed constant schedule eventually people will start asking for a way to Donate to you,
+this is the only service we can find that do not take a big chunk of your donation,
+with this service 100% of the money goes to you.
+
+
 # Requisites
 
 - [OBS Studio](https://obsproject.com/download) for Linux or Mac.

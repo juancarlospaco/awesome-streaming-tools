@@ -18,7 +18,7 @@
 
 ## Clementine
 
-[Clementine Music Player](https://www.clementine-player.org) is an open source Qt5 Music player with very modern and visually attractive UI,
+[Clementine Music Player](https://www.clementine-player.org) is an open source crossplatform Qt5 Music player with very modern and visually attractive UI,
 that makes it ideal for playing music while occasionally showing the player on stream and dont get everyone bored quickly,
 it uses few resources and disk space because its C, uses less resources than Spotify, and uses no Network by default.
 
@@ -29,6 +29,15 @@ It can show random baby Kitten photos for missing music cover photos.
 If you dont have Designs for *"Will be back soon"* kind of screens, just leaving the player on shuffle will do, at least for a while.
 
 [![](https://raw.githubusercontent.com/juancarlospaco/obs-starter-kit/master/clementine.png "Visually attractive music player!")](https://www.clementine-player.org)
+
+
+## Webcamoid
+
+[Webcamoid](https://webcamoid.github.io) is an open source crossplatform Qt5 WebCam app with advanced settings and real time filters and effects,
+is very lightweight being coded on C, uses few resources, it can add custom effects to your webcam on real time,
+it can cover faces with PNG images, it can blurry faces, it can add face masks and more fancy toys.
+
+[![](https://webcamoid.github.io/theme/images/screenshots/Effects.png)](https://webcamoid.github.io)
 
 
 # Uninstall

@@ -59,12 +59,6 @@ with configurable effects, you can disable any or all effects too, copy&paste wo
 [![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term)
 
 
-
-# Uninstall
-
-- Delete it.
-
-
 # Requisites
 
 - [OBS Studio](https://obsproject.com/download) for Linux or Mac.

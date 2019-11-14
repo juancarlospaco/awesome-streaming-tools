@@ -18,9 +18,7 @@
 
 ## Clementine
 
-Clementine Music Player
-
-Clementine is an open source Qt5 Music player with very modern and visually attractive UI,
+[Clementine Music Player](https://www.clementine-player.org) is an open source Qt5 Music player with very modern and visually attractive UI,
 that makes it ideal for playing music while occasionally showing the player on stream and dont get everyone bored quickly,
 it uses few resources and disk space because its C, uses less resources than Spotify, and uses no Network by default.
 
@@ -30,7 +28,7 @@ The Playlist has a Rating colum with 5 Stars widgets, so you can rate the songs 
 It can show random baby Kitten photos for missing music cover photos.
 If you dont have Designs for *"Will be back soon"* kind of screens, just leaving the player on shuffle will do, at least for a while.
 
-![](https://raw.githubusercontent.com/juancarlospaco/obs-starter-kit/master/clementine.png "Visually attractive music player!")
+[![](https://raw.githubusercontent.com/juancarlospaco/obs-starter-kit/master/clementine.png "Visually attractive music player!")](https://www.clementine-player.org)
 
 
 # Uninstall

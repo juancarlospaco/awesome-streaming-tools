@@ -81,6 +81,14 @@ so you can use your Logo as cursor or an extra big cursor on your stream. You ca
 is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
 
 
+## BetterTTV
+
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV)
+that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
+if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
+you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
+
+
 ## ShowMeTheWay
 
 [ShowMeTheWay](https://osmlab.github.io/show-me-the-way) is an open source web service that shows real time updates on [OpenStreetMap](https://www.openstreetmap.org),

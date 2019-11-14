@@ -16,7 +16,7 @@
 
 # Tools
 
-- These are some visually attractive and useful tools that you can show off on your stream, install the ones you see fit...
+- These are some visually attractive eye candy and useful tools that you can show off on your stream, install the ones you see fit...
 
 
 ## Clementine

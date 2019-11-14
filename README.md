@@ -59,6 +59,14 @@ with configurable effects, you can disable any or all effects too, copy&paste wo
 [![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term)
 
 
+## Orion
+
+[Orion](https://alamminsalo.github.io/orion) is a is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working,
+emojis and unicode works, copy&paste works, is very lightweight being coded on C++, it wont replace the web but if you only need to watch streams is very comfy.
+
+[![](https://user-images.githubusercontent.com/5585454/27840063-b6429fce-60fe-11e7-9e96-54d6d0657953.png)](https://alamminsalo.github.io/orion)
+
+
 # Requisites
 
 - [OBS Studio](https://obsproject.com/download) for Linux or Mac.

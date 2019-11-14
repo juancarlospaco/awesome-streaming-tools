@@ -93,7 +93,8 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Jamendo
 
-[Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs.
+[Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs,
+you can download full quality music for free to use on your streams and dont get muted, etc.
 
 
 # Requisites

@@ -14,9 +14,17 @@
 ![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
 
 
-# Install
+# Getting started
 
-- ???
+## Clementine
+
+Clementine Music Player
+
+Clementine is an open source Qt5 Music player with very modern and visually attractive UI,
+that makes it ideal for playing music while occasionally showing the player on stream and dont get everyone bored quickly,
+it uses few resources and disk space because its C, uses less resources than Spotify, and uses no Network by default.
+
+![](clementine.png "Visually attractive music player!")
 
 
 # Uninstall

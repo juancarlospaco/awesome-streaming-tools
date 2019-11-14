@@ -1,6 +1,6 @@
 # OBS-Starter-Kit
 
-- [OBS Studio](https://obsproject.com/download) Starter Kit. Fully automated instant N00b2Pro. Pull Requests welcome!
+- [OBS Studio](https://obsproject.com/download) Starter Kit. Fully automated instant N00b2Pro. *Pull Requests welcome!*
 
 
 # Install

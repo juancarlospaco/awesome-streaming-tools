@@ -67,6 +67,12 @@ emojis and unicode works, copy&paste works, is very lightweight being coded on C
 [![](https://user-images.githubusercontent.com/5585454/27840063-b6429fce-60fe-11e7-9e96-54d6d0657953.png)](https://alamminsalo.github.io/orion)
 
 
+## Twire
+
+[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is a is an open source Android Twitch Client app for Mobile,
+is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
+
+
 # Requisites
 
 - [OBS Studio](https://obsproject.com/download) for Linux or Mac.

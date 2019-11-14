@@ -114,7 +114,7 @@ you can download full quality music for free to use on your streams and dont get
 it is like an alternative to Patreon and similar services,
 when you stream on a fixed constant schedule eventually people will start asking for a way to Donate to you,
 this is the only service we can find that do not take a big chunk of your donation,
-with this service 100% of the money goes to you.
+with this service 100% of the money goes to you, as far as we know it works internationally.
 
 
 # Requisites
@@ -133,17 +133,6 @@ with this service 100% of the money goes to you.
 - No Ads, Watermarks, or similar on the contributed resources, to keep it clean for everyone.
 - You can link to your pages and add explicit credit on documentation of such resources.
 - Basically the resources contributed here must be clean, if you want to link your page and charge for premium resources there, is Ok, but resources on this repo must be clean.
-
-
-# FAQ
-
-- This runs on Windows ?.
-
-Yes. But most people use the Proprietary StreamLabs OBS on Windows, so is untested.
-
-- This runs on Mac ?.
-
-Yes.
 
 
 [  ⬆️  ⬆️  ⬆️  ⬆️  ](#OBS-Starter-Kit "Go to top")

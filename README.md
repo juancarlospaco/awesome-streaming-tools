@@ -67,18 +67,18 @@ emojis and unicode works, copy&paste works, is very lightweight being coded on C
 [![](https://user-images.githubusercontent.com/5585454/27840063-b6429fce-60fe-11e7-9e96-54d6d0657953.png)](https://alamminsalo.github.io/orion)
 
 
-## Twire
-
-[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,
-is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
-
-
 ## SWCursor
 
 [SWCursor](https://github.com/andykitchen/swcursor#swcursor) is a simple C program that allows you to use any PNG image as Mouse cursor,
 so you can use your Logo as cursor or an extra big cursor on your stream. You can remove the cursor by closing the program.
 
 [![](https://raw.githubusercontent.com/andykitchen/swcursor/master/screenshot.png)](https://github.com/andykitchen/swcursor#swcursor)
+
+
+## Twire
+
+[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,
+is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
 
 
 ## ShowMeTheWay

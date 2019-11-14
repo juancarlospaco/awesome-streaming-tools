@@ -14,7 +14,7 @@
 ![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
 
 
-# Getting started
+# Tools
 
 ## Clementine
 
@@ -24,7 +24,13 @@ Clementine is an open source Qt5 Music player with very modern and visually attr
 that makes it ideal for playing music while occasionally showing the player on stream and dont get everyone bored quickly,
 it uses few resources and disk space because its C, uses less resources than Spotify, and uses no Network by default.
 
-![](clementine.png "Visually attractive music player!")
+It has a playlist with "Mood bars" that represents the mood of the song using colors (sad music, happy music, slow paced music, etc).
+The playlist also has a column "Play Count" so you can see how many times that song has been played on stream.
+The Playlist has a Rating colum with 5 Stars widgets, so you can rate the songs too.
+It can show random baby Kitten photos for missing music cover photos.
+If you dont have Designs for *"Will be back soon"* kind of screens, just leaving the player on shuffle will do, at least for a while.
+
+![](https://raw.githubusercontent.com/juancarlospaco/obs-starter-kit/master/clementine.png "Visually attractive music player!")
 
 
 # Uninstall

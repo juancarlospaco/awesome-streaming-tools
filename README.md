@@ -36,7 +36,7 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Webcamoid
 
-[Webcamoid](https://webcamoid.github.io) is an open source crossplatform Qt5 WebCam app with advanced settings and real time filters and effects,
+[Webcamoid](https://webcamoid.github.io) is an open source Qt5 WebCam app with advanced settings and real time filters and effects,
 is very lightweight being coded on C, uses few resources, it can add custom effects to your webcam on real time,
 it can cover faces with PNG images, it can blurry faces, it can add face masks and more fancy toys.
 

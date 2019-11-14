@@ -18,6 +18,14 @@
 ![Stars over time](https://starchart.cc/juancarlospaco/obs-starter-kit.svg "Star OBS-Starter-Kit on GitHub!")
 
 
+# Contributing
+
+- No Unittests required.
+- At least Tweet-sized documentation must be provided, so people can understand what it is.
+- No Ads, Watermarks, or similar on the contributed resources, to keep it clean  for everyone.
+- You can link to your pages and add explicit credit on documentation of such resources.
+
+
 # FAQ
 
 - This runs on Windows ?.

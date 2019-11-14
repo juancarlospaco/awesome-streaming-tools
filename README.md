@@ -1,6 +1,6 @@
 # OBS-Starter-Kit
 
-- [OBS Studio](https://obsproject.com/download) Starter Kit, for Linux, tech stream oriented.
+- [OBS Studio](https://obsproject.com/download) Starter Kit, for Linux or Mac, tech stream oriented.
 
 ![](https://img.shields.io/github/languages/count/juancarlospaco/obs-starter-kit?logoColor=green&style=for-the-badge)
 ![](https://img.shields.io/github/languages/top/juancarlospaco/obs-starter-kit?style=for-the-badge)

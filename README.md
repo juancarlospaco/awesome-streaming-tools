@@ -16,7 +16,7 @@
 
 # Tools
 
-- These are some visually attractive eye candy and useful tools that you can show off on your stream, install the ones you see fit...
+These are some visually attractive eye candy and useful tools that you can show off on your stream, install the ones you see fit...
 
 
 ## Clementine
@@ -57,6 +57,15 @@ very nice if you need to take screenshots for your stream.
 with configurable effects, you can disable any or all effects too, copy&paste works, for the rest is a normal terminal app but looks fancy.
 
 [![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term)
+
+
+## Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com) is an open source ElectronJS code editor that [has stream oriented plugins](https://dev.to/ninjabunny9000/5-useful-vscode-extensions-for-live-coding-239b),
+that allows your viewers to interact with the editor and the code in it using chat commands and more.
+It is the only editor that we can find that has stream oriented plugins.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--s0A4Ri0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/clarkio/vscode-twitch-highlighter/raw/master/resources/intro-vid.gif)
 
 
 ## Orion

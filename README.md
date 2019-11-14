@@ -19,6 +19,11 @@
 - ???
 
 
+# Uninstall
+
+- Delete it.
+
+
 # Requisites
 
 - [OBS Studio](https://obsproject.com/download) for Linux or Mac.

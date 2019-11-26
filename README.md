@@ -71,7 +71,7 @@ It is not an extension: The tool is made up of 2 web pages.
 One for Management, a webpage in your browser to curate/moderate the messages,
 one for your broadcast software, a browser source you can plug into OBS. 
 
-https://docs.google.com/document/d/17hKYBi9vBIyTBu5WrGRgZLd5IXrYWiclhvnV25oii50/edit#
+Documentation Manual: https://featured.chat/manual
 
 
 ## Orion

@@ -129,6 +129,55 @@ this is the only service we can find that do not take a big chunk of your donati
 with this service 100% of the money goes to you, as far as we know it works internationally.
 
 
+# Twitch Extensions
+
+- Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.
+
+## GitHub Projects
+
+https://www.twitch.tv/ext/yncbd7i177on3ia536r307nlvt8g1w-0.1.1
+
+## GitHub Repo Browser
+
+https://www.twitch.tv/ext/4pk2cbv7h3ur5j934vhe0gt8a829tj-1.1.2
+
+## GitHub Profile
+
+https://www.twitch.tv/ext/ipthd4t8w0euh9djnycwc4a12e0694-1.1.2
+
+# Uptime & Watchtime
+
+https://www.twitch.tv/ext/jk6sz43il0oyzfl8xipehqacw8bchv-1.0.2
+
+## Better Information Panel
+
+https://www.twitch.tv/ext/pp16i51f77pxhwls8tqqo72f5m5ttz-0.4.0
+
+## NicoNico
+
+https://www.twitch.tv/ext/gh70y1spw727ohtgzbhc0hppvq9br2-0.2.0
+
+## Twitter Timeline
+
+https://www.twitch.tv/ext/qcxdzgqw0sd1u50wqtwodjfd5dmkxz-1.0.0
+
+## Viewer GeoLocation
+
+https://www.twitch.tv/ext/9zqhb3hba48m0c382uno7k2t74isfi-0.1.4
+
+## Suggestion Box
+
+https://www.twitch.tv/ext/6rh8h42nhnjmirlyxc0w9lbpmeehi0-0.4.2
+
+## Schedule
+
+https://www.twitch.tv/ext/6t1ip2ejuoshyb63c9rq9rvacageuk-0.0.1
+
+## Snow
+
+https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0
+
+
 # Requisites
 
 - [OBS Studio](https://obsproject.com/download) for Linux or Mac.

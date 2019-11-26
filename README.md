@@ -161,6 +161,10 @@ https://www.twitch.tv/ext/gh70y1spw727ohtgzbhc0hppvq9br2-0.2.0
 
 https://www.twitch.tv/ext/qcxdzgqw0sd1u50wqtwodjfd5dmkxz-1.0.0
 
+## Latest Followers
+
+https://www.twitch.tv/ext/wb3bnc8np7tdnxj2sfbk0aa3vklulo-1.0.6
+
 ## Viewer GeoLocation
 
 https://www.twitch.tv/ext/9zqhb3hba48m0c382uno7k2t74isfi-0.1.4

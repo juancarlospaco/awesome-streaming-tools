@@ -62,6 +62,18 @@ It is the only editor that we can find that has stream oriented plugins.
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--s0A4Ri0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/clarkio/vscode-twitch-highlighter/raw/master/resources/intro-vid.gif)
 
 
+# Featured Chats
+
+https://featured.chat is a free web tool for Streamers created by [Djwheat](https://twitch.tv/djwheat), 
+it is a tool to showcase and groom all the chat activity on a channel and feature individual chat messages on screen in the broadcast.
+
+It is not an extension: The tool is made up of 2 web pages.
+One for Management, a webpage in your browser to curate/moderate the messages,
+one for your broadcast software, a browser source you can plug into OBS. 
+
+https://docs.google.com/document/d/17hKYBi9vBIyTBu5WrGRgZLd5IXrYWiclhvnV25oii50/edit#
+
+
 ## Orion
 
 [Orion](https://alamminsalo.github.io/orion) is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working,

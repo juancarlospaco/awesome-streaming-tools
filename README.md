@@ -62,18 +62,6 @@ It is the only editor that we can find that has stream oriented plugins.
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--s0A4Ri0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/clarkio/vscode-twitch-highlighter/raw/master/resources/intro-vid.gif)
 
 
-# Featured Chats
-
-https://featured.chat is a free web tool for Streamers created by [Djwheat](https://twitch.tv/djwheat), 
-it is a tool to showcase and groom all the chat activity on a channel and feature individual chat messages on screen in the broadcast.
-
-It is not an extension: The tool is made up of 2 web pages.
-One for Management, a webpage in your browser to curate/moderate the messages,
-one for your broadcast software, a browser source you can plug into OBS. 
-
-Documentation Manual: https://featured.chat/manual
-
-
 ## Orion
 
 [Orion](https://alamminsalo.github.io/orion) is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working,
@@ -88,12 +76,6 @@ emojis and unicode works, copy&paste works, is very lightweight being coded on C
 so you can use your Logo as cursor or an extra big cursor on your stream. You can remove the cursor by closing the program.
 
 [![](https://raw.githubusercontent.com/andykitchen/swcursor/master/screenshot.png)](https://github.com/andykitchen/swcursor#swcursor)
-
-
-## Twire
-
-[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,
-is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
 
 
 ## BetterTTV
@@ -115,6 +97,24 @@ it is like an alternative to Patreon and similar services,
 when you stream on a fixed constant schedule eventually people will start asking for a way to Donate to you,
 this is the only service we can find that do not take a big chunk of your donation,
 with this service 100% of the money goes to you, as far as we know it works internationally.
+
+
+## Featured Chats
+
+https://featured.chat is a free web tool for Streamers created by [Djwheat](https://twitch.tv/djwheat), 
+it is a tool to showcase and groom all the chat activity on a channel and feature individual chat messages on screen in the broadcast.
+
+It is not an extension: The tool is made up of 2 web pages.
+One for Management, a webpage in your browser to curate/moderate the messages,
+one for your broadcast software, a browser source you can plug into OBS. 
+
+Documentation Manual: https://featured.chat/manual
+
+
+## Twire
+
+[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,
+is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
 
 
 ## ShowMeTheWay

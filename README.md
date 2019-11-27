@@ -106,6 +106,17 @@ if you dont understand why a lot of people on your chat types `monkaS` is probab
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
 
+## LiberaPay
+
+![](liberapay.jpg)
+
+[LiberaPay](https://liberapay.com) is an open source free web service that allows you to take Donations $,
+it is like an alternative to Patreon and similar services,
+when you stream on a fixed constant schedule eventually people will start asking for a way to Donate to you,
+this is the only service we can find that do not take a big chunk of your donation,
+with this service 100% of the money goes to you, as far as we know it works internationally.
+
+
 ## ShowMeTheWay
 
 [ShowMeTheWay](https://osmlab.github.io/show-me-the-way) is an open source web service that shows real time updates on [OpenStreetMap](https://www.openstreetmap.org),
@@ -120,17 +131,6 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 [Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs,
 you can download full quality music for free to use on your streams and dont get muted, etc.
-
-
-## LiberaPay
-
-![](liberapay.jpg)
-
-[LiberaPay](https://liberapay.com) is an open source free web service that allows you to take Donations $,
-it is like an alternative to Patreon and similar services,
-when you stream on a fixed constant schedule eventually people will start asking for a way to Donate to you,
-this is the only service we can find that do not take a big chunk of your donation,
-with this service 100% of the money goes to you, as far as we know it works internationally.
 
 
 # Twitch Extensions

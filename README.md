@@ -135,7 +135,12 @@ you can download full quality music for free to use on your streams and dont get
 
 # Twitch Extensions
 
-- Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.
+Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.
+
+Something to consider for tech streams is that sometimes the most popular and effective Twitch Extensions for other categories can fail on tech streams,
+that tend to have less than 100 viewers, because if the extension is too Bits hungry no one will really use it,
+so Twitch Extensions without Bits, at least for basic functionality are preferred.
+
 
 ## GitHub Projects
 

@@ -141,6 +141,8 @@ Something to consider for tech streams is that sometimes the most popular and ef
 that tend to have less than 100 viewers, because if the extension is too Bits hungry no one will really use it,
 so Twitch Extensions without Bits, at least for basic functionality are preferred.
 
+The Gaming stream extensions are over-saturated, the Tech stream extensions are underrated.
+
 
 ## GitHub Projects
 

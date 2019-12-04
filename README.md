@@ -1,6 +1,6 @@
-# OBS-Starter-Kit
+# Awesome OBS
 
-- [OBS Studio](https://obsproject.com/download) Starter Kit, for Linux or Mac, tech stream oriented.
+- [OBS Studio](https://obsproject.com/download) Starter Kit and Resources, for Linux or Mac, **tech stream oriented**.
 
 ![](https://img.shields.io/github/stars/juancarlospaco/obs-starter-kit?style=for-the-badge)
 ![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge)

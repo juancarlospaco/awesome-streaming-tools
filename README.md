@@ -220,4 +220,4 @@ https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0
 - Basically the resources contributed here must be clean, if you want to link your page and charge for premium resources there, is Ok, but resources on this repo must be clean.
 
 
-[  ⬆️  ⬆️  ⬆️  ⬆️  ](#OBS-Starter-Kit "Go to top")
+[  ⬆️  ⬆️  ⬆️  ⬆️  ](#awesome-obs "Go to top")

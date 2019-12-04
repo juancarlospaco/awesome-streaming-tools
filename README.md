@@ -111,6 +111,17 @@ one for your broadcast software, a browser source you can plug into OBS.
 Documentation Manual: https://featured.chat/manual
 
 
+## MultiTwitch
+
+You can use this site to watch any number of twitch.tv streams at the same time (as long as your computer can handle it). 
+Simply put the streams you want in the url. 
+MultiTwitch will optimize the layout of streams to give you the maximum size on each of the streams, 
+while maintaining aspect ratio. 
+For the curious, the source of this page is available at github.com/bhamrick/multitwitch
+
+http://www.multitwitch.tv
+
+
 ## Twire
 
 [Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,

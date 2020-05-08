@@ -3,7 +3,7 @@
 - [OBS Studio](https://obsproject.com/download) Starter Kit and Resources, for Linux or Mac, **tech stream oriented**.
 
 ![](https://img.shields.io/github/stars/juancarlospaco/obs-starter-kit?style=for-the-badge)
-![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge)
+![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/juancarlospaco/obs-starter-kit?style=for-the-badge)
 ![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
 
@@ -86,6 +86,12 @@ so you can use your Logo as cursor or an extra big cursor on your stream. You ca
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
+
+
+## TwitchRoulette
+
+[TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers. 
+Say hi! Make new Friends!.
 
 
 ## LiberaPay

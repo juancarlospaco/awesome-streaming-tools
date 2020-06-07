@@ -169,6 +169,12 @@ Speech to text online, Mac, Windows and Linux integration.
 Direct speech input in Windows, Mac and Linux. Voice typing to clipboard. 
 Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.
 
+## E-Girls
+
+Do you want to stream a multi-player game and no one of your friends like to play the game?,
+you can rent [E-Girls](http://egirl.gg) to play game sessions with you (or [E-Boys](http://egirl.gg)).
+The service is NOT Free, you must pay, prices may vary.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

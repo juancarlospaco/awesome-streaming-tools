@@ -147,6 +147,11 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 [Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs,
 you can download full quality music for free to use on your streams and dont get muted, etc.
 
+## ReStream
+
+[ReStream](https://restream.io) re-streams your stream into several platforms for free,
+you need to register and it will provide you with an URL and secret token to use on OBS.
+Free account do not have stream on public Facebook Live and has a transparent watermark.
 
 # Twitch Extensions
 

@@ -155,6 +155,11 @@ Free account do not have stream on public Facebook Live and has a transparent wa
 
 ![](restream.png)
 
+## PeerFast
+
+[PeerFast](https://diegorbaquero.github.io/PeerFast) is a Free Open-Source Internet speed check,
+it runs completely on your PC, it is anonymous, no login nor account required, runs from your browser.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

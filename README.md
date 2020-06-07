@@ -160,6 +160,15 @@ Free account do not have stream on public Facebook Live and has a transparent wa
 [PeerFast](https://diegorbaquero.github.io/PeerFast) is a Free Open-Source Internet speed check,
 it runs completely on your PC, it is anonymous, no login nor account required, runs from your browser.
 
+## https://voicenotebook.com
+
+[VoiceNotebook](https://voicenotebook.com) can save transcriptions of your streams in real time automatically for free,
+keep transcription logs of past streams!.
+
+Speech to text online, Mac, Windows and Linux integration.
+Direct speech input in Windows, Mac and Linux. Voice typing to clipboard. 
+Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

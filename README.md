@@ -160,7 +160,7 @@ Free account do not have stream on public Facebook Live and has a transparent wa
 [PeerFast](https://diegorbaquero.github.io/PeerFast) is a Free Open-Source Internet speed check,
 it runs completely on your PC, it is anonymous, no login nor account required, runs from your browser.
 
-## https://voicenotebook.com
+## VoiceNotebook
 
 [VoiceNotebook](https://voicenotebook.com) can save transcriptions of your streams in real time automatically for free,
 keep transcription logs of past streams!.

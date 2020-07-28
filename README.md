@@ -1,6 +1,4 @@
-# Awesome OBS
-
-- [OBS Studio](https://obsproject.com/download) Starter Kit and Resources, for Linux or Mac, **tech stream oriented**.
+# Awesome Streaming Tools
 
 ![](https://img.shields.io/github/stars/juancarlospaco/obs-starter-kit?style=for-the-badge)
 ![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
@@ -237,11 +235,6 @@ https://www.twitch.tv/ext/6t1ip2ejuoshyb63c9rq9rvacageuk-0.0.1
 ## Snow
 
 https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0
-
-
-# Requisites
-
-- [OBS Studio](https://obsproject.com/download) for Linux or Mac.
 
 
 ## Stars

@@ -16,12 +16,18 @@ These are some visually attractive eye candy and useful tools that you can show 
 - `obs-plugin-spectralizer` https://github.com/univrsal/spectralizer
 - https://github.com/exeldro/obs-move-transition
 
+Plugins are `*.so` files on Linux and Mac, and `*.dll` on Windows.
+Plugins should be installed to `~/.config/obs-studio/plugins/` on Linux,
+`C:\Program Files\OBS-Studio\obs-plugins\64bit\` on Windows.
+
 
 # Overlays
 
 ![](streamelements.png)
 
-- https://streamelements.com (better than StreamLabs, try it)
+- [Streamelements](https://streamelements.com) is a Free service that provides Overlays, 
+  Alerts, Monetization, Merchandasing Store, Chat Bots, Spam Filters, Stats, Chat Commands,
+  Media Requests (viewers can musicalize the stream via Youtube links), Stats and more for streamers.
 
 
 ## Clementine

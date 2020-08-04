@@ -262,6 +262,228 @@ https://www.twitch.tv/ext/6t1ip2ejuoshyb63c9rq9rvacageuk-0.0.1
 https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0 (Stopped working?)
 
 
+## Livestreaming slang: Twitch Glossary
+
+<details>
+
+#### Admin 
+A role for users on Twitch. 
+Admins are paid by Twitch to enforce the Terms of Service, review user reports, and to assist in settling disputes around the site. 
+Their role can be identified in chat via the yellow adorning a badge alongside their name.
+
+#### Affiliate 
+A voluntary designation given to particular Twitch channels that have met a certain set of requirements that grants the channel features above that of a regular user. 
+Current features are mainly limited to the ability to collect bits through Cheering (as well as priority placement in the transcoding queue), but will eventually expand into limited subscriptions, ad revenue, and game sales. Affiliate invitations are provided automatically, once a channel meets the requirements.
+
+#### Bits
+A single unit of the currency provided to a broadcaster by a viewer. 
+Bits are purchased by viewers at a rate dictated by Twitch using real-world money, and then can be given to broadcasters by way of Cheering. 
+Broadcasters, in turn, receive one cent per bit provided. 
+Bits can only be given to broadcasters that are either Partnered or Affiliated, and then only those who have enabled the feature for their channels.
+
+#### Bitrate
+The rate at which data is being sent to Twitch from a broadcaster, typically measured in kilobits per second. 
+The higher the rate, the more data will make it to Twitch for each second of a stream, which means the content can be viewed at higher resolutions and frame rate.
+Bitrates are typically limited by an Internet Service Provider (ISP), which can hamper a streamer's ability to broadcast at high rates, as well as prevent viewers from viewing high bitrate streams.
+
+#### Bot 
+An automated user generally used to enhance the Chat experience. 
+Bots can be used to moderate, provide alerts, and give interactivity to viewers in various ways.
+
+#### ViewBotting 
+An illicit method of boosting concurrent viewer numbers by creating synthetic viewers to "watch" a broadcast. 
+Botting services can be bought by the broadcaster, but can also be used maliciously against a broadcaster to cast doubt on their viewership. 
+Also known as Botting.
+
+#### Broadcaster 
+An individual that streams data from their device to Twitch in order to allow viewers to view their content. 
+Also known as the Streamer.
+
+#### Capture Card
+An electronic device that allows a user to capture the view of another device, 
+such as a gaming console or another computer, so that it may be used for broadcasting or recording. 
+Capture cards can either be external (connected to a PC via USB or other port outside the PC) or 
+internal (connected directly to the computer's motherboard, typically via PCIe), and can contain a variety of potential inputs.
+
+#### Chat 
+A live chatroom accompanying a channel. 
+All users are able to view the Chat, but only users with an account may submit messages for others to see. 
+The Chat can be moderated by the broadcaster themselves, automated systems (like Twitch's Auto-Mod, or 3rd party "bots"), 
+moderators designated by the broadcaster, and admins, global moderators, and Staff members from Twitch itself. 
+The Chat will support text-based messages, as well as emotes approved by Twitch. 
+These emotes can be global emotes to be used all around Twitch, or 
+channel-specific emotes provided by subscriptions, Twitch Crates, or through unofficial extensions like BTTV.
+
+#### Cheer Badge 
+A badge provided to users that have given certain amounts of bits overall to a given channel. 
+As a user provides more bits, their badge will evolve. 
+Partnered broadcasters can create custom Cheer Badges for their channel, 
+whereas Affiliated broadcasters use the default icons.
+
+#### Cheering 
+The process by which a user gives bits to a broadcaster. 
+Cheering is accomplished via the chat, and can be accompanied by text, emotes (known as "cheermotes"), or both. 
+To cheer, a user types the phrase `CheerX`, where the X represents the desired number of bits the user wishes to cheer. 
+Once cheered, a viewer's bits balance decrements appropriately.
+
+#### Clips 
+A feature on Twitch that enables users to create short videos of a particular livestream, either while live or afterwards. 
+These videos can be easily spread via social media, and lead back to the originator's content when shared.
+
+#### Communities 
+An additional tag broadcasters can use to better describe their type of content. 
+Besides the stream title and game selection, the broadcaster can select (or create!) 
+a community to place their channel in, and when they go live, their channel will appear within that community page. 
+Popular communities include varietystreaming, positivity, game-specific tags, speedrunning, etc. 
+The Creative side of Twitch also depends on this system, giving broadcasters the option to describe their craft (like food, digitalart, etc.)
+
+#### Concurrent Viewers 
+The number of devices viewing a broadcast simultaneously. 
+The term is usually dealt with in terms of live concurrent (how many viewers a broadcaster has at that moment), 
+peak concurrent (the highest number of viewers a broadcaster has in a timespan), 
+and average concurrent (average number of viewers at a certain rate).
+
+#### Directory
+The location on Twitch at which users may find live channels streaming under certain categories. 
+Game Directories classify the channels by game (from highest live concurrent viewership to lowest), 
+while Community Directories classify the channels by self-described labels (from highest live concurrent viewership to least).
+
+#### Discord 
+A conversational tool used by many streamers and gaming enthusiasts to interact with another outside of Twitch or other social media. 
+Each Discord server is made to match some purpose, such as a place to congregate for followers of a particular channel, or individuals sharing a common interest. 
+These servers contain text and voice channels, which can be themed to match the genre of conversation.
+
+#### Emotes 
+Small pictures that can be embedded within text-based messages in Chat. 
+Emotes (or Emoticons) can be accessed by typing a specific, case-sensitive phrase (like Grey Face, with no space). 
+Some emotes are available for all users on Twitch (known as Global Emotes), while many are locked behind channel-specific subscriptions. 
+If a user subscribes to a channel, they may use the channel's emotes throughout the rest of Twitch. 
+Popular extensions like BTTV can also add additional emote functionality, 
+by converting unofficial emote phrases into images that can only be seen by other users of said extensions.
+
+#### Follow 
+A method of signing up with a channel so that the user will receive alerts (if requested) of when a channel is live. 
+Followed channels will be displayed on a user's channel page, as well as a list of the users that follow their channel.
+
+#### Frame 
+A single image that, when ran in conjunction with other images, forms a moving picture. 
+A stream will typically run at a rate of 30 to 60 frames per second (FPS) to create a fluid video. 
+If the streaming device has difficulty encoding frames at any point, 
+or if the connection between the streaming device and Twitch servers is disrupted, 
+the stream will begin to skip some frames in order to compensate, otherwise known as dropping frames.
+
+#### Friend 
+A user that accepted a friend request from another user. 
+A Friend will be alerted when another friend enters a channel they're in, 
+as well as will be provided with their status on Twitch (online/busy/idle, streaming, etc.).
+
+#### Global Moderator 
+A role for users on Twitch. 
+Global Moderators are unpaid volunteers selected by Twitch, and have access to moderator tools across all channels. 
+Their role can be identified in chat via the dark green badge containing an axe alongside their name.
+
+#### Highlights 
+A method by which broadcasters and editors can make VODs out of VODs. 
+These VODs have no expiration date, and can be viewed by anyone visiting the channel.
+
+#### Host 
+A method of providing support to another channel, where a broadcaster's channel acts as a portal to another channel's live broadcast. 
+Any viewers that the host's channel has at the time will be applied to the concurrent viewership of the hosted. 
+For this reason, hosts are frequently used as a part of Raiding. 
+To host a channel, a broadcaster must type `/host username` in their own chat. 
+If a channel is hosted while a broadcast is ongoing, the host will deactivate once the channel goes offline.
+
+#### Lurker 
+An informal nickname given to users who view a broadcast without actively interacting with the Chat.
+
+#### Marathons 
+A stream or series of streams that emphasize the length of time as a test of endurance. 
+Some may feature one game activity, while others may only have a loose theme connecting the variety of content. 
+Marathons are frequently used as fundraisers for charities or projects for the broadcaster.
+
+#### Moderator 
+A role for users on Twitch. 
+Moderators are chosen by a broadcaster, and are responsible for enforcing rules within a channel's chat. 
+A Moderator has the power to purge (remove all messages from a specific user), 
+time out (prevent a user from sending messages to the chat for a specified amount of time), 
+and ban (prevent a user from sending messages permanently) in order to maintain order. 
+Their role can be identified in chat via the bright green badge containing a sword alongside their name.
+
+#### Overlay 
+An image or a series of images that are placed over the main content of a broadcast. 
+Typical Overlay components include the name of the streamer, aesthetic borders and flair, 
+information about donations/social media/follows/various other stats, space for a webcam, and more.
+
+#### Panels
+A series of subsections below a channel's video player that can be used to convey whatever information the broadcaster chooses. 
+Each panel can contain a picture that can be linked to another page, if desired. 
+Typical panels include a description of the channel, links to social media, a method of giving money to the broadcaster, channel rules, and more.
+
+#### Partner 
+A designation provided to channels that meet certain requirements, which provides a multitude of features to the broadcaster, 
+including the ability to collect subscription fees, ad revenue, and bits, as well as receive guaranteed Transcoding servers,
+priority placement into beta featured programs, and more. 
+The requirements for Partnership vary from channel to channel, and are reviewed only when a channel applies for the opportunity.
+Partners are required to stream at least 12 days per month.
+
+#### Prime 
+A subscription service made via Amazon Prime.
+For a recurring rate, users can receive a handful of Twitch-specific benefits, 
+including Ads removal, free subscriptions, free games, free badges, and more.
+Viewers with Prime can subscribe to a streamer for free.
+
+#### Raid 
+The process in which a broadcaster directs their viewers to spam messages as they join another channel simultaneously, akin to a flash mob. 
+broadcasters use Raids to support each other with large influxes of viewership, usually when the raid leader has finished their stream.
+
+#### Staff 
+A role on for users on Twitch. 
+Staff members are users that are employed throughout Twitch, 
+and can be spotted in chat via the black badge containing a wrench alongside their name.
+
+#### Streaming 
+The process by which a broadcaster uses a program to transmit images and sound from their device to Twitch, and therefore allow others to view.
+
+#### Subscription 
+A monthly payment users can make to Partnered channels in exchange for emotes and other benefits that vary from channel to channel. 
+Users can choose to pay $4.99 USD, $9.99 USD, or $24.99 USD if the option has been provided by the channel, 
+and each provide a percentage back to the channel owner.
+
+#### Team 
+A group of channels on Twitch. 
+Partnered channels can create Teams to work together alongside other channels, Partnered or not, to better assist in growth and community building.
+
+#### Transcoding 
+The method by which Twitch can reduce the original quality of a broadcaster's stream in order to allow more devices to view it. 
+Some viewers may not be able to view a broadcaster's stream at the original bitrate provided, and so by reducing the quality, 
+Twitch can reduce the bitrate needed to view it by the user.
+
+#### Turbo 
+Similar to Prime. Provides the same features as Prime, at a higher cost.
+
+#### Verified 
+A badge provided to Partnered channels that can be seen in any chat on Twitch. 
+The Verified badge is purple, and contains a check mark.
+
+#### Video on Demand (VOD) 
+A previously-recorded video that is viewable on Twitch. 
+Streams on Twitch can generate recorded VODs on Twitch, if requested, to serve as a location for viewers to catch streams they either missed or wished to see again. 
+VODs can also be uploaded to Twitch manually by a user. 
+VODs can be named and provided with thumbnails by the broadcaster and their editors, and can be viewed by anyone visiting the channel. 
+Stream recordings on standard channels will be automatically deleted 14 days after the stream occurred, 
+while Partners and users that have Prime or Turbo can keep them for 60 days. 
+Highlighted and uploaded VODs will remain on the site until the owner deletes them.
+
+#### Whisper 
+A private message sent to users that can only be seen by those involved. 
+A whisper may be viewed within the Chat, as well as separate windows generated when a whisper is attempted.
+
+#### Lurker 
+Someone who watches the stream but doesn't actively participate in chat.
+
+</details>
+
+
 ## Stars
 
 ![Stars over time](https://starchart.cc/juancarlospaco/obs-starter-kit.svg "Star OBS-Starter-Kit on GitHub!")

@@ -111,6 +111,15 @@ if you dont understand why a lot of people on your chat types `monkaS` is probab
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
 
+## RIPcord
+
+![](https://cancel.fm/ripcord/static/ripcord_screenshot_win_6.png)
+
+[RIPCord](https://cancel.fm/ripcord) is an alternative Discord Chat Client.
+RIPcord is a lot faster and more ligh weight compared to the official one,
+it is written in C and Qt 5, has Dark theme and also supports Slack chats.
+
+
 ## TwitchRoulette
 
 [TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers. 

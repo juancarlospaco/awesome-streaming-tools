@@ -25,9 +25,15 @@ Plugins should be installed to `~/.config/obs-studio/plugins/` on Linux,
 
 ![](streamelements.png)
 
-- [Streamelements](https://streamelements.com) is a Free service that provides Overlays, 
-  Alerts, Monetization, Merchandasing Store, Chat Bots, Spam Filters, Stats, Chat Commands,
-  Media Requests (viewers can musicalize the stream via Youtube links), Stats and more for streamers.
+[Streamelements](https://streamelements.com) is a Free service that provides Overlays,
+Alerts, Monetization, Merchandasing Store, Chat Bots, Spam Filters, Stats, Chat Commands,
+Media Requests (viewers can musicalize the stream via Youtube links), Stats and more for streamers.
+
+All the Overlays are provided via 1 URL link that you use on your OBS Studio "Browser Source" (`obs-linuxbrowser`).
+Overlays has an online web visual editor with a lot of free themes to use and remix.
+
+Overlays and Alerts are important because is the only *visual* way to know when someone is giving you money,
+like Donations, Bits, Cheers, etc and also important events like Raids with lots of new viewers.
 
 
 ## Clementine

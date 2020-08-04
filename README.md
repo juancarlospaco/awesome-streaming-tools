@@ -5,10 +5,21 @@
 ![](https://img.shields.io/github/last-commit/juancarlospaco/obs-starter-kit?style=for-the-badge)
 ![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
 
-
-# Tools
-
 These are some visually attractive eye candy and useful tools that you can show off on your stream, install the ones you see fit...
+
+
+# OBS Plugins
+
+- `obs-multi-rtmp` https://github.com/sorayuki/obs-multi-rtmp (Alternative is to use [ReStream](#ReStream) )
+- `obs-linuxbrowser` https://github.com/bazukas/obs-linuxbrowser
+- `obs-input-overlay` https://github.com/univrsal/input-overlay
+- `obs-plugin-spectralizer` https://github.com/univrsal/spectralizer
+- https://github.com/exeldro/obs-move-transition
+
+
+# Overlays
+
+- https://streamelements.com (better than StreamLabs, try it)
 
 
 ## Clementine
@@ -234,7 +245,7 @@ https://www.twitch.tv/ext/6t1ip2ejuoshyb63c9rq9rvacageuk-0.0.1
 
 ## Snow
 
-https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0
+https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0 (Stopped working?)
 
 
 ## Stars

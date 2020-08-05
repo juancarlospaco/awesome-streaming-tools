@@ -271,6 +271,22 @@ https://www.twitch.tv/ext/6t1ip2ejuoshyb63c9rq9rvacageuk-0.0.1
 https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0 (Stopped working?)
 
 
+# Stream Animator
+
+Optional tips and tricks to animate your stream and avoid akward long silences.
+
+- Use Twitch Polls.
+- Ban Trolls with zero tolerance.
+- Remember people to Follow and Subscribe.
+- Use a Chat Bot for Media Requests via Youtube links.
+- Have a "Be Right Back" scene with video with music and chat.
+- Think everything in loud voice, describe everything you think and do.
+- Have a "Polemic Topic" to chat and opinion about on each stream, 
+  the more polemic the better, that will bait them to chat.
+- The "Viewer Geolocation" Twitch extension is useful to know where viewers are from,
+  ask random questions about the country were most viewers watches you from, that will bait them to chat.
+
+
 ## Livestreaming slang: Twitch Glossary
 
 <details>

@@ -140,6 +140,9 @@ with this service 100% of the money goes to you, as far as we know it works inte
 
 [OpenSelery](https://github.com/protontypes/openselery#continuous-and-transparent-developer-payout) is a decentralized framework for a free and transparent salary distribution in free software. 
 It defines a funding distribution to generate a transparent and adaptable cash flow to your digital project and all its contributors.
+Transparent payout to the developers of your Github project.
+Distribution of money is done via Bitcoin (currently via Coinbase).
+Transparent payout with public Logs.
 
 ## Featured Chats
 

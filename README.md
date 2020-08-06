@@ -192,6 +192,12 @@ Free account do not have stream on public Facebook Live and has a transparent wa
 [PeerFast](https://diegorbaquero.github.io/PeerFast) is a Free Open-Source Internet speed check,
 it runs completely on your PC, it is anonymous, no login nor account required, runs from your browser.
 
+## Blender
+
+[Mixer](https://github.com/ubisoft/mixer#mixer) is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition. 
+It allows multiple Blender users to work on the same scene at the same time. 
+If you livestream digital Art, you can colab with other streamers or viewers.
+
 ## WindowSwap
 
 - https://window-swap.com

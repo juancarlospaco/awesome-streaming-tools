@@ -297,6 +297,8 @@ Optional tips and tricks to animate your stream and avoid akward long silences.
 - Have a "Stream Ending" scene with video with music, chat and countdown.
 - Have a "Technical Difficulties" scene with video with music and chat.
 - Think everything in loud voice, describe everything you think and do.
+- Thank Lurkers for viewing, in a generic way, do not name them, do not call them out,
+  a lot of streamers do not remember this, you can even thank Lurkers on the Starting/Ending/BRB video scenes.
 - Have a "Polemic Topic" to chat and opinion about on each stream, 
   the more polemic the better, that will bait them to chat.
 - The "Viewer Geolocation" Twitch extension is useful to know where viewers are from,

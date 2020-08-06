@@ -136,6 +136,10 @@ when you stream on a fixed constant schedule eventually people will start asking
 this is the only service we can find that do not take a big chunk of your donation,
 with this service 100% of the money goes to you, as far as we know it works internationally.
 
+## OpenSelery
+
+[OpenSelery](https://github.com/protontypes/openselery#continuous-and-transparent-developer-payout) is a decentralized framework for a free and transparent salary distribution in free software. 
+It defines a funding distribution to generate a transparent and adaptable cash flow to your digital project and all its contributors.
 
 ## Featured Chats
 

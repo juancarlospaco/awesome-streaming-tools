@@ -280,6 +280,9 @@ Optional tips and tricks to animate your stream and avoid akward long silences.
 - Remember people to Follow and Subscribe.
 - Use a Chat Bot for Media Requests via Youtube links.
 - Have a "Be Right Back" scene with video with music and chat.
+- Have a "Starting Soon" scene with video with music, chat and countdown.
+- Have a "Stream Ending" scene with video with music, chat and countdown.
+- Have a "Technical Difficulties" scene with video with music and chat.
 - Think everything in loud voice, describe everything you think and do.
 - Have a "Polemic Topic" to chat and opinion about on each stream, 
   the more polemic the better, that will bait them to chat.

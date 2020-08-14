@@ -218,6 +218,29 @@ Speech to text online, Mac, Windows and Linux integration.
 Direct speech input in Windows, Mac and Linux. Voice typing to clipboard. 
 Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.
 
+
+## Tetris Online Multiplayer
+
+- [Tetrio](https://tetr.io) is an free online multiplayer with custom rooms that you can use to play with viewers.
+
+
+## Skribbl
+
+- [Tetrio](https://skribbl.io) is an free online multiplayer that you can use to play with viewers. Rooms are randomized.
+
+
+## GeoGuessr
+
+- [GeoGuessr](https://www.geoguessr.com) is an online multiplayer Geography Trivia game that you can use to play with viewers. 
+  Places to guess are randomized. You must pay to use it, free tier is 1 game per day. Has a dedicated category on Twitch.
+
+
+## DuoLingo
+
+- [DuoLingo](https://www.duolingo.com) is a free game app to learn spoken languages that you can use to play with viewers. 
+  Has a dedicated category on Twitch.
+
+
 ## E-Girls
 
 Do you want to stream a multi-player game and no one of your friends like to play the game?,

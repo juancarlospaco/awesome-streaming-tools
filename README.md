@@ -12,7 +12,7 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 | | | | |
 |:--------:|:--------:|:--------:|:--------:|
-| [OBS Plugins](#obs-plugins) | [Overlays](#overlays) | [Desktop Apps](#desktop-apps) | [# Web Based Tools](#web-based-tools) |
+| [OBS Plugins](#obs-plugins) | [Overlays](#overlays) | [Desktop Apps](#desktop-apps) | [Web Based Tools](#web-based-tools) |
 | [Mobile Apps](#mobile-apps) | [Twitch Extensions](#twitch-extensions) | [Stream Animator](#stream-animator) | [Livestreaming Glossary](#livestreaming-slang-twitch-glossary)         |
 
 

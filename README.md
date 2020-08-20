@@ -22,7 +22,7 @@ Visually attractive eye candy and useful tools that you can show off on your str
 - `obs-linuxbrowser` https://github.com/bazukas/obs-linuxbrowser
 - `obs-input-overlay` https://github.com/univrsal/input-overlay
 - `obs-plugin-spectralizer` https://github.com/univrsal/spectralizer
-- https://github.com/exeldro/obs-move-transition
+- OBS Move Transitions https://github.com/exeldro/obs-move-transition
 
 Plugins are `*.so` files on Linux and Mac, and `*.dll` on Windows.
 Plugins should be installed to `~/.config/obs-studio/plugins/` on Linux,
@@ -46,6 +46,51 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 # Desktop Apps
 
+## BetterTTV
+
+![](betterttv.png)
+
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV)
+that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
+if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
+you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
+
+
+## Orion
+
+[Orion](https://alamminsalo.github.io/orion) is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working,
+emojis and unicode works, copy&paste works, is very lightweight being coded on C++, it wont replace the web but if you only need to watch streams is very comfy.
+
+[![](https://user-images.githubusercontent.com/5585454/27840063-b6429fce-60fe-11e7-9e96-54d6d0657953.png)](https://alamminsalo.github.io/orion)
+
+
+## Webcamoid
+
+[Webcamoid](https://webcamoid.github.io) is an open source Qt5 WebCam app with advanced settings and real time filters and effects,
+is very lightweight being coded on C, uses few resources, it can add custom effects to your webcam on real time,
+it can cover faces with PNG images, it can blurry faces, it can add face masks, cover you with fire or glow halo and more fancy toys.
+
+[![](https://webcamoid.github.io/theme/images/screenshots/Effects.png)](https://webcamoid.github.io "Real time effects for your camera")
+
+
+## Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com) is an open source ElectronJS code editor that [has stream oriented plugins](https://dev.to/ninjabunny9000/5-useful-vscode-extensions-for-live-coding-239b),
+that allows your viewers to interact with the editor and the code in it using chat commands and more.
+It is the only editor that we can find that has stream oriented plugins.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--s0A4Ri0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/clarkio/vscode-twitch-highlighter/raw/master/resources/intro-vid.gif)
+
+
+## RIPcord
+
+![](https://cancel.fm/ripcord/static/ripcord_screenshot_win_6.png)
+
+[RIPCord](https://cancel.fm/ripcord) is an alternative Discord Chat Client.
+RIPcord is a lot faster and more ligh weight compared to the official one,
+it is written in C and Qt 5, has Dark theme and also supports Slack chats.
+
+
 ## Clementine
 
 [Clementine Music Player](https://www.clementine-player.org) is an open source crossplatform Qt5 Music player with very modern and visually attractive UI,
@@ -59,15 +104,6 @@ It can show random baby Kitten photos for missing music cover photos.
 If you dont have Designs for *"Will be back soon"* kind of screens, just leaving the player on shuffle will do, at least for a while.
 
 [![](https://raw.githubusercontent.com/juancarlospaco/obs-starter-kit/master/clementine.png "Visually attractive music player!")](https://www.clementine-player.org)
-
-
-## Webcamoid
-
-[Webcamoid](https://webcamoid.github.io) is an open source Qt5 WebCam app with advanced settings and real time filters and effects,
-is very lightweight being coded on C, uses few resources, it can add custom effects to your webcam on real time,
-it can cover faces with PNG images, it can blurry faces, it can add face masks, cover you with fire or glow halo and more fancy toys.
-
-[![](https://webcamoid.github.io/theme/images/screenshots/Effects.png)](https://webcamoid.github.io "Real time effects for your camera")
 
 
 ## Flameshot
@@ -86,23 +122,6 @@ with configurable effects, you can disable any or all effects too, copy&paste wo
 [![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term)
 
 
-## Visual Studio Code
-
-[Visual Studio Code](https://code.visualstudio.com) is an open source ElectronJS code editor that [has stream oriented plugins](https://dev.to/ninjabunny9000/5-useful-vscode-extensions-for-live-coding-239b),
-that allows your viewers to interact with the editor and the code in it using chat commands and more.
-It is the only editor that we can find that has stream oriented plugins.
-
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--s0A4Ri0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/clarkio/vscode-twitch-highlighter/raw/master/resources/intro-vid.gif)
-
-
-## Orion
-
-[Orion](https://alamminsalo.github.io/orion) is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working,
-emojis and unicode works, copy&paste works, is very lightweight being coded on C++, it wont replace the web but if you only need to watch streams is very comfy.
-
-[![](https://user-images.githubusercontent.com/5585454/27840063-b6429fce-60fe-11e7-9e96-54d6d0657953.png)](https://alamminsalo.github.io/orion)
-
-
 ## SWCursor
 
 [SWCursor](https://github.com/andykitchen/swcursor#swcursor) is a simple C program that allows you to use any PNG image as Mouse cursor,
@@ -111,30 +130,12 @@ so you can use your Logo as cursor or an extra big cursor on your stream. You ca
 [![](https://raw.githubusercontent.com/andykitchen/swcursor/master/screenshot.png)](https://github.com/andykitchen/swcursor#swcursor)
 
 
-## RIPcord
-
-![](https://cancel.fm/ripcord/static/ripcord_screenshot_win_6.png)
-
-[RIPCord](https://cancel.fm/ripcord) is an alternative Discord Chat Client.
-RIPcord is a lot faster and more ligh weight compared to the official one,
-it is written in C and Qt 5, has Dark theme and also supports Slack chats.
-
-
 ## Blender
 
 [Mixer](https://github.com/ubisoft/mixer#mixer) is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition. 
 It allows multiple Blender users to work on the same scene at the same time. 
 If you livestream digital Art, you can colab with other streamers or viewers.
 
-
-## BetterTTV
-
-![](betterttv.png)
-
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV)
-that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
-if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
-you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
 # Mobile Apps
 
@@ -150,6 +151,36 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 [TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers. 
 Say hi! Make new Friends!.
+
+
+## MultiTwitch
+
+You can use [MultiTwitch](http://www.multitwitch.tv) to watch any number of [Twitch](https://www.twitch.tv) streams at the same time (as long as your computer can handle it). 
+Simply put the streams you want in the url. 
+[MultiTwitch](http://www.multitwitch.tv) will optimize the layout of streams to give you the maximum size on each of the streams, 
+while maintaining aspect ratio. 
+Source https://github.com/bhamrick/multitwitch
+
+
+## ReStream
+
+[ReStream](https://restream.io) re-streams your stream into several platforms for free,
+you need to register and it will provide you with an URL and secret token to use on OBS.
+Free account do not have stream on public Facebook Live and has a transparent watermark.
+
+![](restream.png)
+
+
+## Featured Chats
+
+https://featured.chat is a free web tool for Streamers created by [Djwheat](https://twitch.tv/djwheat), 
+it is a tool to showcase and groom all the chat activity on a channel and feature individual chat messages on screen in the broadcast.
+
+It is not an extension: The tool is made up of 2 web pages.
+One for Management, a webpage in your browser to curate/moderate the messages,
+one for your broadcast software, a browser source you can plug into OBS. 
+
+Documentation Manual: https://featured.chat/manual
 
 
 ## LiberaPay
@@ -170,27 +201,6 @@ Transparent payout to the developers of your Github project.
 Distribution of money is done via Bitcoin (currently via Coinbase).
 Transparent payout with public Logs.
 
-## Featured Chats
-
-https://featured.chat is a free web tool for Streamers created by [Djwheat](https://twitch.tv/djwheat), 
-it is a tool to showcase and groom all the chat activity on a channel and feature individual chat messages on screen in the broadcast.
-
-It is not an extension: The tool is made up of 2 web pages.
-One for Management, a webpage in your browser to curate/moderate the messages,
-one for your broadcast software, a browser source you can plug into OBS. 
-
-Documentation Manual: https://featured.chat/manual
-
-
-## MultiTwitch
-
-You can use [MultiTwitch](http://www.multitwitch.tv) to watch any number of [Twitch](https://www.twitch.tv) streams at the same time (as long as your computer can handle it). 
-Simply put the streams you want in the url. 
-[MultiTwitch](http://www.multitwitch.tv) will optimize the layout of streams to give you the maximum size on each of the streams, 
-while maintaining aspect ratio. 
-Source https://github.com/bhamrick/multitwitch
-
-
 ## ShowMeTheWay
 
 [ShowMeTheWay](https://osmlab.github.io/show-me-the-way) is an open source web service that shows real time updates on [OpenStreetMap](https://www.openstreetmap.org),
@@ -206,13 +216,6 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 [Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs,
 you can download full quality music for free to use on your streams and dont get muted, etc.
 
-## ReStream
-
-[ReStream](https://restream.io) re-streams your stream into several platforms for free,
-you need to register and it will provide you with an URL and secret token to use on OBS.
-Free account do not have stream on public Facebook Live and has a transparent watermark.
-
-![](restream.png)
 
 ## PeerFast
 

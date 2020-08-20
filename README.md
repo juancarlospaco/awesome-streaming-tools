@@ -5,7 +5,15 @@
 ![](https://img.shields.io/github/last-commit/juancarlospaco/obs-starter-kit?style=for-the-badge)
 ![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
 
-These are some visually attractive eye candy and useful tools that you can show off on your stream, install the ones you see fit...
+Visually attractive eye candy and useful tools that you can show off on your stream, install the ones you see fit...
+
+
+# Table Of Contents
+
+| | | | |
+|:--------:|:--------:|:--------:|:--------:|
+| [OBS Plugins](#obs-plugins) | [Overlays](#overlays) | [Desktop Apps](#desktop-apps) | [# Web Based Tools](#web-based-tools) |
+| [Mobile Apps](#mobile-apps) | [Twitch Extensions](#twitch-extensions) | [Stream Animator](#stream-animator) | [Livestreaming Glossary](#livestreaming-slang-twitch-glossary)         |
 
 
 # OBS Plugins
@@ -35,6 +43,8 @@ Overlays has an online web visual editor with a lot of free themes to use and re
 Overlays and Alerts are important because is the only *visual* way to know when someone is giving you money,
 like Donations, Bits, Cheers, etc and also important events like Raids with lots of new viewers.
 
+
+# Desktop Apps
 
 ## Clementine
 
@@ -101,6 +111,22 @@ so you can use your Logo as cursor or an extra big cursor on your stream. You ca
 [![](https://raw.githubusercontent.com/andykitchen/swcursor/master/screenshot.png)](https://github.com/andykitchen/swcursor#swcursor)
 
 
+## RIPcord
+
+![](https://cancel.fm/ripcord/static/ripcord_screenshot_win_6.png)
+
+[RIPCord](https://cancel.fm/ripcord) is an alternative Discord Chat Client.
+RIPcord is a lot faster and more ligh weight compared to the official one,
+it is written in C and Qt 5, has Dark theme and also supports Slack chats.
+
+
+## Blender
+
+[Mixer](https://github.com/ubisoft/mixer#mixer) is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition. 
+It allows multiple Blender users to work on the same scene at the same time. 
+If you livestream digital Art, you can colab with other streamers or viewers.
+
+
 ## BetterTTV
 
 ![](betterttv.png)
@@ -110,15 +136,15 @@ that adds extra features to Twitch stream chats like animated emotes and more, i
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
+# Mobile Apps
 
-## RIPcord
+## Twire
 
-![](https://cancel.fm/ripcord/static/ripcord_screenshot_win_6.png)
+[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,
+is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
 
-[RIPCord](https://cancel.fm/ripcord) is an alternative Discord Chat Client.
-RIPcord is a lot faster and more ligh weight compared to the official one,
-it is written in C and Qt 5, has Dark theme and also supports Slack chats.
 
+# Web Based Tools
 
 ## TwitchRoulette
 
@@ -165,12 +191,6 @@ while maintaining aspect ratio.
 Source https://github.com/bhamrick/multitwitch
 
 
-## Twire
-
-[Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,
-is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.
-
-
 ## ShowMeTheWay
 
 [ShowMeTheWay](https://osmlab.github.io/show-me-the-way) is an open source web service that shows real time updates on [OpenStreetMap](https://www.openstreetmap.org),
@@ -198,12 +218,6 @@ Free account do not have stream on public Facebook Live and has a transparent wa
 
 [PeerFast](https://diegorbaquero.github.io/PeerFast) is a Free Open-Source Internet speed check,
 it runs completely on your PC, it is anonymous, no login nor account required, runs from your browser.
-
-## Blender
-
-[Mixer](https://github.com/ubisoft/mixer#mixer) is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition. 
-It allows multiple Blender users to work on the same scene at the same time. 
-If you livestream digital Art, you can colab with other streamers or viewers.
 
 ## WindowSwap
 
@@ -563,4 +577,4 @@ Someone who watches the stream but doesn't actively participate in chat.
 - Basically the resources contributed here must be clean, if you want to link your page and charge for premium resources there, is Ok, but resources on this repo must be clean.
 
 
-[  ⬆️  ⬆️  ⬆️  ⬆️  ](#awesome-obs "Go to top")
+[  ⬆️  ⬆️  ⬆️  ⬆️  ](#table-of-contents "Go to top")

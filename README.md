@@ -24,9 +24,11 @@ Visually attractive eye candy and useful tools that you can show off on your str
 - `obs-plugin-spectralizer` https://github.com/univrsal/spectralizer
 - OBS Move Transitions https://github.com/exeldro/obs-move-transition
 
-Plugins are `*.so` files on Linux and Mac, and `*.dll` on Windows.
-Plugins should be installed to `~/.config/obs-studio/plugins/` on Linux,
-`C:\Program Files\OBS-Studio\obs-plugins\64bit\` on Windows.
+**Plugin Install:**
+
+- Linux: Plugins should be installed to `~/.config/obs-studio/plugins/`
+- Windows: `C:\Program Files\OBS-Studio\obs-plugins\64bit\`
+- Plugins are `*.so` files on Linux and Mac, and `*.dll` on Windows.
 
 
 # Overlays

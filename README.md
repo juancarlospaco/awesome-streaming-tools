@@ -149,6 +149,15 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 # Web Based Tools
 
+## ReStream
+
+[ReStream](https://restream.io) re-streams your stream into several platforms for free,
+you need to register and it will provide you with an URL and secret token to use on OBS.
+Free account do not have stream on public Facebook Live and has a transparent watermark.
+
+![](restream.png)
+
+
 ## TwitchRoulette
 
 [TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers. 
@@ -162,15 +171,6 @@ Simply put the streams you want in the url.
 [MultiTwitch](http://www.multitwitch.tv) will optimize the layout of streams to give you the maximum size on each of the streams, 
 while maintaining aspect ratio. 
 Source https://github.com/bhamrick/multitwitch
-
-
-## ReStream
-
-[ReStream](https://restream.io) re-streams your stream into several platforms for free,
-you need to register and it will provide you with an URL and secret token to use on OBS.
-Free account do not have stream on public Facebook Live and has a transparent watermark.
-
-![](restream.png)
 
 
 ## Featured Chats
@@ -201,7 +201,7 @@ with this service 100% of the money goes to you, as far as we know it works inte
 It defines a funding distribution to generate a transparent and adaptable cash flow to your digital project and all its contributors.
 Transparent payout to the developers of your Github project.
 Distribution of money is done via Bitcoin (currently via Coinbase).
-Transparent payout with public Logs.
+Transparent payout with public Logs. This tools remains to be investigated, but is still in development too.
 
 ## ShowMeTheWay
 

@@ -240,7 +240,8 @@ Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.
 
 ## Tetris Online Multiplayer
 
-- [Tetrio](https://tetr.io) is an free online multiplayer with custom rooms that you can use to play with viewers.
+- [Tetrio](https://tetr.io) is a free open source online multiplayer with custom rooms that you can use to play with viewers.
+  Desktop App for Linux, Windows, Mac. 
 
 
 ## Skribbl

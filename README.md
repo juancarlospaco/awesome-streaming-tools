@@ -132,6 +132,13 @@ so you can use your Logo as cursor or an extra big cursor on your stream. You ca
 [![](https://raw.githubusercontent.com/andykitchen/swcursor/master/screenshot.png)](https://github.com/andykitchen/swcursor#swcursor)
 
 
+## Oneko
+
+Kitten that chases the mouse pointer desktop toy, very very lightweight and simple.
+http://www.daidouji.com/oneko
+https://aur.archlinux.org/packages/oneko
+
+
 ## Blender
 
 [Mixer](https://github.com/ubisoft/mixer#mixer) is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition. 

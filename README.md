@@ -18,7 +18,8 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-- `obs-multi-rtmp` https://github.com/sorayuki/obs-multi-rtmp (Alternative is to use [ReStream](#ReStream) )
+- `obs-multi-rtmp` https://github.com/sorayuki/obs-multi-rtmp (Alternative is to use [
+](#ReStream) )
 - `obs-linuxbrowser` https://github.com/bazukas/obs-linuxbrowser
 - `obs-input-overlay` https://github.com/univrsal/input-overlay
 - `obs-plugin-spectralizer` https://github.com/univrsal/spectralizer
@@ -160,7 +161,6 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 [ReStream](https://restream.io) re-streams your stream into several platforms for free,
 you need to register and it will provide you with an URL and secret token to use on OBS.
-Free account do not have stream on public Facebook Live and has a transparent watermark.
 
 ![](restream.png)
 

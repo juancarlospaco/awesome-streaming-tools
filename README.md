@@ -1,7 +1,7 @@
 # Awesome Streaming Tools
 
 ![](https://img.shields.io/github/stars/juancarlospaco/obs-starter-kit?style=for-the-badge)
-![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
+![](https://img.shields.io/maintenance/yes/2021?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/juancarlospaco/obs-starter-kit?style=for-the-badge)
 ![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
 

@@ -273,6 +273,11 @@ Kilometer or Miles option, 2x video speed, option to jump back 10 seconds on the
 [Keyma.sh](https://keyma.sh) online multiplayer Typing race game where you can go head to head versus players around the world.
 [Has a dedicated category on Twitch.](https://www.twitch.tv/directory/game/Keyma.sh)
 
+## Mozilla Hubs
+
+https://hubs.mozilla.com
+
+
 ## DuoLingo
 
 - [DuoLingo](https://www.duolingo.com) is a free game app to learn spoken languages that you can use to play with viewers. 

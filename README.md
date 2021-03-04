@@ -266,7 +266,7 @@ Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.
 [City Guesser](https://virtualvacation.us/multiplayer) is similar to GeoGuessr but free and uses video with audio instead.
 Free multiplayer private rooms with admin customized settings, Streamer mode, no registration required,
 people can join by PIN or link, singlePlayer mode, rankings and leaderboard at the end of the game, all game flow has auto timeout,
-Kilometer or Miles option, 2x video speed, option to jump back 10 seconds on the video.
+Kilometer or Miles option, 2x video speed, option to jump back 10 seconds on the video. [Has a dedicated category on Twitch.](https://www.twitch.tv/directory/game/City%20Guesser)
 
 ## DuoLingo
 

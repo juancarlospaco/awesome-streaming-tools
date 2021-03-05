@@ -283,6 +283,10 @@ https://hubs.mozilla.com
 - [DuoLingo](https://www.duolingo.com) is a free game app to learn spoken languages that you can use to play with viewers. 
   Has a dedicated category on Twitch.
 
+## HigherLower
+
+- http://www.higherlowergame.com
+
 
 ## E-Girls
 

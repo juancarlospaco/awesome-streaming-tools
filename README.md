@@ -304,6 +304,9 @@ so Twitch Extensions without Bits, at least for basic functionality are preferre
 
 The Gaming stream extensions are over-saturated, the Tech stream extensions are underrated.
 
+## Overlays as Extensions
+
+https://dashboard.twitch.tv/extensions/tdldrg6rlw5eewiwcpxo3dv0obyckc-0.9.1
 
 ## GitHub Projects
 

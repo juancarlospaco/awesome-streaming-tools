@@ -304,6 +304,14 @@ so Twitch Extensions without Bits, at least for basic functionality are preferre
 
 The Gaming stream extensions are over-saturated, the Tech stream extensions are underrated.
 
+## Exclusive Content for Subscribers
+
+https://dashboard.twitch.tv/extensions/7kodks69rwf64tad7558abd0268uzl-0.0.4
+
+## Streamer Timezone
+
+https://dashboard.twitch.tv/extensions/zowhdiwf4lqqoa99rphz5y38235qxu-0.0.1
+
 ## Overlays as Extensions
 
 https://dashboard.twitch.tv/extensions/tdldrg6rlw5eewiwcpxo3dv0obyckc-0.9.1
@@ -319,6 +327,10 @@ https://www.twitch.tv/ext/4pk2cbv7h3ur5j934vhe0gt8a829tj-1.1.2
 ## GitHub Profile
 
 https://www.twitch.tv/ext/ipthd4t8w0euh9djnycwc4a12e0694-1.1.2
+
+## StackOverflow Profile
+
+https://dashboard.twitch.tv/extensions/e2vjyjiur6ak0mip91qrjnjcliq8n8-1.0.1
 
 # Uptime & Watchtime
 
@@ -355,6 +367,10 @@ https://www.twitch.tv/ext/6t1ip2ejuoshyb63c9rq9rvacageuk-0.0.1
 ## Snow
 
 https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0 (Stopped working?)
+
+## Streamer on a Map
+
+https://dashboard.twitch.tv/extensions/1pr3m2sq25u56a8xeg1ntoc5za9mep-1.0.0
 
 
 # Stream Animator

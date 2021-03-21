@@ -48,7 +48,10 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 # Fiver Twitch Store
 
-- Anything you need for a few dollars https://www.fiverr.com/stores/twitch
+Anything you need for a few dollars 
+
+- https://www.fiverr.com/stores/twitch
+- https://www.fiverr.com/categories/programming-tech/development-for-streamers
 
 
 # Desktop Apps

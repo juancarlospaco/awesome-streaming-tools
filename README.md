@@ -280,6 +280,11 @@ Kilometer or Miles option, 2x video speed, option to jump back 10 seconds on the
 [Keyma.sh](https://keyma.sh) online multiplayer Typing race game where you can go head to head versus players around the world.
 [Has a dedicated category on Twitch.](https://www.twitch.tv/directory/game/Keyma.sh)
 
+## JSTris
+
+https://www.twitch.tv/directory/game/Jstris
+https://jstris.jezevec10.com
+
 ## Mozilla Hubs
 
 https://hubs.mozilla.com

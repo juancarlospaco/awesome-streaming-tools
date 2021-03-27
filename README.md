@@ -268,6 +268,10 @@ Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.
 - [GeoGuessr](https://www.geoguessr.com) is an online multiplayer Geography Trivia game that you can use to play with viewers. 
   Places to guess are randomized. You must pay to use it, free tier is 1 game per day. Has a dedicated category on Twitch.
 
+See also:
+- https://geotips.net
+
+
 ## City Guesser
 
 [City Guesser](https://virtualvacation.us/multiplayer) is similar to GeoGuessr but free and uses video with audio instead.

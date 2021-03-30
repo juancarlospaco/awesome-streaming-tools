@@ -23,6 +23,7 @@ Visually attractive eye candy and useful tools that you can show off on your str
 - `obs-linuxbrowser` https://github.com/bazukas/obs-linuxbrowser
 - `obs-input-overlay` https://github.com/univrsal/input-overlay
 - `obs-plugin-spectralizer` https://github.com/univrsal/spectralizer
+- `closed-captioning-obs-plugin` https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin
 - OBS Move Transitions https://github.com/exeldro/obs-move-transition
 
 **Plugin Install:**

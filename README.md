@@ -312,6 +312,10 @@ Do you want to stream a multi-player game and no one of your friends like to pla
 you can rent [E-Girls](http://egirl.gg) to play game sessions with you (or [E-Boys](http://egirl.gg)).
 The service is NOT Free, you must pay, prices may vary.
 
+## Live Curtain
+
+[Live Curtain](https://livecurtain.com) is a web page that displays a message of your choice, and an optional countdown clock. It's easy to use, whenever you want to show a message to your audience, such as: a 'stream starting soon' screen, or to say you're on a break. Enter your text, choose a theme, and share your browser window in your streaming tool.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

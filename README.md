@@ -200,6 +200,12 @@ one for your broadcast software, a browser source you can plug into OBS.
 Documentation Manual: https://featured.chat/manual
 
 
+## Gather Town
+
+https://gather.town free tier up to 25 people, free for guests, everyone can build stuff like a game, chat, video and audio streaming calls, can login with Google,
+password protection option, Admins can configure the virtual spaces, 2D game look and feel makes it lightweight and fun, lots of maps.
+
+
 ## LiberaPay
 
 ![](liberapay.jpg)

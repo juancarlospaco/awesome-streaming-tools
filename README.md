@@ -25,6 +25,7 @@ Visually attractive eye candy and useful tools that you can show off on your str
 - `obs-plugin-spectralizer` https://github.com/univrsal/spectralizer
 - `closed-captioning-obs-plugin` https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin
 - OBS Move Transitions https://github.com/exeldro/obs-move-transition
+- OBS Background removal https://github.com/royshil/obs-backgroundremoval#introduction
 
 **Plugin Install:**
 

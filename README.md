@@ -209,7 +209,7 @@ password protection option, Admins can configure the virtual spaces, 2D game loo
 
 ## Voice Avatar
 
-Waifu Avatar Voice Synth online free https://nanakoe-nina.dena.ai
+Waifu Avatar Voice Synth, free online anonymous no-registration https://nanakoe-nina.dena.ai
 After making a new recording click on "Good" button and it will give you a download button.
 
 

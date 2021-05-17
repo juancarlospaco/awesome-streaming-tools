@@ -207,6 +207,12 @@ https://gather.town free tier up to 25 people, free for guests, everyone can bui
 password protection option, Admins can configure the virtual spaces, 2D game look and feel makes it lightweight and fun, lots of maps.
 
 
+## Voice Avatar
+
+Waifu Avatar Voice Synth online free https://nanakoe-nina.dena.ai
+After making a new recording click on "Good" button and it will give you a download button.
+
+
 ## LiberaPay
 
 ![](liberapay.jpg)

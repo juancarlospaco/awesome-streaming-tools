@@ -173,7 +173,10 @@ you need to register and it will provide you with an URL and secret token to use
 
 ![](restream.png)
 
+## Pogged TV
 
+Uses AI to analize video and chat in real time and generate a 24/7 continous stream of "Pog Moments" on Twitch https://pogged.tv
+https://pogged.tv/
 ## TwitchRoulette
 
 [TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers. 

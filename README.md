@@ -658,11 +658,6 @@ Someone who watches the stream but doesn't actively participate in chat.
 </details>
 
 
-# Stars
-
-![](https://starchart.cc/juancarlospaco/awesome-streaming-tools.svg)
-
-
 # Disclaimer
 
 Cringe warning, some of the info are copy-pasted from unusual places like dead blogs or the waybackmachine or similar,
@@ -777,3 +772,8 @@ $juancarlospaco
 
 
 [  ⬆️  ⬆️  ⬆️  ⬆️  ](#table-of-contents "Go to top")
+
+
+# Stars
+
+![](https://starchart.cc/juancarlospaco/awesome-streaming-tools.svg)

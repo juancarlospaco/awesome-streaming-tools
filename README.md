@@ -788,3 +788,4 @@ $juancarlospaco
 :star: [@ortega-isai](https://github.com/ortega-isai '2022-04-09')	
 :star: [@RealJustMe](https://github.com/RealJustMe '2022-04-27')	
 :star: [@AlanBeII](https://github.com/AlanBeII '2022-04-27')	
+:star: [@develooper1994](https://github.com/develooper1994 '2022-05-05')	

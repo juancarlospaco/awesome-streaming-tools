@@ -792,3 +792,4 @@ $juancarlospaco
 :star: [@ChristianFrisson](https://github.com/ChristianFrisson '2022-05-07')	
 :star: [@paperManu](https://github.com/paperManu '2022-05-07')	
 :star: [@LeWarpy](https://github.com/LeWarpy '2022-05-08')	
+:star: [@MaxSonicDev](https://github.com/MaxSonicDev '2022-05-08')	

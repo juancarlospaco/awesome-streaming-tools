@@ -281,7 +281,7 @@ Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.
 
 ## Skribbl
 
-- [Tetrio](https://skribbl.io) is an free online multiplayer that you can use to play with viewers. Rooms are randomized.
+- [Skribbl.io](https://skribbl.io) is a free online multiplayer drawing and guessing game that can be used to play with viewers. Rooms can either be randomized or private. Custom drawing prompts can be created in private rooms.
 
 
 ## GeoGuessr

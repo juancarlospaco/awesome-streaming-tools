@@ -801,3 +801,4 @@ $juancarlospaco
 :star: [@ant0n-anon](https://github.com/ant0n-anon '2022-06-15')	
 :star: [@FSharpCSharp](https://github.com/FSharpCSharp '2022-06-30')	
 :star: [@MattiaPell](https://github.com/MattiaPell '2022-07-04')	
+:star: [@jonathan-davies-uk](https://github.com/jonathan-davies-uk '2022-08-15')	

@@ -803,3 +803,4 @@ $juancarlospaco
 :star: [@MattiaPell](https://github.com/MattiaPell '2022-07-04')	
 :star: [@jonathan-davies-uk](https://github.com/jonathan-davies-uk '2022-08-15')	
 :star: [@jogerj](https://github.com/jogerj '2022-08-22')	
+:star: [@shadowro14](https://github.com/shadowro14 '2022-08-27')	

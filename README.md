@@ -213,6 +213,9 @@ password protection option, Admins can configure the virtual spaces, 2D game loo
 
 https://bonk.io is a web browser game.
 
+## Jackbox
+
+https://jackbox.tv is a web browser game designed for Twitch.
 
 ## Voice Avatar
 

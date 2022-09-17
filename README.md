@@ -810,3 +810,4 @@ $juancarlospaco
 :star: [@onkelsofus](https://github.com/onkelsofus '2022-08-28')	
 :star: [@CelestialReaver](https://github.com/CelestialReaver '2022-09-04')	
 :star: [@ilyazub](https://github.com/ilyazub '2022-09-16')	
+:star: [@madewithlinux](https://github.com/madewithlinux '2022-09-17')	

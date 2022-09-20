@@ -812,3 +812,4 @@ $juancarlospaco
 :star: [@ilyazub](https://github.com/ilyazub '2022-09-16')	
 :star: [@madewithlinux](https://github.com/madewithlinux '2022-09-17')	
 :star: [@colingourlay](https://github.com/colingourlay '2022-09-20')	
+:star: [@edinella](https://github.com/edinella '2022-09-20')	

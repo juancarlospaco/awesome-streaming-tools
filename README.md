@@ -825,3 +825,4 @@ $juancarlospaco
 :star: [@etrusci-org](https://github.com/etrusci-org '2022-10-26')	
 :star: [@gumbolastima](https://github.com/gumbolastima '2022-10-29')	
 :star: [@L0rdShrek](https://github.com/L0rdShrek '2022-10-30')	
+:star: [@badkarmaMCMXCII](https://github.com/badkarmaMCMXCII '2022-11-02')	

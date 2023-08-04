@@ -886,3 +886,4 @@ $juancarlospaco
 :star: [@austinsonger](https://github.com/austinsonger '2023-07-09')	
 :star: [@drunkod](https://github.com/drunkod '2023-07-18')	
 :star: [@Chloramine](https://github.com/Chloramine '2023-07-21')	
+:star: [@shandanjay](https://github.com/shandanjay '2023-08-04')	

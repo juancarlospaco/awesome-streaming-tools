@@ -913,3 +913,4 @@ $juancarlospaco
 :star: [@GarageMech](https://github.com/GarageMech '2023-12-02')	
 :star: [@jedichrome](https://github.com/jedichrome '2023-12-07')	
 :star: [@m0chimxchi](https://github.com/m0chimxchi '2023-12-10')	
+:star: [@Lehamelexxe](https://github.com/Lehamelexxe '2023-12-14')	

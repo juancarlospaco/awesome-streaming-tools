@@ -918,3 +918,4 @@ $juancarlospaco
 :star: [@AndyMathias](https://github.com/AndyMathias '2023-12-21')	
 :star: [@skylerfrags](https://github.com/skylerfrags '2024-01-03')	
 :star: [@faraz](https://github.com/faraz '2024-01-10')	
+:star: [@EchoRickZz](https://github.com/EchoRickZz '2024-01-11')	

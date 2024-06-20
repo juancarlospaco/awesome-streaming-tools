@@ -942,3 +942,4 @@ $juancarlospaco
 :star: [@Astolfo2001](https://github.com/Astolfo2001 '2024-05-28')	
 :star: [@itscharukadeshan](https://github.com/itscharukadeshan '2024-06-05')	
 :star: [@xrockat](https://github.com/xrockat '2024-06-13')	
+:star: [@w00-die](https://github.com/w00-die '2024-06-20')	

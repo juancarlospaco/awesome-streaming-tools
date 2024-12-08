@@ -974,3 +974,4 @@ $juancarlospaco
 :star: [@luiskba40](https://github.com/luiskba40 '2024-11-24')	
 :star: [@Pent](https://github.com/Pent '2024-11-26')	
 :star: [@Blu3Coding](https://github.com/Blu3Coding '2024-11-30')	
+:star: [@HridayAgg](https://github.com/HridayAgg '2024-12-08')	

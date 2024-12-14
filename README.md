@@ -976,3 +976,4 @@ $juancarlospaco
 :star: [@Blu3Coding](https://github.com/Blu3Coding '2024-11-30')	
 :star: [@HridayAgg](https://github.com/HridayAgg '2024-12-08')	
 :star: [@sametaor](https://github.com/sametaor '2024-12-09')	
+:star: [@CMD-reverse](https://github.com/CMD-reverse '2024-12-14')	

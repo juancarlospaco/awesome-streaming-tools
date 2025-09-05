@@ -1023,3 +1023,4 @@ $juancarlospaco
 :star: [@vritla](https://github.com/vritla '2025-08-18')	
 :star: [@smokedzn](https://github.com/smokedzn '2025-08-29')	
 :star: [@DecentralizedInfo](https://github.com/DecentralizedInfo '2025-09-05')	
+:star: [@leonadler](https://github.com/leonadler '2025-09-05')	

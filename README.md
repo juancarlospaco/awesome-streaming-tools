@@ -1068,3 +1068,4 @@ $juancarlospaco
 :star: [@1Molinari](https://github.com/1Molinari '2026-03-24')	
 :star: [@JTGP1504](https://github.com/JTGP1504 '2026-03-24')	
 :star: [@vincent-cholet](https://github.com/vincent-cholet '2026-03-29')	
+:star: [@MohamedReda-Foshi](https://github.com/MohamedReda-Foshi '2026-04-06')	

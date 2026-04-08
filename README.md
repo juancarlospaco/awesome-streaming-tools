@@ -256,6 +256,10 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 [Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs,
 you can download full quality music for free to use on your streams and dont get muted, etc.
 
+## LiveCollect
+
+[LiveCollect](https://livecollect.tv) is a web-based Twitch tool that turns subscriptions into collectible on-stream pack openings through an OBS browser source. Viewers can collect cards, track rarities, and build their collection over time.
+
 
 ## PeerFast
 

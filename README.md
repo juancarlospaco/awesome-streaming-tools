@@ -260,6 +260,10 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 [Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs,
 you can download full quality music for free to use on your streams and dont get muted, etc.
 
+## LiveCollect
+
+[LiveCollect](https://livecollect.tv) is a web-based Twitch tool that turns subscriptions into collectible on-stream pack openings through an OBS browser source. Viewers can collect cards, track rarities, and build their collection over time.
+
 
 ## PeerFast
 
@@ -1067,3 +1071,11 @@ $juancarlospaco
 :star: [@kw6dgz6m4z-prog](https://github.com/kw6dgz6m4z-prog '2026-02-26')	
 :star: [@theaeomanation](https://github.com/theaeomanation '2026-02-28')	
 :star: [@Muratuser05](https://github.com/Muratuser05 '2026-03-03')	
+:star: [@mccarthy1993](https://github.com/mccarthy1993 '2026-03-19')	
+:star: [@joshi-jhon](https://github.com/joshi-jhon '2026-03-21')	
+:star: [@1Molinari](https://github.com/1Molinari '2026-03-24')	
+:star: [@JTGP1504](https://github.com/JTGP1504 '2026-03-24')	
+:star: [@vincent-cholet](https://github.com/vincent-cholet '2026-03-29')	
+:star: [@MohamedReda-Foshi](https://github.com/MohamedReda-Foshi '2026-04-06')	
+:star: [@Gater73](https://github.com/Gater73 '2026-04-08')	
+:star: [@justanoni](https://github.com/justanoni '2026-04-09')	

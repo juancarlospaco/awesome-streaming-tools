@@ -217,6 +217,10 @@ https://bonk.io is a web browser game.
 
 https://jackbox.tv is a web browser game designed for Twitch.
 
+## BetterStreams
+
+[BetterStreams](https://betterstreams.tv) is a web-based Twitch automation tool. Connect channel point redeems, subs, raids, and 16 other trigger types to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling by game category, cost scaling, and redemption analytics.
+
 ## Voice Avatar
 
 Waifu Avatar Voice Synth, free online anonymous no-registration https://nanakoe-nina.dena.ai

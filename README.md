@@ -278,6 +278,13 @@ it runs completely on your PC, it is anonymous, no login nor account required, r
 
 - https://window-swap.com
 
+## Vizz.fm
+
+[Vizz.fm](https://vizz.fm) is a free browser-based music visualizer.
+Drop the URL into an OBS "Browser Source" and it visualizes your stream's audio.
+Includes customizable scenes and savable presets.
+
+
 ## VoiceNotebook
 
 [VoiceNotebook](https://voicenotebook.com) can save transcriptions of your streams in real time automatically for free,

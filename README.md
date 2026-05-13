@@ -51,6 +51,12 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 [Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
 
+## All-Chat
+
+[All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
+
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at https://github.com/caesarakalaeii/all-chat).
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

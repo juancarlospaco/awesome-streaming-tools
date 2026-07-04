@@ -186,6 +186,13 @@ you need to register and it will provide you with an URL and secret token to use
 
 Uses AI to analize video and chat in real time and generate a 24/7 continous stream of "Pog Moments" on Twitch https://pogged.tv
 https://pogged.tv/
+
+## ClipMe
+
+[ClipMe](https://clipme.com) is an AI clip maker for live streams,
+it turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts,
+ranking the moments using signals that include chat activity.
+
 ## TwitchRoulette
 
 [TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers.

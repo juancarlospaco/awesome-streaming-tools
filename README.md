@@ -376,6 +376,10 @@ The service is NOT Free, you must pay, prices may vary.
 
 [Live Curtain](https://livecurtain.com) is a web page that displays a message of your choice, and an optional countdown clock. It's easy to use, whenever you want to show a message to your audience, such as: a 'stream starting soon' screen, or to say you're on a break. Enter your text, choose a theme, and share your browser window in your streaming tool.
 
+## StreamTranslate
+[StreamTranslate](https://streamtranslate.live) -
+Real-time translated subtitles for Twitch, YouTube, Kick, and TikTok streams in 49 languages through an OBS browser source.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.
@@ -454,6 +458,9 @@ https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0 (Stopped working?
 
 https://dashboard.twitch.tv/extensions/1pr3m2sq25u56a8xeg1ntoc5za9mep-1.0.0
 
+## StreamTranslate
+
+https://dashboard.twitch.tv/extensions/b4k0szr4ie1lbgpfrpesbke7on0ty3 - 1.1.0
 
 # Stream Animator
 

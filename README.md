@@ -180,6 +180,11 @@ is a lot more lightweigth than the official app and the features are almost the 
 [RunCue](https://runcue.fly.dev/launch?utm_source=awesome_streaming_tools&utm_medium=resource_list&utm_campaign=runcue_launch) is a browser timer and cue board for webinars and remote productions.
 The producer controls the clock and private cues while speakers and viewers use separate clean links. Includes a 15-minute trial.
 
+## Kloot
+
+[Kloot](https://kloot.gg) is a live control deck for streamers: one browser source in OBS adds giveaways, polls, lower thirds, alerts and hype effects, all fired manually from your phone.
+Viewers join giveaways and polls by scanning a QR code or typing a short join code, no chat bot required. Free tier available, paid plans from $15/mo.
+
 ## ReStream
 
 [ReStream](https://restream.io) re-streams your stream into several platforms for free,

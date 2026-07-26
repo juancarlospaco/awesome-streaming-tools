@@ -385,6 +385,12 @@ The service is NOT Free, you must pay, prices may vary.
 [StreamTranslate](https://streamtranslate.live) -
 Real-time translated subtitles for Twitch, YouTube, Kick, and TikTok streams in 49 languages through an OBS browser source.
 
+## NoSub
+
+[NoSub](https://nosubapp.com) is a free web player for Twitch and Kick VODs, including sub-only replays the platforms still serve, with the original chat replayed in sync and searchable.
+
+It marks the passages Twitch muted for copyright on the seek bar so you can skip them, shows chapters to jump between games, and cuts shareable clips. No account, nothing to install, available in English, French, Spanish and Portuguese.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

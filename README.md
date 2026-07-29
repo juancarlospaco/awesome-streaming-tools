@@ -175,6 +175,11 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 # Web Based Tools
 
+## Emote Resizer
+
+[Emote Resizer](https://emoteresize.com) is a free, fully client-side tool that resizes one image into every Twitch, Discord, 7TV/BTTV/FFZ, and Slack emote/badge/sticker size.
+Handles PNG and animated GIF, batch processing, and automatic compression. Nothing is uploaded — everything runs in your browser.
+
 ## RunCue
 
 [RunCue](https://runcue.fly.dev/launch?utm_source=awesome_streaming_tools&utm_medium=resource_list&utm_campaign=runcue_launch) is a browser timer and cue board for webinars and remote productions.

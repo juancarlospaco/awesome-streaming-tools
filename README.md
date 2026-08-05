@@ -47,6 +47,10 @@ Overlays has an online web visual editor with a lot of free themes to use and re
 Overlays and Alerts are important because is the only *visual* way to know when someone is giving you money,
 like Donations, Bits, Cheers, etc and also important events like Raids with lots of new viewers.
 
+## NeonStreamLab
+
+[NeonStreamLab](https://neonstreamlab.com/free) offers free themed stream overlay packs for OBS Studio, Streamlabs and StreamElements. Packs include animated starting, BRB and ending screens, webcam frames, chat overlays, alerts and matching panels for Twitch, YouTube, Kick and VTubers.
+
 ## Fikir Overlay
 
 [Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.

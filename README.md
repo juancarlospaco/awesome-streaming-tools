@@ -48,6 +48,10 @@ Overlays has an online web visual editor with a lot of free themes to use and re
 Overlays and Alerts are important because is the only *visual* way to know when someone is giving you money,
 like Donations, Bits, Cheers, etc and also important events like Raids with lots of new viewers.
 
+## NeonStreamLab
+
+[NeonStreamLab](https://neonstreamlab.com/free) offers free themed stream overlay packs for OBS Studio, Streamlabs and StreamElements. Packs include animated starting, BRB and ending screens, webcam frames, chat overlays, alerts and matching panels for Twitch, YouTube, Kick and VTubers.
+
 ## Fikir Overlay
 
 [Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
@@ -76,6 +80,13 @@ Anything you need for a few dollars
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
+
+
+## Boltis
+
+[Boltis](https://boltis.app) is a free Windows app that clips your Twitch stream with one hotkey, saving the last 60 seconds via Twitch's official clip API with no FPS impact. It has a built-in editor to crop clips to vertical, add captions, cuts and GIF/text/image overlays, and export for TikTok and Shorts. You pick the moment live rather than letting AI guess it. Exported clips have no watermark.
+
+[![](https://boltis.app/images/edit-and-export.png)](https://boltis.app)
 
 
 ## Orion
@@ -1142,3 +1153,5 @@ $juancarlospaco
 :star: [@neirneirneir](https://github.com/neirneirneir '2026-07-16')	
 :star: [@marksignals](https://github.com/marksignals '2026-07-17')	
 :star: [@RallySlow92](https://github.com/RallySlow92 '2026-07-23')	
+:star: [@Lady-Hope](https://github.com/Lady-Hope '2026-08-05')	
+:star: [@dylanoco](https://github.com/dylanoco '2026-08-06')	

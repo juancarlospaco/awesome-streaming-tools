@@ -220,6 +220,12 @@ https://pogged.tv/
 it turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts,
 ranking the moments using signals that include chat activity.
 
+## klypra
+
+[klypra](https://klypra.app) is an auto-clipping platform. It watches streams live,
+detects highlights, clips them (+ subtitles and cutting out silence) and delivers them 
+straight to your phone or web dashboard - currently for free.
+
 ## TwitchRoulette
 
 [TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers.

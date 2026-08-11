@@ -62,6 +62,10 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at https://github.com/caesarakalaeii/all-chat).
 
+## CodingFreaks Overlays
+
+[CodingFreaks Overlays](https://twitch-overlays.coding-freaks.com/en/overlays/) is a collection of chat-driven overlays for OBS. Downloads are self-contained HTML files that run locally in your Browser Source, with no cloud service and no account. Viewer points, if you use them, can go through StreamElements, Firebot or Streamer.bot.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

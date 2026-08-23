@@ -206,6 +206,11 @@ The producer controls the clock and private cues while speakers and viewers use 
 [Kloot](https://kloot.gg) is a live control deck for streamers: one browser source in OBS adds giveaways, polls, lower thirds, alerts and hype effects, all fired manually from your phone.
 Viewers join giveaways and polls by scanning a QR code or typing a short join code, no chat bot required. Free tier available, paid plans from $15/mo.
 
+## PickerSpin
+
+[PickerSpin](https://pickerspin.co) is a free browser-based wheel spinner for drawing giveaway winners live on stream, with a dice roller, bingo caller and team picker built in.
+Every draw uses the browser's Web Crypto API before the wheel animates, and there's a public page where viewers can verify the draw wasn't rigged. No signup, no account, nothing to install.
+
 ## ReStream
 
 [ReStream](https://restream.io) re-streams your stream into several platforms for free,

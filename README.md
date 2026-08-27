@@ -110,6 +110,13 @@ it can cover faces with PNG images, it can blurry faces, it can add face masks, 
 [![](https://webcamoid.github.io/theme/images/screenshots/Effects.png)](https://webcamoid.github.io "Real time effects for your camera")
 
 
+## Webcam Settings
+
+[Webcam Settings](https://github.com/tadas-subonis/webcam-settings) is an open source cross-platform C++/Qt desktop app and CLI for discovering and adjusting webcam controls without OBS or vendor software. It verifies camera-accepted values, saves reusable profiles, and can identify applications that are holding a camera open.
+
+[![](https://raw.githubusercontent.com/tadas-subonis/webcam-settings/main/artifacts/12-camera-user-detection.png)](https://github.com/tadas-subonis/webcam-settings)
+
+
 ## Visual Studio Code
 
 [Visual Studio Code](https://code.visualstudio.com) is an open source ElectronJS code editor that [has stream oriented plugins](https://dev.to/ninjabunny9000/5-useful-vscode-extensions-for-live-coding-239b),

@@ -66,13 +66,19 @@ It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions acr
 
 [CodingFreaks Overlays](https://twitch-overlays.coding-freaks.com/en/overlays/) is a collection of chat-driven overlays for OBS. Downloads are self-contained HTML files that run locally in your Browser Source, with no cloud service and no account. Viewer points, if you use them, can go through StreamElements, Firebot or Streamer.bot.
 
+## PixelyChat
+
+[PixelyChat](https://pixelychat.com) is a free desktop app that merges Twitch, YouTube, TikTok, and Kick chat into one
+unified feed you can pipe into OBS/Streamlabs as a live overlay or dock, with built-in neural
+text-to-speech, real-time chat translation, alerts overlays and moderation/bot tools.
+
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
 
 - https://www.fiverr.com/stores/twitch
 - https://www.fiverr.com/categories/programming-tech/development-for-streamers
-
 
 # Desktop Apps
 

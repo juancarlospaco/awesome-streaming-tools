@@ -1188,3 +1188,4 @@ $juancarlospaco
 :star: [@redbouk](https://github.com/redbouk '2026-08-09')	
 :star: [@G10hdz](https://github.com/G10hdz '2026-08-17')	
 :star: [@OpticReshape](https://github.com/OpticReshape '2026-09-04')	
+:star: [@Ignatz-CastroR](https://github.com/Ignatz-CastroR '2026-09-07')	

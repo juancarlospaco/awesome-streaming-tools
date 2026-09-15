@@ -93,6 +93,11 @@ if you dont understand why a lot of people on your chat types `monkaS` is probab
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
 
+## StreamPulse
+
+[StreamPulse](https://streampulse.fr) is a free, [open source browser extension](https://github.com/AlexisAMZ/streampulse-extension) for Chrome, Firefox and Edge that shows which Twitch and Kick streamers you follow are live, sends desktop alerts when they go live, and claims channel points and Drops automatically while you watch. It needs no account and no Twitch login, and works alongside BetterTTV, 7TV and FrankerFaceZ.
+
+
 ## Boltis
 
 [Boltis](https://boltis.app) is a free Windows app that clips your Twitch stream with one hotkey, saving the last 60 seconds via Twitch's official clip API with no FPS impact. It has a built-in editor to crop clips to vertical, add captions, cuts and GIF/text/image overlays, and export for TikTok and Shorts. You pick the moment live rather than letting AI guess it. Exported clips have no watermark.

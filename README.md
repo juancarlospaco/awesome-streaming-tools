@@ -259,6 +259,11 @@ straight to your phone or web dashboard - currently for free.
 [TwitchRoulette](https://twitchroulette.net) Spin the wheel and match with a random streamer with no viewers.
 Say hi! Make new Friends!.
 
+## Papich Wheel
+
+[Papich Wheel](https://karaseklobys.github.io/papich-wheel/) (Колесо Папича) is a self-contained HTML wheel for running weighted lot auctions on stream — viewers pledge points on lots (games, challenges, anything), points become the wheel's weight, and each spin eliminates one lot until a single winner remains.
+No signup, no server, works fully offline — open it locally, try the live demo, or drop it into OBS as a Browser Source. [Source on GitHub](https://github.com/KarasEklobys/papich-wheel).
+
 
 ## MultiTwitch
 

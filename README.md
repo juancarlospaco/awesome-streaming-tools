@@ -471,6 +471,7 @@ https://dashboard.twitch.tv/extensions/7kodks69rwf64tad7558abd0268uzl-0.0.4
 https://dashboard.twitch.tv/extensions/zowhdiwf4lqqoa99rphz5y38235qxu-0.0.1
 
 ## Overlays as Extensions
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — integrates as a recorder/inspector alongside your agent stack.
 
 https://dashboard.twitch.tv/extensions/tdldrg6rlw5eewiwcpxo3dv0obyckc-0.9.1
 

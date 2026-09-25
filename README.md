@@ -355,6 +355,12 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 [Jamendo](http://jamendo.com) is a web service where you can find free music without copyright nor royalty costs,
 you can download full quality music for free to use on your streams and dont get muted, etc.
 
+## BudgetPixel Background Music
+
+[BudgetPixel Background Music](https://budgetpixel.com/background-music) has 700+ free instrumental tracks (lofi, ambient, upbeat, cinematic) in WAV and MP3,
+plus [2,600+ sound effects](https://budgetpixel.com/sfx) for alerts and transitions. Everything is AI-generated and licensed CC BY 4.0:
+use it on streams and in VODs, and credit "BudgetPixel AI" in your panel or video description.
+
 ## LiveCollect
 
 [LiveCollect](https://livecollect.tv) is a web-based Twitch tool that turns subscriptions into collectible on-stream pack openings through an OBS browser source. Viewers can collect cards, track rarities, and build their collection over time.

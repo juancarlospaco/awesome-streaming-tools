@@ -83,6 +83,10 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## ChatPiP
+
+[ChatPiP](https://chromewebstore.google.com/detail/chatpip/afnglohgkkpmbeggclalkohkdjbfadai) is a desktop Chrome extension that keeps Twitch or YouTube video and live chat together in a floating window. Chat can sit beside, below or over the video, and multiple streams can keep their own chats. Includes a seven-day trial followed by a paid license.
+
 ## BetterTTV
 
 ![](betterttv.png)

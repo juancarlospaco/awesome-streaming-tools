@@ -474,6 +474,11 @@ It marks the passages Twitch muted for copyright on the seek bar so you can skip
 [Captions Generator](https://captionsgenerator.app/) is a browser-based AI caption and subtitle generator for stream clips, highlights and other videos.
 It transcribes speech, lets you edit the text and timing, pick a caption style and translate into 100+ languages, then exports SRT/VTT files or MP4 with burned-in captions. Free plan available (watermarked video exports), Pro $9.99/mo.
 
+## Remove Music from Video
+
+[Remove Music from Video](https://remove-audio.com/tools/remove-music-from-video) by Remove Audio takes the music out of a stream clip and keeps only the voice, for example to rescue a clip that was muted or flagged for copyrighted music before you post it to YouTube or TikTok. Game sound goes with the music, since only speech is kept.
+It runs an AI separation model in your desktop browser on WebGPU, so the clip is not uploaded. Free with no account and no watermark for clips up to 15 minutes; an optional paid Cloud mode handles longer videos and phones.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

@@ -469,6 +469,11 @@ Real-time translated subtitles for Twitch, YouTube, Kick, and TikTok streams in 
 
 It marks the passages Twitch muted for copyright on the seek bar so you can skip them, shows chapters to jump between games, and cuts shareable clips. No account, nothing to install, available in English, French, Spanish and Portuguese.
 
+## Captions Generator
+
+[Captions Generator](https://captionsgenerator.app/) is a browser-based AI caption and subtitle generator for stream clips, highlights and other videos.
+It transcribes speech, lets you edit the text and timing, pick a caption style and translate into 100+ languages, then exports SRT/VTT files or MP4 with burned-in captions. Free plan available (watermarked video exports), Pro $9.99/mo.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

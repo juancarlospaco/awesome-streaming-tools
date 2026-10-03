@@ -83,6 +83,12 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## BubbleFacts
+
+[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) desktop app for musicians who take song requests through StreamerSongList or StreamElements.
+When a song starts, it pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
+For Mac, Windows and Linux. Built with AI assistance (Claude Code).
+
 ## ChatPiP
 
 [ChatPiP](https://chromewebstore.google.com/detail/chatpip/afnglohgkkpmbeggclalkohkdjbfadai) is a desktop Chrome extension that keeps Twitch or YouTube video and live chat together in a floating window. Chat can sit beside, below or over the video, and multiple streams can keep their own chats. Includes a seven-day trial followed by a paid license.

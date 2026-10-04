@@ -83,6 +83,11 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## Onion Board
+
+[Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
+
 ## BubbleFacts
 
 [BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) desktop app for musicians who take song requests through StreamerSongList or StreamElements.

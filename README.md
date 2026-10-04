@@ -232,6 +232,11 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 # Web Based Tools
 
+## ByteMate
+
+[ByteMate](https://bytemate.me) is a free all-in-one Twitch chat bot with a web dashboard: commands, timers, chat alerts, giveaways, polls, watchtime and moderation filters, with permissions set per moderator.
+It also includes an OBS chat overlay with 7TV/BTTV/FFZ emotes and an Overlay Builder. Nothing to install, available in English and German. Free to use, optional paid plans add extra features.
+
 ## Emote Resizer
 
 [Emote Resizer](https://emoteresize.com) is a free, fully client-side tool that resizes one image into every Twitch, Discord, 7TV/BTTV/FFZ, and Slack emote/badge/sticker size.

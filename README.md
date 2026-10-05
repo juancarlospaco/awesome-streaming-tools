@@ -310,6 +310,10 @@ Simply put the streams you want in the url.
 while maintaining aspect ratio.
 Source https://github.com/bhamrick/multitwitch
 
+## WatchAllNow
+
+[WatchAllNow](https://watchallnow.com/) lets you watch multiple Twitch streams at once with quick audio switching, integrated chat, theater mode and shareable layouts.
+
 
 ## Featured Chats
 

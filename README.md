@@ -509,6 +509,11 @@ It runs an AI separation model in your desktop browser on WebGPU, so the clip is
 [RaidPort](https://raidport.tv/?utm_source=github&utm_medium=referral&utm_campaign=building&utm_content=awesome-streaming-tools) is a Twitch channel built as a live gameshow for raids, made for small streamers.
 Raid the channel at the end of your stream and your name goes on a wheel that chat spins; whoever it lands on gets raided by the whole channel. Free, no login, nothing to install and no bot in your chat. Opens fall 2026, signups are open now.
 
+## BudgetPixel Design Templates
+
+[BudgetPixel Design Templates](https://budgetpixel.com/design/templates/creators) are free, editable templates for channel art: [YouTube thumbnails](https://budgetpixel.com/design/templates/youtube-thumbnails), banners, profile pictures and social posts for announcing a stream or a new video.
+Open one in the browser editor, change the text and swap in your own images, then download a PNG or JPG. Free with a free account; the optional AI designer uses paid credits.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

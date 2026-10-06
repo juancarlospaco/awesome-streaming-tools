@@ -504,6 +504,11 @@ It transcribes speech, lets you edit the text and timing, pick a caption style a
 [Remove Music from Video](https://remove-audio.com/tools/remove-music-from-video) by Remove Audio takes the music out of a stream clip and keeps only the voice, for example to rescue a clip that was muted or flagged for copyrighted music before you post it to YouTube or TikTok. Game sound goes with the music, since only speech is kept.
 It runs an AI separation model in your desktop browser on WebGPU, so the clip is not uploaded. Free with no account and no watermark for clips up to 15 minutes; an optional paid Cloud mode handles longer videos and phones.
 
+## RaidPort
+
+[RaidPort](https://raidport.tv/?utm_source=github&utm_medium=referral&utm_campaign=building&utm_content=awesome-streaming-tools) is a Twitch channel built as a live gameshow for raids, made for small streamers.
+Raid the channel at the end of your stream and your name goes on a wheel that chat spins; whoever it lands on gets raided by the whole channel. Free, no login, nothing to install and no bot in your chat. Opens fall 2026, signups are open now.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

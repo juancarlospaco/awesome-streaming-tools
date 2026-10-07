@@ -516,8 +516,8 @@ Open one in the browser editor, change the text and swap in your own images, the
 
 ## ScaleReach
 
-[ScaleReach](https://www.scalereach.ai) turns a recording of a stream, or any long video, into vertical 9:16 clips with AI captions and a face-tracking crop.
-Upload the file or paste a YouTube link, pick from the clips it suggests (each has a virality score), and schedule them to Instagram, TikTok and YouTube. There is a one-time free trial with no credit card; trial clips carry a watermark, paid plans do not. It does not import Twitch or Kick VODs by link, so download your recording and upload it.
+[ScaleReach](https://www.scalereach.ai) turns a stream recording, or any long video, into vertical 9:16 clips with AI captions and a face-tracking crop.
+Paste a Twitch VOD link, a Kick VOD link or a YouTube link, or upload a file, then pick from the clips it suggests (each has a virality score) and schedule them to Instagram, TikTok and YouTube. There is a one-time free trial with no credit card; trial clips carry a watermark, paid plans do not. Live streams cannot be clipped until they finish, so it works on finished VODs.
 
 # Twitch Extensions
 

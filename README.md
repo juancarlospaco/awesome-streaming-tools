@@ -514,6 +514,11 @@ Raid the channel at the end of your stream and your name goes on a wheel that ch
 [BudgetPixel Design Templates](https://budgetpixel.com/design/templates/creators) are free, editable templates for channel art: [YouTube thumbnails](https://budgetpixel.com/design/templates/youtube-thumbnails), banners, profile pictures and social posts for announcing a stream or a new video.
 Open one in the browser editor, change the text and swap in your own images, then download a PNG or JPG. Free with a free account; the optional AI designer uses paid credits.
 
+## ScaleReach
+
+[ScaleReach](https://www.scalereach.ai) turns a stream recording, or any long video, into vertical 9:16 clips with AI captions and a face-tracking crop.
+Paste a Twitch VOD link, a Kick VOD link or a YouTube link, or upload a file, then pick from the clips it suggests (each has a virality score) and schedule them to Instagram, TikTok and YouTube. There is a one-time free trial with no credit card; trial clips carry a watermark, paid plans do not. Live streams cannot be clipped until they finish, so it works on finished VODs.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

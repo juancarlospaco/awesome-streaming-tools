@@ -76,6 +76,11 @@ text-to-speech, real-time chat translation, alerts overlays and moderation/bot t
 
 [Ambiant Pixel](https://ambiantpixel-lab.github.io/obs-stream-background-pixel-art/) makes animated pixel art scenes for OBS Studio and Streamlabs: Starting Soon, Be Right Back, Ending and Just Chatting with a webcam frame, as video loops and as an HTML Browser Source that keeps running live with your own title. The stream packs are paid ($8 per theme); the [free Jungle wallpaper](https://ambiantpixel.itch.io/jungle-free) is a single HTML file that also works as a Browser Source background.
 
+## GGCombat Esports Overlay
+
+[GGCombat Esports Overlay](https://ggcombat.com/en/widgets) is a free 800x140 browser source for casters and watch-party streams of pro League of Legends, Dota 2, Mobile Legends and Arena of Valor matches.
+Paste a match link into the generator, add the overlay URL as an OBS Browser Source (800 x 140), and it shows both teams, the live score (or Bo1/Bo3/Bo5 before the start) and an Elo-based win-chance bar, reloading every 30 seconds. No account, five languages. The panel carries a small "ggcombat.com" credit line.
+
 
 # Fiver Twitch Store
 

@@ -72,6 +72,10 @@ It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions acr
 unified feed you can pipe into OBS/Streamlabs as a live overlay or dock, with built-in neural
 text-to-speech, real-time chat translation, alerts overlays and moderation/bot tools.
 
+## Ambiant Pixel
+
+[Ambiant Pixel](https://ambiantpixel-lab.github.io/obs-stream-background-pixel-art/) makes animated pixel art scenes for OBS Studio and Streamlabs: Starting Soon, Be Right Back, Ending and Just Chatting with a webcam frame, as video loops and as an HTML Browser Source that keeps running live with your own title. The stream packs are paid ($8 per theme); the [free Jungle wallpaper](https://ambiantpixel.itch.io/jungle-free) is a single HTML file that also works as a Browser Source background.
+
 
 # Fiver Twitch Store
 

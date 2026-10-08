@@ -92,6 +92,11 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## ClipKeeper
+
+[ClipKeeper](https://github.com/Alukkart/ClipKeeper) is a free, open source (MIT) tray companion for OBS on Windows 10/11 for people who clip with the replay buffer. It watches OBS through obs-websocket and fixes what silently breaks a recording — a source losing its audio device after a driver update, a crashed replay buffer, audio that never reaches OBS, a black capture — and checks every saved clip. It also sorts clips into a library by game, with a trim editor and one-click export for Discord.
+Built with AI assistance (Claude Code).
+
 ## Onion Board
 
 [Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.

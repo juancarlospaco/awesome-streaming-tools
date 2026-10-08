@@ -523,6 +523,10 @@ Open one in the browser editor, change the text and swap in your own images, the
 [ScaleReach](https://www.scalereach.ai) turns a stream recording, or any long video, into vertical 9:16 clips with AI captions and a face-tracking crop.
 Paste a Twitch VOD link, a Kick VOD link or a YouTube link, or upload a file, then pick from the clips it suggests (each has a virality score) and schedule them to Instagram, TikTok and YouTube. There is a one-time free trial with no credit card; trial clips carry a watermark, paid plans do not. Live streams cannot be clipped until they finish, so it works on finished VODs.
 
+## RiLiFi Spin Wheel
+
+[RiLiFi Spin Wheel](https://rilifi.com/public/wheel) is a free browser wheel for drawing giveaway and raffle winners live on stream. Paste the names, spin, then remove the winner or keep them in for the next round. No sign-up, no ads.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

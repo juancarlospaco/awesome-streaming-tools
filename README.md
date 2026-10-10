@@ -261,6 +261,11 @@ It also includes an OBS chat overlay with 7TV/BTTV/FFZ emotes and an Overlay Bui
 [Facecam](https://www.facecam.ai/pngtuber-maker) is a free PNGTuber maker in the browser: pick a character or upload your own PNGs, and it talks when you talk.
 Copy one link into an OBS Browser Source for a transparent, mic-driven avatar. No sign-up.
 
+## PNGTuber Maker
+
+[PNGTuber Maker](https://pngtubermaker.net/) is an AI PNGTuber generator in the browser: describe a character or upload a reference image, pick one of four AI designs, and get transparent idle, talking and blinking frames.
+One link adds it to OBS as a Browser Source that talks when you talk and blinks on its own. The first four designs are free, then paid credit packs; free preview frames carry a watermark, frames from a paid pack do not.
+
 ## Emote Resizer
 
 [Emote Resizer](https://emoteresize.com) is a free, fully client-side tool that resizes one image into every Twitch, Discord, 7TV/BTTV/FFZ, and Slack emote/badge/sticker size.

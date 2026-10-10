@@ -92,6 +92,10 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## Vidora
+
+[Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora).
+
 ## ClipKeeper
 
 [ClipKeeper](https://github.com/Alukkart/ClipKeeper) is a free, open source (MIT) tray companion for OBS on Windows 10/11 for people who clip with the replay buffer. It watches OBS through obs-websocket and fixes what silently breaks a recording — a source losing its audio device after a driver update, a crashed replay buffer, audio that never reaches OBS, a black capture — and checks every saved clip. It also sorts clips into a library by game, with a trim editor and one-click export for Discord.

@@ -542,6 +542,11 @@ Open one in the browser editor, change the text and swap in your own images, the
 [ScaleReach](https://www.scalereach.ai) turns a stream recording, or any long video, into vertical 9:16 clips with AI captions and a face-tracking crop.
 Paste a Twitch VOD link, a Kick VOD link or a YouTube link, or upload a file, then pick from the clips it suggests (each has a virality score) and schedule them to Instagram, TikTok and YouTube. There is a one-time free trial with no credit card; trial clips carry a watermark, paid plans do not. Live streams cannot be clipped until they finish, so it works on finished VODs.
 
+## CutoutClip
+
+[CutoutClip](https://backgroundremovervideo.com) removes the background from a clip of a person and gives you a transparent WebM (VP9 with alpha) to add in OBS as a Media Source, for a facecam or presenter overlay without a green screen. It also exports MOV ProRes 4444 with alpha and a green screen MP4.
+Free for clips up to 10 seconds, with no sign-up and no watermark. Free uploads are deleted after 24 hours.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

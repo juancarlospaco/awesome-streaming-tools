@@ -287,7 +287,7 @@ The producer controls the clock and private cues while speakers and viewers use 
 ## Kloot
 
 [Kloot](https://kloot.gg) is a live control deck for streamers: one browser source in OBS adds giveaways, polls, lower thirds, alerts and hype effects, all fired manually from your phone.
-Viewers join giveaways and polls by scanning a QR code or typing a short join code, no chat bot required. Free tier available, paid plans from $15/mo.
+Viewers join giveaways and polls by scanning a QR code or typing a short join code, no chat bot required. Free tier available, paid plans from $9/mo. Free Available.
 
 ## PickerSpin
 

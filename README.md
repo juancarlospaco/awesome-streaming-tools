@@ -96,6 +96,11 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## Link
+
+[Link](https://linkturbo.app) is a free, [open source](https://github.com/shushu-eco/link) (GPL-3.0) way from a live stream to a clip that runs on your own computer: nothing is uploaded and there is no account. **Link Lite Recorder** is an extension for Chrome, Edge and Brave that records the Kick or Twitch stream in your tab as one mp4, lets you mark highlights with a hotkey (or by itself when chat speeds up), keeps a rewind so you can save a moment after it happened, and hands the marks to your editor as a list or as markers for DaVinci Resolve. **Link TURBO** is the Windows program: it records up to 3 streams at once, ranks up to 30 moments per recording from loudness, movement and chat speed, and makes 9:16 clips with a hook and captions timed to the voice; Link Night records for the hours you choose while you sleep.
+Built with AI assistance (Claude Code).
+
 ## Vidora
 
 [Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora).

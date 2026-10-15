@@ -299,6 +299,11 @@ Viewers join giveaways and polls by scanning a QR code or typing a short join co
 [PickerSpin](https://pickerspin.co) is a free browser-based wheel spinner for drawing giveaway winners live on stream, with a dice roller, bingo caller and team picker built in.
 Every draw uses the browser's Web Crypto API before the wheel animates, and there's a public page where viewers can verify the draw wasn't rigged. No signup, no account, nothing to install.
 
+## RandomWheel
+
+[RandomWheel](https://randomwheel.com/streaming) is a free spinning wheel for giveaways and decisions on stream. Add any public wheel to OBS or Streamlabs as a browser source with a transparent background, then spin it with a click or the Space key.
+You can have it remove the winner after each spin, and it works in 18 languages. No account needed to spin, no ads, no watermark.
+
 ## ReStream
 
 [ReStream](https://restream.io) re-streams your stream into several platforms for free,

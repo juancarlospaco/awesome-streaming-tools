@@ -85,6 +85,11 @@ text-to-speech, real-time chat translation, alerts overlays and moderation/bot t
 [GGCombat Esports Overlay](https://ggcombat.com/en/widgets) is a free 800x140 browser source for casters and watch-party streams of pro League of Legends, Dota 2, Mobile Legends and Arena of Valor matches.
 Paste a match link into the generator, add the overlay URL as an OBS Browser Source (800 x 140), and it shows both teams, the live score (or Bo1/Bo3/Bo5 before the start) and an Elo-based win-chance bar, reloading every 30 seconds. No account, five languages. The panel carries a small "ggcombat.com" credit line.
 
+## Tramevia Dock
+
+[Tramevia Dock](https://github.com/Tramevia/Tramevia-Dock) is a free, open-source (AGPL-3.0) set of OBS docks and overlays for streamers who go live on Twitch, Kick, YouTube and TikTok at the same time.
+The docks give you one chat for every platform (reply or send to several channels at once), one event feed, the community list and the stream title and category for every channel at once. The overlays are browser sources: chat, featured message, alerts with ten animated styles and a live viewer counter. It runs on your own PC (Windows, macOS, Linux) or in one click on Railway, and your logins stay on your own server.
+
 
 # Fiver Twitch Store
 

@@ -26,6 +26,7 @@ Visually attractive eye candy and useful tools that you can show off on your str
 - OBS Move Transitions https://github.com/exeldro/obs-move-transition
 - OBS Background removal https://github.com/royshil/obs-backgroundremoval#introduction
 - Kori https://github.com/askq-git/kori — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
+- Meta G Link Direct https://github.com/RandyNorthrup/meta-g-link-direct — Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).
 
 **Plugin Install:**
 

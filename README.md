@@ -101,6 +101,10 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## InstantClone
+
+[InstantClone](https://s1moscs.dev/instantclone) is a free, [open source](https://github.com/Soulhackzlol/InstantClone) (GPL-3.0) stream delay for OBS on Windows and Linux. It runs on your own computer between OBS and Twitch, YouTube or Kick, so you can add, change or drop the delay while you are live, without ending the stream: add one to stop stream snipers during a match, then cut back to real time after it. It works with Twitch's Enhanced Broadcasting and can send one stream to several platforms at once.
+
 ## Link
 
 [Link](https://linkturbo.app) is a free, [open source](https://github.com/shushu-eco/link) (GPL-3.0) way from a live stream to a clip that runs on your own computer: nothing is uploaded and there is no account. **Link Lite Recorder** is an extension for Chrome, Edge and Brave that records the Kick or Twitch stream in your tab as one mp4, lets you mark highlights with a hotkey (or by itself when chat speeds up), keeps a rewind so you can save a moment after it happened, and hands the marks to your editor as a list or as markers for DaVinci Resolve. **Link TURBO** is the Windows program: it records up to 3 streams at once, ranks up to 30 moments per recording from loudness, movement and chat speed, and makes 9:16 clips with a hook and captions timed to the voice; Link Night records for the hours you choose while you sleep.

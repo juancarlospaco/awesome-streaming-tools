@@ -304,6 +304,11 @@ The producer controls the clock and private cues while speakers and viewers use 
 [Kloot](https://kloot.gg) is a live control deck for streamers: one browser source in OBS adds giveaways, polls, lower thirds, alerts and hype effects, all fired manually from your phone.
 Viewers join giveaways and polls by scanning a QR code or typing a short join code, no chat bot required. Free tier available, paid plans from $15/mo.
 
+## Poltergeist
+
+[Poltergeist](https://poltergeist.cc) hands control of a stream's overlay to its moderators on Twitch, Kick and YouTube. Each mod gets a browser dashboard, usable from any device, to draw on the stream, play clips from a shared soundboard, animate elements on a keyframe timeline, show images, video and web pages, and prepare changes off-screen before sending them live. Setup is a single OBS browser source.
+It covers the usual stream widgets too: alerts, combined Twitch and Kick chat, goal bars, timers, counters, polls, Twitch predictions, a prize wheel, a chat-played carnival booth and viewer Media Share with a mod approval queue. Custom games and widgets can be written in HTML, CSS and JS, such as chat-played Connect Four or darts. A chatbot builder and an event trigger system can turn subs, raids, Bits, Kicks and Channel Points into on-screen moments.
+
 ## PickerSpin
 
 [PickerSpin](https://pickerspin.co) is a free browser-based wheel spinner for drawing giveaway winners live on stream, with a dice roller, bingo caller and team picker built in.

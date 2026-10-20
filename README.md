@@ -274,6 +274,10 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 # Web Based Tools
 
+## Streamable
+
+[Streamable](https://streamable.run/?utm_source=github&utm_medium=awesome-list&utm_campaign=juancarlospaco-awesome-streaming-tools) is cloud-hosted OBS that you control from a browser. Send your phone or backpack feed to it, switch scenes remotely, and keep the stream up through signal drops with stream drop protection. It streams to Twitch, Kick and other RTMP destinations. Paid plans from $39/mo.
+
 ## ByteMate
 
 [ByteMate](https://bytemate.me) is a free all-in-one Twitch chat bot with a web dashboard: commands, timers, chat alerts, giveaways, polls, watchtime and moderation filters, with permissions set per moderator.

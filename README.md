@@ -576,6 +576,11 @@ Paste a Twitch VOD link, a Kick VOD link or a YouTube link, or upload a file, th
 [CutoutClip](https://backgroundremovervideo.com) removes the background from a clip of a person and gives you a transparent WebM (VP9 with alpha) to add in OBS as a Media Source, for a facecam or presenter overlay without a green screen. It also exports MOV ProRes 4444 with alpha and a green screen MP4.
 Free for clips up to 10 seconds, with no sign-up and no watermark. Free uploads are deleted after 24 hours.
 
+## Yap Audio to Text
+
+[Yap Audio to Text](https://yapapp.cc/audio-to-text) turns a stream recording, a downloaded VOD or a clip into text and SRT/VTT subtitles right in the browser, so the video is not uploaded.
+Free, with no sign-up.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

@@ -177,6 +177,14 @@ emojis and unicode works, copy&paste works, is very lightweight being coded on C
 [![](https://user-images.githubusercontent.com/5585454/27840063-b6429fce-60fe-11e7-9e96-54d6d0657953.png)](https://alamminsalo.github.io/orion)
 
 
+## LofiLatte
+
+[LofiLatte](https://getapps.cafe/app/lofilatte) is a desktop app for macOS and Windows that generates endless lo-fi music live (beat, chords and piano, never the same loop twice) and lets you mix in rain, thunder, campfire and jungle ambience, each with its own volume, over changeable backdrops. Runs offline. Paid, closed source.
+
+[![](https://files.getapps.cafe/lofilatte-getapps-cafe-42bb08a721de3dc1.png)](https://getapps.cafe/app/lofilatte)
+
+
+
 ## Webcamoid
 
 [Webcamoid](https://webcamoid.github.io) is an open source Qt5 WebCam app with advanced settings and real time filters and effects,

@@ -91,6 +91,9 @@ Paste a match link into the generator, add the overlay URL as an OBS Browser Sou
 [Tramevia Dock](https://github.com/Tramevia/Tramevia-Dock) is a free, open-source (AGPL-3.0) set of OBS docks and overlays for streamers who go live on Twitch, Kick, YouTube and TikTok at the same time.
 The docks give you one chat for every platform (reply or send to several channels at once), one event feed, the community list and the stream title and category for every channel at once. The overlays are browser sources: chat, featured message, alerts with ten animated styles and a live viewer counter. It runs on your own PC (Windows, macOS, Linux) or in one click on Railway, and your logins stay on your own server.
 
+## Fut Overlay
+
+[Fut Overlay](https://futoverlay.com) is a browser-source football overlay for OBS Studio with live scoreboards, lineups, stats and match events. Pick a theme, paste one URL into OBS, and the screen updates in real time during the match, with no manual edits. Works for live streams and recordings on Twitch, YouTube and Kick, with themes in Portuguese, English and Spanish. A free trial is available to test it before subscribing.
 
 # Fiver Twitch Store
 

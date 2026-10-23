@@ -193,6 +193,13 @@ it can cover faces with PNG images, it can blurry faces, it can add face masks, 
 [![](https://raw.githubusercontent.com/tadas-subonis/webcam-settings/main/artifacts/12-camera-user-detection.png)](https://github.com/tadas-subonis/webcam-settings)
 
 
+## CamCascara
+
+[CamCascara](https://getapps.cafe/app/camcascara) is a webcam recording app for macOS and Windows: live focus, exposure and colour readouts with focus peaking and zebra stripes, background replacement or blur, vertical framing and colour looks, recorded with sound exactly as shown on screen. Paid, closed source.
+
+[![](https://files.getapps.cafe/camcascara-getapps-cafe-272a05cf19e11b0d.png)](https://getapps.cafe/app/camcascara)
+
+
 ## Visual Studio Code
 
 [Visual Studio Code](https://code.visualstudio.com) is an open source ElectronJS code editor that [has stream oriented plugins](https://dev.to/ninjabunny9000/5-useful-vscode-extensions-for-live-coding-239b),

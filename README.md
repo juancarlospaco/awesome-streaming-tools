@@ -464,6 +464,11 @@ you can download full quality music for free to use on your streams and dont get
 plus [2,600+ sound effects](https://budgetpixel.com/sfx) for alerts and transitions. Everything is AI-generated and licensed CC BY 4.0:
 use it on streams and in VODs, and credit "BudgetPixel AI" in your panel or video description.
 
+## Soundza
+
+[Soundza](https://soundza.com/) has free sound effects for alerts and transitions, plus music beds and ambience, in WAV and MP3, and a free sound effect generator.
+Free for streams and VODs, including monetized ones; no attribution needed.
+
 ## LiveCollect
 
 [LiveCollect](https://livecollect.tv) is a web-based Twitch tool that turns subscriptions into collectible on-stream pack openings through an OBS browser source. Viewers can collect cards, track rarities, and build their collection over time.

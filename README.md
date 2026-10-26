@@ -608,6 +608,11 @@ Free for clips up to 10 seconds, with no sign-up and no watermark. Free uploads 
 [Yap Audio to Text](https://yapapp.cc/audio-to-text) turns a stream recording, a downloaded VOD or a clip into text and SRT/VTT subtitles right in the browser, so the video is not uploaded.
 Free, with no sign-up.
 
+## Speaker & Headphone Test
+
+[Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
+Free, with no sign-up. Runs in the browser.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

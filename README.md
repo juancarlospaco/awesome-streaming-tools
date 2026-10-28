@@ -138,6 +138,10 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
 [ChatPiP](https://chromewebstore.google.com/detail/chatpip/afnglohgkkpmbeggclalkohkdjbfadai) is a desktop Chrome extension that keeps Twitch or YouTube video and live chat together in a floating window. Chat can sit beside, below or over the video, and multiple streams can keep their own chats. Includes a seven-day trial followed by a paid license.
 
+## Composi Chat
+
+[Composi Chat](https://chromewebstore.google.com/detail/composi-chat/mbbcmagdpiccgebggnkhpiledgodffbh) is a free Chrome and [Firefox](https://addons.mozilla.org/firefox/addon/composi-chat/) extension that merges Twitch, Kick and TikTok live chat into one browser side panel, with 7TV, BTTV and FFZ emotes, first-timer tags and a combined viewer count. It is read-only and needs no account and no OBS setup.
+
 ## BetterTTV
 
 ![](betterttv.png)

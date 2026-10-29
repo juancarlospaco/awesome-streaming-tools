@@ -613,6 +613,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## SuperClonica
+
+[SuperClonica](https://superclonica.com/en/guides/stream-alert-voices) has about 190 AI character, narrator and announcer voices for TTS alerts, sub and raid lines and chat bots, in 31 languages (no Chinese).
+Try any voice on a line of up to 100 characters in the browser with no sign-up; a free API key gives bots 3 minutes of audio a day. Character voices are fan-made and bought once ($2.99) to run them offline with the free open-source engine.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

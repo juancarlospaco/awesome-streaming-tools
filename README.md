@@ -341,6 +341,11 @@ Every draw uses the browser's Web Crypto API before the wheel animates, and ther
 [RandomWheel](https://randomwheel.com/streaming) is a free spinning wheel for giveaways and decisions on stream. Add any public wheel to OBS or Streamlabs as a browser source with a transparent background, then spin it with a click or the Space key.
 You can have it remove the winner after each spin, and it works in 18 languages. No account needed to spin, no ads, no watermark.
 
+## Custom Spinner Wheel
+
+[Custom Spinner Wheel](https://customspinnerwheel.com) is a free spinner wheel for picking random names, splitting viewers into teams and drawing giveaway winners live on stream — add your entries, spin, and let the wheel decide. It also includes an Instagram comment picker and a truth-or-dare wheel.
+No signup, no account, nothing to install — it runs entirely in the browser, and it is also available in Spanish, French and Portuguese.
+
 ## ReStream
 
 [ReStream](https://restream.io) re-streams your stream into several platforms for free,

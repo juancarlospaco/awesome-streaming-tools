@@ -282,6 +282,11 @@ It allows multiple Blender users to work on the same scene at the same time.
 If you livestream digital Art, you can colab with other streamers or viewers.
 
 
+## Annotator
+
+[Annotator](https://getannotator.app) is a free, [open source](https://github.com/dorlugasigal/annotator) (Apache-2.0) screen annotation app for macOS and Windows 11. Press a shortcut while you stream to draw arrows, boxes, highlights, a spotlight, zoom or blur over any app, and the marks stay editable until you clear them.
+
+
 # Mobile Apps
 
 ## Twire

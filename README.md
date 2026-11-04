@@ -613,6 +613,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## Burncaps Teleprompter
+
+[Burncaps Teleprompter](https://burncaps.app/free-online-teleprompter?utm_source=awesomestreamingtools) is a free browser teleprompter for reading a prepared script while you film: paste it, set the speed in words a minute, mirror it for a teleprompter glass and fill the screen.
+It does not record, listen or follow your voice, and the script is never sent or saved. Free, with no sign-up.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

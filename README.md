@@ -613,6 +613,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## Animated Emote Maker
+
+[Animated Emote Maker](https://animatedemotemaker.com) turns one picture, or a character it designs with you, into a matching set of animated Twitch and Discord emotes, plus sub badges, PNGTuber states and channel panels in the same style.
+It also has a free [emote resizer](https://animatedemotemaker.com/twitch-emote-resizer) that exports Twitch, Discord, 7TV and BTTV sizes at once in the browser. New accounts get 3 free credits; after that, one-time credit packs (no subscription required).
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

@@ -613,6 +613,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## EmoteSize
+
+[EmoteSize](https://emotesize.com/twitch-emote-resizer) is a free browser tool that resizes images and GIFs to Twitch, Discord, Kick and Slack emote sizes.
+Files are processed on your device and never uploaded, and each size guide cites the official help page with the date it was read.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

@@ -631,6 +631,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## Video Size Reducer
+
+[Video Size Reducer](https://video-size-reducer.com/) compresses a video to a target file size, such as Discord, email or WhatsApp limits, and returns an H.264 MP4 with no watermark. It takes MP4, MOV, WebM and MKV; compression runs on its servers, nothing to install.
+Visitors can try it without signing up; new accounts get 30 one-time free credits, free uploads up to 1 GiB, paid plans from $9.99/mo.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

@@ -95,6 +95,10 @@ The docks give you one chat for every platform (reply or send to several channel
 
 [Fut Overlay](https://futoverlay.com) is a browser-source football overlay for OBS Studio with live scoreboards, lineups, stats and match events. Pick a theme, paste one URL into OBS, and the screen updates in real time during the match, with no manual edits. Works for live streams and recordings on Twitch, YouTube and Kick, with themes in Portuguese, English and Spanish. A free trial is available to test it before subscribing.
 
+## OverlayCast
+
+[OverlayCast](https://overlaycast.com) is a web app for building OBS browser-source overlays: live chat and chat bars, donate alerts, goal bars, timers, polls and chat-driven community widgets. Customise a widget in the browser, paste its single URL into OBS, and later edits update the running overlay without touching OBS. Reads YouTube, Twitch and Kick chat (TikTok LIVE through TikFinity) and Streamlabs donations. Eight widgets are free with a watermark; the rest need Pro, with a 30-day free trial.
+
 ## send21 Stream Tips
 
 [send21 Stream Tips](https://github.com/send21io/send21-stream-tips) is a free, open-source (MIT) tip-alert overlay for OBS, built on send21: crypto pay links and API for people and AI agents. Viewers tip from their phone, and the Browser Source plays the alert once, only after the payment is confirmed; self-hosted, with a goal bar, moderation queue and test alerts, and tips go straight to the streamer's own wallet.

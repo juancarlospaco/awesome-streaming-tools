@@ -95,6 +95,18 @@ The docks give you one chat for every platform (reply or send to several channel
 
 [Fut Overlay](https://futoverlay.com) is a browser-source football overlay for OBS Studio with live scoreboards, lineups, stats and match events. Pick a theme, paste one URL into OBS, and the screen updates in real time during the match, with no manual edits. Works for live streams and recordings on Twitch, YouTube and Kick, with themes in Portuguese, English and Spanish. A free trial is available to test it before subscribing.
 
+## chatlogs.de Overlays
+
+[chatlogs.de](https://chatlogs.de/en/?ref=awesome) offers five free browser source overlays for Twitch, set up in the browser and added to OBS Studio or Streamlabs as one URL. Nothing to install, no ads, in English and German.
+
+- [Subathon timer](https://chatlogs.de/en/timer?ref=awesome): subs, gift subs, Bits, raids and follows add time on their own, with happy hour, a time cap and goals. The server keeps the time, so an OBS crash or a scene switch loses nothing. Mods run it from a phone web app.
+- [Prize wheel](https://chatlogs.de/en/wheel?ref=awesome): viewers spin it with a channel points reward. Up to ten wheels with up to 100 fields each, 17 designs, and an optional result announcement in chat via Streamer.bot.
+- [Chat overlay](https://chatlogs.de/en/chatbox?ref=awesome): live chat with Twitch, 7TV, BTTV and FFZ emotes, badges, subs and raids in 15 customisable designs. Messages deleted by mods disappear at once.
+- [Clip overlay](https://chatlogs.de/en/clips?ref=awesome): random clips from the channel's whole clip library without repeats, with a lower third in 17 designs.
+- [Chat stats](https://chatlogs.de/en/chatstats?ref=awesome): top chatters, favourite emotes, busiest hours and today's chat as animated tiles.
+
+The clip overlay and the wheel work for any Twitch channel. The timer, chat overlay and stats need the channel in the chatlogs.de chat archive, where streamers can add their own channel after signing in with Twitch.
+
 ## OverlayCast
 
 [OverlayCast](https://overlaycast.com) is a web app for building OBS browser-source overlays: live chat and chat bars, donate alerts, goal bars, timers, polls and chat-driven community widgets. Customise a widget in the browser, paste its single URL into OBS, and later edits update the running overlay without touching OBS. Reads YouTube, Twitch and Kick chat (TikTok LIVE through TikFinity) and Streamlabs donations. Eight widgets are free with a watermark; the rest need Pro, with a 30-day free trial.

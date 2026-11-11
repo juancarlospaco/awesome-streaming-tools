@@ -95,6 +95,31 @@ The docks give you one chat for every platform (reply or send to several channel
 
 [Fut Overlay](https://futoverlay.com) is a browser-source football overlay for OBS Studio with live scoreboards, lineups, stats and match events. Pick a theme, paste one URL into OBS, and the screen updates in real time during the match, with no manual edits. Works for live streams and recordings on Twitch, YouTube and Kick, with themes in Portuguese, English and Spanish. A free trial is available to test it before subscribing.
 
+## chatlogs.de Overlays
+
+[chatlogs.de](https://chatlogs.de/en/?ref=awesome) offers five free browser source overlays for Twitch, set up in the browser and added to OBS Studio or Streamlabs as one URL. Nothing to install, no ads, in English and German.
+
+- [Subathon timer](https://chatlogs.de/en/timer?ref=awesome): subs, gift subs, Bits, raids and follows add time on their own, with happy hour, a time cap and goals. The server keeps the time, so an OBS crash or a scene switch loses nothing. Mods run it from a phone web app.
+- [Prize wheel](https://chatlogs.de/en/wheel?ref=awesome): viewers spin it with a channel points reward. Up to ten wheels with up to 100 fields each, 17 designs, and an optional result announcement in chat via Streamer.bot.
+- [Chat overlay](https://chatlogs.de/en/chatbox?ref=awesome): live chat with Twitch, 7TV, BTTV and FFZ emotes, badges, subs and raids in 15 customisable designs. Messages deleted by mods disappear at once.
+- [Clip overlay](https://chatlogs.de/en/clips?ref=awesome): random clips from the channel's whole clip library without repeats, with a lower third in 17 designs.
+- [Chat stats](https://chatlogs.de/en/chatstats?ref=awesome): top chatters, favourite emotes, busiest hours and today's chat as animated tiles.
+
+The clip overlay and the wheel work for any Twitch channel. The timer, chat overlay and stats need the channel in the chatlogs.de chat archive, where streamers can add their own channel after signing in with Twitch.
+
+## OverlayCast
+
+[OverlayCast](https://overlaycast.com) is a web app for building OBS browser-source overlays: live chat and chat bars, donate alerts, goal bars, timers, polls and chat-driven community widgets. Customise a widget in the browser, paste its single URL into OBS, and later edits update the running overlay without touching OBS. Reads YouTube, Twitch and Kick chat (TikTok LIVE through TikFinity) and Streamlabs donations. Eight widgets are free with a watermark; the rest need Pro, with a 30-day free trial.
+
+## send21 Stream Tips
+
+[send21 Stream Tips](https://github.com/send21io/send21-stream-tips) is a free, open-source (MIT) tip-alert overlay for OBS, built on send21: crypto pay links and API for people and AI agents. Viewers tip from their phone, and the Browser Source plays the alert once, only after the payment is confirmed; self-hosted, with a goal bar, moderation queue and test alerts, and tips go straight to the streamer's own wallet.
+
+## CrossChat
+
+[CrossChat](https://github.com/RandyNorthrup/crosschat-obs) is a free, open source (MIT) companion for OBS Studio when you stream to several platforms at once. It reads Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble chat into one window, lets you answer everyone with one message (or one person on their own platform), and moderates Twitch, YouTube, Kick and Rumble (and deletes Facebook comments).
+Its chat, featured message, viewer counter and alert widgets are OBS Browser Sources with a theme editor. It runs on your own PC (Windows, macOS, Linux) with no account, server or telemetry.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
@@ -104,6 +129,10 @@ Anything you need for a few dollars
 
 
 # Desktop Apps
+
+## Corneta
+
+[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
 
 ## InstantClone
 
@@ -125,8 +154,8 @@ Built with AI assistance (Claude Code).
 
 ## Onion Board
 
-[Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
+[Onion Board](https://onionalien.com/onionboard/) is a free soundboard for Windows 10/11. Sounds go straight through the mic you already use, with no virtual cable, so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) under the GPL-3.0 license (open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
@@ -137,6 +166,10 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 ## ChatPiP
 
 [ChatPiP](https://chromewebstore.google.com/detail/chatpip/afnglohgkkpmbeggclalkohkdjbfadai) is a desktop Chrome extension that keeps Twitch or YouTube video and live chat together in a floating window. Chat can sit beside, below or over the video, and multiple streams can keep their own chats. Includes a seven-day trial followed by a paid license.
+
+## Composi Chat
+
+[Composi Chat](https://chromewebstore.google.com/detail/composi-chat/mbbcmagdpiccgebggnkhpiledgodffbh) is a free Chrome and [Firefox](https://addons.mozilla.org/firefox/addon/composi-chat/) extension that merges Twitch, Kick and TikTok live chat into one browser side panel, with 7TV, BTTV and FFZ emotes, first-timer tags and a combined viewer count. It is read-only and needs no account and no OBS setup.
 
 ## BetterTTV
 
@@ -282,6 +315,11 @@ It allows multiple Blender users to work on the same scene at the same time.
 If you livestream digital Art, you can colab with other streamers or viewers.
 
 
+## Annotator
+
+[Annotator](https://getannotator.app) is a free, [open source](https://github.com/dorlugasigal/annotator) (Apache-2.0) screen annotation app for macOS and Windows 11. Press a shortcut while you stream to draw arrows, boxes, highlights, a spotlight, zoom or blur over any app, and the marks stay editable until you clear them.
+
+
 # Mobile Apps
 
 ## Twire
@@ -340,6 +378,11 @@ Every draw uses the browser's Web Crypto API before the wheel animates, and ther
 
 [RandomWheel](https://randomwheel.com/streaming) is a free spinning wheel for giveaways and decisions on stream. Add any public wheel to OBS or Streamlabs as a browser source with a transparent background, then spin it with a click or the Space key.
 You can have it remove the winner after each spin, and it works in 18 languages. No account needed to spin, no ads, no watermark.
+
+## Custom Spinner Wheel
+
+[Custom Spinner Wheel](https://customspinnerwheel.com) is a free spinner wheel for picking random names, splitting viewers into teams and drawing giveaway winners live on stream — add your entries, spin, and let the wheel decide. It also includes an Instagram comment picker and a truth-or-dare wheel.
+No signup, no account, nothing to install — it runs entirely in the browser, and it is also available in Spanish, French and Portuguese.
 
 ## ReStream
 
@@ -617,6 +660,21 @@ Free, with no sign-up. Runs in the browser.
 
 [EmoteSize](https://emotesize.com/twitch-emote-resizer) is a free browser tool that resizes images and GIFs to Twitch, Discord, Kick and Slack emote sizes.
 Files are processed on your device and never uploaded, and each size guide cites the official help page with the date it was read.
+
+## Animated Emote Maker
+
+[Animated Emote Maker](https://animatedemotemaker.com) turns one picture, or a character it designs with you, into a matching set of animated Twitch and Discord emotes, plus sub badges, PNGTuber states and channel panels in the same style.
+It also has a free [emote resizer](https://animatedemotemaker.com/twitch-emote-resizer) that exports Twitch, Discord, 7TV and BTTV sizes at once in the browser. New accounts get 3 free credits; after that, one-time credit packs (no subscription required).
+
+## Burncaps Teleprompter
+
+[Burncaps Teleprompter](https://burncaps.app/free-online-teleprompter?utm_source=awesomestreamingtools) is a free browser teleprompter for reading a prepared script while you film: paste it, set the speed in words a minute, mirror it for a teleprompter glass and fill the screen.
+It does not record, listen or follow your voice, and the script is never sent or saved. Free, with no sign-up.
+
+## Video Size Reducer
+
+[Video Size Reducer](https://video-size-reducer.com/) compresses a video to a target file size, such as Discord, email or WhatsApp limits, and returns an H.264 MP4 with no watermark. It takes MP4, MOV, WebM and MKV; compression runs on its servers, nothing to install.
+Visitors can try it without signing up; new accounts get 30 one-time free credits, free uploads up to 1 GiB, paid plans from $9.99/mo.
 
 # Twitch Extensions
 
@@ -1385,3 +1443,4 @@ $juancarlospaco
 :star: [@robotter112](https://github.com/robotter112 '2026-11-05')	
 :star: [@Onion-Alien](https://github.com/Onion-Alien '2026-11-07')	
 :star: [@WildGenie](https://github.com/WildGenie '2026-11-07')	
+:star: [@lamps-dev](https://github.com/lamps-dev '2026-11-10')	

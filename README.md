@@ -656,6 +656,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## EmoteSize
+
+[EmoteSize](https://emotesize.com/twitch-emote-resizer) is a free browser tool that resizes images and GIFs to Twitch, Discord, Kick and Slack emote sizes.
+Files are processed on your device and never uploaded, and each size guide cites the official help page with the date it was read.
+
 ## Animated Emote Maker
 
 [Animated Emote Maker](https://animatedemotemaker.com) turns one picture, or a character it designs with you, into a matching set of animated Twitch and Discord emotes, plus sub badges, PNGTuber states and channel panels in the same style.

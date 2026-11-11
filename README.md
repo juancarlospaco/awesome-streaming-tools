@@ -95,6 +95,11 @@ The docks give you one chat for every platform (reply or send to several channel
 
 [Fut Overlay](https://futoverlay.com) is a browser-source football overlay for OBS Studio with live scoreboards, lineups, stats and match events. Pick a theme, paste one URL into OBS, and the screen updates in real time during the match, with no manual edits. Works for live streams and recordings on Twitch, YouTube and Kick, with themes in Portuguese, English and Spanish. A free trial is available to test it before subscribing.
 
+## Layrs
+
+[Layrs](https://layrs.tv) is a free hosted overlay editor for Twitch and Kick that streamers build together with their mods, live in the browser.
+It has chat with 7TV, BTTV and FFZ emotes and 7TV paints, alerts, goals, a subathon timer and polls built in, imports StreamElements overlays, and goes into OBS as one Browser Source URL. No ads or watermarks on stream.
+
 ## chatlogs.de Overlays
 
 [chatlogs.de](https://chatlogs.de/en/?ref=awesome) offers five free browser source overlays for Twitch, set up in the browser and added to OBS Studio or Streamlabs as one URL. Nothing to install, no ads, in English and German.

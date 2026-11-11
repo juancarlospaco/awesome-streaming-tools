@@ -99,6 +99,15 @@ The docks give you one chat for every platform (reply or send to several channel
 
 [OverlayCast](https://overlaycast.com) is a web app for building OBS browser-source overlays: live chat and chat bars, donate alerts, goal bars, timers, polls and chat-driven community widgets. Customise a widget in the browser, paste its single URL into OBS, and later edits update the running overlay without touching OBS. Reads YouTube, Twitch and Kick chat (TikTok LIVE through TikFinity) and Streamlabs donations. Eight widgets are free with a watermark; the rest need Pro, with a 30-day free trial.
 
+## send21 Stream Tips
+
+[send21 Stream Tips](https://github.com/send21io/send21-stream-tips) is a free, open-source (MIT) tip-alert overlay for OBS, built on send21: crypto pay links and API for people and AI agents. Viewers tip from their phone, and the Browser Source plays the alert once, only after the payment is confirmed; self-hosted, with a goal bar, moderation queue and test alerts, and tips go straight to the streamer's own wallet.
+
+## CrossChat
+
+[CrossChat](https://github.com/RandyNorthrup/crosschat-obs) is a free, open source (MIT) companion for OBS Studio when you stream to several platforms at once. It reads Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble chat into one window, lets you answer everyone with one message (or one person on their own platform), and moderates Twitch, YouTube, Kick and Rumble (and deletes Facebook comments).
+Its chat, featured message, viewer counter and alert widgets are OBS Browser Sources with a theme editor. It runs on your own PC (Windows, macOS, Linux) with no account, server or telemetry.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
@@ -108,6 +117,10 @@ Anything you need for a few dollars
 
 
 # Desktop Apps
+
+## Corneta
+
+[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
 
 ## InstantClone
 
@@ -141,6 +154,10 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 ## ChatPiP
 
 [ChatPiP](https://chromewebstore.google.com/detail/chatpip/afnglohgkkpmbeggclalkohkdjbfadai) is a desktop Chrome extension that keeps Twitch or YouTube video and live chat together in a floating window. Chat can sit beside, below or over the video, and multiple streams can keep their own chats. Includes a seven-day trial followed by a paid license.
+
+## Composi Chat
+
+[Composi Chat](https://chromewebstore.google.com/detail/composi-chat/mbbcmagdpiccgebggnkhpiledgodffbh) is a free Chrome and [Firefox](https://addons.mozilla.org/firefox/addon/composi-chat/) extension that merges Twitch, Kick and TikTok live chat into one browser side panel, with 7TV, BTTV and FFZ emotes, first-timer tags and a combined viewer count. It is read-only and needs no account and no OBS setup.
 
 ## BetterTTV
 
@@ -286,6 +303,11 @@ It allows multiple Blender users to work on the same scene at the same time.
 If you livestream digital Art, you can colab with other streamers or viewers.
 
 
+## Annotator
+
+[Annotator](https://getannotator.app) is a free, [open source](https://github.com/dorlugasigal/annotator) (Apache-2.0) screen annotation app for macOS and Windows 11. Press a shortcut while you stream to draw arrows, boxes, highlights, a spotlight, zoom or blur over any app, and the marks stay editable until you clear them.
+
+
 # Mobile Apps
 
 ## Twire
@@ -344,6 +366,11 @@ Every draw uses the browser's Web Crypto API before the wheel animates, and ther
 
 [RandomWheel](https://randomwheel.com/streaming) is a free spinning wheel for giveaways and decisions on stream. Add any public wheel to OBS or Streamlabs as a browser source with a transparent background, then spin it with a click or the Space key.
 You can have it remove the winner after each spin, and it works in 18 languages. No account needed to spin, no ads, no watermark.
+
+## Custom Spinner Wheel
+
+[Custom Spinner Wheel](https://customspinnerwheel.com) is a free spinner wheel for picking random names, splitting viewers into teams and drawing giveaway winners live on stream — add your entries, spin, and let the wheel decide. It also includes an Instagram comment picker and a truth-or-dare wheel.
+No signup, no account, nothing to install — it runs entirely in the browser, and it is also available in Spanish, French and Portuguese.
 
 ## ReStream
 
@@ -616,6 +643,11 @@ Free, with no sign-up.
 
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
+
+## Video Size Reducer
+
+[Video Size Reducer](https://video-size-reducer.com/) compresses a video to a target file size, such as Discord, email or WhatsApp limits, and returns an H.264 MP4 with no watermark. It takes MP4, MOV, WebM and MKV; compression runs on its servers, nothing to install.
+Visitors can try it without signing up; new accounts get 30 one-time free credits, free uploads up to 1 GiB, paid plans from $9.99/mo.
 
 # Twitch Extensions
 
@@ -1380,3 +1412,8 @@ $juancarlospaco
 :star: [@samuelschristian100-coder](https://github.com/samuelschristian100-coder '2026-10-22')	
 :star: [@CrashBandicooch](https://github.com/CrashBandicooch '2026-10-25')	
 :star: [@JohnnyAe](https://github.com/JohnnyAe '2026-11-02')	
+:star: [@frolicchris](https://github.com/frolicchris '2026-11-03')	
+:star: [@robotter112](https://github.com/robotter112 '2026-11-05')	
+:star: [@Onion-Alien](https://github.com/Onion-Alien '2026-11-07')	
+:star: [@WildGenie](https://github.com/WildGenie '2026-11-07')	
+:star: [@lamps-dev](https://github.com/lamps-dev '2026-11-10')	

@@ -27,6 +27,7 @@ Visually attractive eye candy and useful tools that you can show off on your str
 - OBS Background removal https://github.com/royshil/obs-backgroundremoval#introduction
 - Kori https://github.com/askq-git/kori — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
 - Meta G Link Direct https://github.com/RandyNorthrup/meta-g-link-direct — Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).
+- OBS IRL Control https://github.com/gleem-gg/obs-irl-control — Open-source (GPL-2.0) Linux plugin that switches to your offline scene when an IRL stream drops or its RTT gets too high, and back when it recovers. Runs inside OBS, no obs-websocket or Node.js needed.
 
 **Plugin Install:**
 
@@ -281,6 +282,10 @@ https://aur.archlinux.org/packages/oneko
 It allows multiple Blender users to work on the same scene at the same time.
 If you livestream digital Art, you can colab with other streamers or viewers.
 
+
+## Crossfade
+
+[Crossfade](https://gleem.gg/crossfade) is a free, [open source](https://github.com/gleem-gg/crossfade) (Apache-2.0) virtual audio mixer for streamers on Linux, built on PipeWire. Every channel gets its own Monitor and Stream fader, so what you hear and what your viewers hear are separate mixes, with virtual microphones for OBS and Discord. An optional VOD mix feeds a second OBS audio track, so music can play live but stay out of the recording. It also hosts LV2 and VST effects per channel and works with MIDI controllers, without needing any specific hardware.
 
 # Mobile Apps
 

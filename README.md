@@ -105,6 +105,10 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## Corneta
+
+[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
+
 ## InstantClone
 
 [InstantClone](https://s1moscs.dev/instantclone) is a free, [open source](https://github.com/Soulhackzlol/InstantClone) (GPL-3.0) stream delay for OBS on Windows and Linux. It runs on your own computer between OBS and Twitch, YouTube or Kick, so you can add, change or drop the delay while you are live, without ending the stream: add one to stop stream snipers during a match, then cut back to real time after it. It works with Twitch's Enhanced Broadcasting and can send one stream to several platforms at once.

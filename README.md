@@ -29,6 +29,7 @@ Visually attractive eye candy and useful tools that you can show off on your str
 - Meta G Link Direct https://github.com/RandyNorthrup/meta-g-link-direct — Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).
 - OBS IRL Control https://github.com/gleem-gg/obs-irl-control — Open-source (GPL-2.0) Linux plugin that switches to your offline scene when an IRL stream drops or its RTT gets too high, and back when it recovers. Runs inside OBS, no obs-websocket or Node.js needed.
 - Loudness Balance Monitor https://github.com/AllegroMoltoV/obs-loudness-balance-monitor — Open-source (GPL-2.0) OBS Studio dock that rates voice-to-BGM loudness balance, mix level, and clipping risk as green, yellow, or red, and can record the final mix for playback. Windows release; macOS and Linux build from source.
+- AI Assistant for OBS Studio https://github.com/AllegroMoltoV/ai-assistant-for-obs — Open-source (GPL-2.0) OBS Studio dock where an AI assistant reads OBS state, scenes, and logs to troubleshoot stream problems, and applies OBS setting changes only after you approve them. Uses your own OpenAI API key. Windows only.
 
 **Plugin Install:**
 

@@ -692,6 +692,11 @@ Visitors can try it without signing up; new accounts get 30 one-time free credit
 
 [Plugin Soko-kun](https://soko-kun.allegromoltov.jp/about?lang=en) is a free, unofficial catalog of third-party OBS Studio plugins in 7 languages. Each listed release file is checked against MalwareBazaar, and downloads go directly to GitHub Releases. AI agents such as Claude Code and Codex can search plugins over MCP, and authors can submit their own GitHub repositories. Not affiliated with the OBS Project.
 
+## GIFKit Discord GIF Checker
+
+[GIFKit Discord GIF Checker](https://gifkit.app/discord/cannot-resize-gif/) checks a GIF's format, dimensions, file size and frames against Discord's custom emoji and sticker upload limits, shows what fails when Discord says "Cannot resize GIF", and lets you fix and recheck the file on the same page.
+GIFKit also has a [GIF resizer](https://gifkit.app/tools/gif-resizer/) with Discord (128×128) and Twitch (112×112) emote presets. Free, no sign-up, no watermark; files are processed in the browser and never uploaded. The site also sells custom emote sets.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

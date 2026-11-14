@@ -331,6 +331,10 @@ If you livestream digital Art, you can colab with other streamers or viewers.
 
 [Annotator](https://getannotator.app) is a free, [open source](https://github.com/dorlugasigal/annotator) (Apache-2.0) screen annotation app for macOS and Windows 11. Press a shortcut while you stream to draw arrows, boxes, highlights, a spotlight, zoom or blur over any app, and the marks stay editable until you clear them.
 
+## CutBench
+
+[CutBench](https://cutbench.com) is a Windows app that turns a long stream or gameplay recording into short vertical clips, ranked best first, with subtitles burned in. Give it a file from your drive or a link to your Twitch or YouTube video; the clips are made on your own PC, and the recording is not uploaded for processing. Subtitles follow the language spoken on the recording and are never translated. It is a batch tool, not a recorder: you start a job and come back to the clips. Paid, one purchase on Steam, with no subscription and no watermark by default. Windows 10/11 only; the supported spec is an NVIDIA GPU with 6 GB or more of VRAM and CUDA. On AMD and Intel Arc, the work runs on the processor, tens of times slower, and still completes.
+
 
 # Mobile Apps
 

@@ -360,6 +360,10 @@ It also includes an OBS chat overlay with 7TV/BTTV/FFZ emotes and an Overlay Bui
 [Facecam](https://www.facecam.ai/pngtuber-maker) is a free PNGTuber maker in the browser: pick a character or upload your own PNGs, and it talks when you talk.
 Copy one link into an OBS Browser Source for a transparent, mic-driven avatar. No sign-up.
 
+## No Stairs Please MCP
+
+[No Stairs Please MCP](https://nostairsplease.com/mcp) is a live music venue directory and remote MCP server for bands, live-streamed shows, and tour managers searching under-400 capacity venues across North America.
+
 ## PNGTuber Maker
 
 [PNGTuber Maker](https://pngtubermaker.net/) is an AI PNGTuber generator in the browser: describe a character or upload a reference image, pick one of four AI designs, and get transparent idle, talking and blinking frames.

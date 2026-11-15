@@ -701,6 +701,11 @@ Visitors can try it without signing up; new accounts get 30 one-time free credit
 [GIFKit Discord GIF Checker](https://gifkit.app/discord/cannot-resize-gif/) checks a GIF's format, dimensions, file size and frames against Discord's custom emoji and sticker upload limits, shows what fails when Discord says "Cannot resize GIF", and lets you fix and recheck the file on the same page.
 GIFKit also has a [GIF resizer](https://gifkit.app/tools/gif-resizer/) with Discord (128×128) and Twitch (112×112) emote presets. Free, no sign-up, no watermark; files are processed in the browser and never uploaded. The site also sells custom emote sets.
 
+## ClipX
+
+[ClipX](https://clipx.io/tools/twitch-clip-maker) turns a Twitch, Kick or YouTube VOD into vertical clips for TikTok, YouTube Shorts and Reels. Paste the VOD link, and it ranks the best moments, puts your facecam over the gameplay and adds captions you can edit.
+Free plan to try it: process, edit and preview clips. Exports need Pro ($20/mo) and have no watermark.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

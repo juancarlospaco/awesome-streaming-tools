@@ -706,6 +706,11 @@ GIFKit also has a [GIF resizer](https://gifkit.app/tools/gif-resizer/) with Disc
 [ClipX](https://clipx.io/tools/twitch-clip-maker) turns a Twitch, Kick or YouTube VOD into vertical clips for TikTok, YouTube Shorts and Reels. Paste the VOD link, and it ranks the best moments, puts your facecam over the gameplay and adds captions you can edit.
 Free plan to try it: process, edit and preview clips. Exports need Pro ($20/mo) and have no watermark.
 
+## GetYouTubeTranscript
+
+[GetYouTubeTranscript](https://getyoutubetranscript.com/) pulls the captions of a YouTube video or past livestream as text with timestamps, and exports TXT, SRT or VTT files, which helps when writing show notes, picking clip moments or re-uploading a VOD with subtitles. It can also translate the transcript and summarize the stream with AI.
+Visitors can fetch a few transcripts a day without signing up; new accounts get 100 one-time free credits, paid plans from $5/mo.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

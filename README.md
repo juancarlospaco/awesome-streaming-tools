@@ -701,6 +701,11 @@ Visitors can try it without signing up; new accounts get 30 one-time free credit
 [GIFKit Discord GIF Checker](https://gifkit.app/discord/cannot-resize-gif/) checks a GIF's format, dimensions, file size and frames against Discord's custom emoji and sticker upload limits, shows what fails when Discord says "Cannot resize GIF", and lets you fix and recheck the file on the same page.
 GIFKit also has a [GIF resizer](https://gifkit.app/tools/gif-resizer/) with Discord (128×128) and Twitch (112×112) emote presets. Free, no sign-up, no watermark; files are processed in the browser and never uploaded. The site also sells custom emote sets.
 
+## GetYouTubeTranscript
+
+[GetYouTubeTranscript](https://getyoutubetranscript.com/) pulls the captions of a YouTube video or past livestream as text with timestamps, and exports TXT, SRT or VTT files, which helps when writing show notes, picking clip moments or re-uploading a VOD with subtitles. It can also translate the transcript and summarize the stream with AI.
+Visitors can fetch a few transcripts a day without signing up; new accounts get 100 one-time free credits, paid plans from $5/mo.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

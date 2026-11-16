@@ -337,6 +337,11 @@ If you livestream digital Art, you can colab with other streamers or viewers.
 [CutBench](https://cutbench.com) is a Windows app that turns a long stream or gameplay recording into short vertical clips, ranked best first, with subtitles burned in. Give it a file from your drive or a link to your Twitch or YouTube video; the clips are made on your own PC, and the recording is not uploaded for processing. Subtitles follow the language spoken on the recording and are never translated. It is a batch tool, not a recorder: you start a job and come back to the clips. Paid, one purchase on Steam, with no subscription and no watermark by default. Windows 10/11 only; the supported spec is an NVIDIA GPU with 6 GB or more of VRAM and CUDA. On AMD and Intel Arc, the work runs on the processor, tens of times slower, and still completes.
 
 
+## Yaptake
+
+[Yaptake](https://yaptake.com) is a Mac video editor for cutting a stream highlight or a talking video into posts by editing its transcript. Delete a word and its sound and picture go with it; ask for a tighter cut and a model on your Mac trims filler words and long pauses as one undo step. It exports 9:16, 4:5, 1:1 and 16:9 with burned-in captions, keeps the speaker in frame for vertical crops, and levels sound to −14 LUFS. Everything runs on your Mac with no uploads and no account. Editing is free, and the first 3 exports are free with no watermark; after that, exporting needs a subscription ($9.99 a month or $79 a year). Apple silicon, macOS 26 or later; speech recognition is English only.
+
+
 # Mobile Apps
 
 ## Twire

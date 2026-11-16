@@ -129,6 +129,11 @@ The clip overlay and the wheel work for any Twitch channel. The timer, chat over
 [CrossChat](https://github.com/RandyNorthrup/crosschat-obs) is a free, open source (MIT) companion for OBS Studio when you stream to several platforms at once. It reads Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble chat into one window, lets you answer everyone with one message (or one person on their own platform), and moderates Twitch, YouTube, Kick and Rumble (and deletes Facebook comments).
 Its chat, featured message, viewer counter and alert widgets are OBS Browser Sources with a theme editor. It runs on your own PC (Windows, macOS, Linux) with no account, server or telemetry.
 
+## ControllerOverlay
+
+[ControllerOverlay](https://controlleroverlay.com) shows your PS5, PS4 or Xbox controller on stream: every button, trigger and stick lights up as you press it. It is one Browser Source link at 800x600 with a transparent background, and the link stays the same when you change the design.
+The stock pads are free with an account and show the site's name under the pad; a one-time $14.99 removes it and adds 39 skins. It also has a free [gamepad tester](https://controlleroverlay.com/gamepad-tester) (buttons, stick drift, vibration) that needs no account.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

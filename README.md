@@ -385,6 +385,10 @@ One link adds it to OBS as a Browser Source that talks when you talk and blinks 
 [Emote Resizer](https://emoteresize.com) is a free, fully client-side tool that resizes one image into every Twitch, Discord, 7TV/BTTV/FFZ, and Slack emote/badge/sticker size.
 Handles PNG and animated GIF, batch processing, and automatic compression. Nothing is uploaded — everything runs in your browser.
 
+## TinyTools Background Remover
+
+[TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) is a free, fully client-side tool that cuts the background from one photo at a time and exports a transparent PNG. Nothing is uploaded — everything runs in your browser with no sign-up. (Disclosure: I built this tool.) It pairs with Emote Resizer above: cut the face or symbol here first, then resize it into every Twitch and Discord emote size there.
+
 ## RunCue
 
 [RunCue](https://runcue.fly.dev/launch?utm_source=awesome_streaming_tools&utm_medium=resource_list&utm_campaign=runcue_launch) is a browser timer and cue board for webinars and remote productions.

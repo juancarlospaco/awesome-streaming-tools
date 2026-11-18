@@ -134,6 +134,10 @@ Its chat, featured message, viewer counter and alert widgets are OBS Browser Sou
 [ControllerOverlay](https://controlleroverlay.com) shows your PS5, PS4 or Xbox controller on stream: every button, trigger and stick lights up as you press it. It is one Browser Source link at 800x600 with a transparent background, and the link stays the same when you change the design.
 The stock pads are free with an account and show the site's name under the pad; a one-time $14.99 removes it and adds 39 skins. It also has a free [gamepad tester](https://controlleroverlay.com/gamepad-tester) (buttons, stick drift, vibration) that needs no account.
 
+## TokElements
+
+[TokElements](https://tokelements.com/tiktok-overlay) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio. Pick gift alerts, goals, leaderboards, chat widgets or games viewers join with TikTok chat commands. Add the overlay URL as an OBS Browser Source or as a Link source in TikTok LIVE Studio. Free widgets are available with an account.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

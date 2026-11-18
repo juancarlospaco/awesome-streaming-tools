@@ -173,8 +173,8 @@ The [source is on GitHub](https://github.com/Onion-Alien/onion-board) under the 
 
 ## BubbleFacts
 
-[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) desktop app for musicians who take song requests through StreamerSongList or StreamElements.
-When a song starts, it pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
+[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) desktop app for musicians and DJs who stream.
+It follows the song you're playing through StreamerSongList, StreamElements, Nightbot's desktop app, Streamling, or any app that writes a now playing file, and pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
 For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
 ## ChatPiP

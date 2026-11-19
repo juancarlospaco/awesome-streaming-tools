@@ -733,7 +733,7 @@ Visitors can fetch a few transcripts a day without signing up; new accounts get 
 ## EasyClippers
 
 [EasyClippers](https://easyclippers.com) clips a Twitch, Kick or YouTube stream while it is still live: it records from the channel link in the cloud, so nothing extra runs on your PC, and turns the moments worth posting into captioned vertical shorts for TikTok, YouTube Shorts and Reels, usually about 10 minutes after each moment, with your facecam over the gameplay. It can post them for you, and it also takes past Twitch and Kick broadcasts.
-Free to try: the first hour of shorts is free with no card and no watermark (720p); plans from $9.99/mo. Its free [Twitch clip maker](https://easyclippers.com/tools/twitch-clip-maker) and [Kick clip maker](https://easyclippers.com/tools/kick-clip-maker) turn a clip link into a vertical clip with captions.
+Free to try: the first 30 minutes of shorts are free with no card and no watermark (720p); plans from $9.99/mo. Its free [Twitch clip maker](https://easyclippers.com/tools/twitch-clip-maker) and [Kick clip maker](https://easyclippers.com/tools/kick-clip-maker) turn a clip link into a vertical clip with captions.
 
 # Twitch Extensions
 

@@ -735,6 +735,11 @@ Visitors can fetch a few transcripts a day without signing up; new accounts get 
 [EasyClippers](https://easyclippers.com) clips a Twitch, Kick or YouTube stream while it is still live: it records from the channel link in the cloud, so nothing extra runs on your PC, and turns the moments worth posting into captioned vertical shorts for TikTok, YouTube Shorts and Reels, during the stream (a moment you clip is ready in a couple of minutes), with your facecam over the gameplay. It can post them for you, and it also takes past Twitch and Kick broadcasts.
 Free to try: the first hour of shorts is free with no card and no watermark; plans from $9.99/mo. Its free [Twitch clip maker](https://easyclippers.com/tools/twitch-clip-maker) and [Kick clip maker](https://easyclippers.com/tools/kick-clip-maker) turn a clip link into a vertical clip with captions.
 
+## cv.cm Tier List Maker
+
+[cv.cm Tier List Maker](https://cv.cm/en/tier-list/) is a free tier list maker in the browser: type names or drop in pictures, drag them into S to D or your own rows, then download a PNG or copy the ranking as text to paste into chat. Handy for ranking games, snacks or viewer suggestions live on stream, and the PNG goes straight into an OBS Image source.
+Pictures stay in the browser and nothing is uploaded. No sign-up, available in 8 languages. (Disclosure: I built this tool.)
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

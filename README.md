@@ -55,7 +55,7 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 ## TalkAStranger Stream Overlays
 
-[TalkAStranger Stream Overlays](https://github.com/umairkhan2582/talkastranger-stream-overlays) is a free, open-source real-time browser source widget for OBS Studio and Streamlabs. It renders live alerts, animated confetti/gift drops, and viewer engagement events with transparent backgrounds and zero external account setup.
+[TalkAStranger Stream Overlays](https://github.com/umairkhan2582/talkastranger-stream-overlays) is an open-source suite of HTML5/CSS3 browser sources for OBS Studio and Streamlabs across 10 categories (Tactical FPS, 8-Bit Retro Arcade, Esports, Frosted Glass, Lofi, Podcasts, Synthwave, Crypto, IRL, and Speedrunning). It provides 30 animated 1080p scenes (In-Game HUD, Starting Soon, and Intermission), Web Audio synthesized alert chimes, an offline HTML personalizer for channel handles and colors, and a free open-source community edition alongside $10 commercial 3-scene theme packs.
 
 ## NeonStreamLab
 
@@ -374,6 +374,11 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 
 # Web Based Tools
+
+## TalkAStranger Streamer Companion
+
+[TalkAStranger Streamer Companion](https://github.com/umairkhan2582/talkastranger-streamer-extension) ([Direct Extension ZIP](https://talkastranger.com/talkastranger-streamer-extension-v1.0.2.zip)) is an open-source Manifest V3 Chrome, Edge, and Brave extension providing a docked Side Panel HUD for live broadcasters. It features real-time viewer counters, live chat feed, synthesized Web Audio gift alerts, a screen and tab broadcast studio, and instant launcher for TalkAStranger's 10-theme stream overlay suite.
+
 
 ## Streamable
 

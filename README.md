@@ -134,6 +134,11 @@ Its chat, featured message, viewer counter and alert widgets are OBS Browser Sou
 [ControllerOverlay](https://controlleroverlay.com) shows your PS5, PS4 or Xbox controller on stream: every button, trigger and stick lights up as you press it. It is one Browser Source link at 800x600 with a transparent background, and the link stays the same when you change the design.
 The stock pads are free with an account and show the site's name under the pad; a one-time $14.99 removes it and adds 39 skins. It also has a free [gamepad tester](https://controlleroverlay.com/gamepad-tester) (buttons, stick drift, vibration) that needs no account.
 
+## Neon Stream Overlay
+
+[Neon Stream Overlay](https://github.com/berkantshn/neon-stream-overlay) is a free, open-source (MIT) neon chat box for an OBS Browser Source. For Twitch it reads public chat directly, with no backend, account or login; Kick chat is optional and runs through Kick's official webhooks and a small bridge you deploy to your own free Cloudflare account.
+A [setup page](https://berkantshn.github.io/neon-stream-overlay/) builds the link: five themes, custom colours, particle bursts on `!hype` or your own keywords, mod-only controls and a demo mode, and messages that mods delete on Twitch disappear from the overlay too. There is no watermark; an optional small credit line is off unless you turn it on.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

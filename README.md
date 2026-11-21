@@ -85,6 +85,10 @@ text-to-speech, real-time chat translation, alerts overlays and moderation/bot t
 
 [Ambiant Pixel](https://ambiantpixel-lab.github.io/obs-stream-background-pixel-art/) makes animated pixel art scenes for OBS Studio and Streamlabs: Starting Soon, Be Right Back, Ending and Just Chatting with a webcam frame, as video loops and as an HTML Browser Source that keeps running live with your own title. The stream packs are paid ($8 per theme); the [free Jungle wallpaper](https://ambiantpixel.itch.io/jungle-free) is a single HTML file that also works as a Browser Source background.
 
+## FWG Studio Gridline
+
+[FWG Studio Gridline](https://forgeworldgaming.itch.io/gridline-animated-obs) is a downloadable OBS overlay pack with an offline HTML personalizer for four animated 1920 × 1080 local Browser Source scenes (Starting Soon, Be Right Back, Ending and Offline), plus webcam frames, channel panels and editable SVGs. The commercial pack is separately licensed, with a regular price of US$12 paid once. A [free sample](https://forgeworldgaming.itch.io/gridline-free-stream-sample) provides two static PNGs, a Starting Soon screen and an About panel. The abstract backgrounds are AI-assisted.
+
 ## GGCombat Esports Overlay
 
 [GGCombat Esports Overlay](https://ggcombat.com/en/widgets) is a free 800x140 browser source for casters and watch-party streams of pro League of Legends, Dota 2, Mobile Legends and Arena of Valor matches.

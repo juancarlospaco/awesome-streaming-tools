@@ -759,6 +759,11 @@ Pictures stay in the browser and nothing is uploaded. No sign-up, available in 8
 [Arcanastream](https://arcanastream.io) streams your VODs and YouTube videos 24/7 to Twitch, YouTube, Kick or any custom RTMP destination from the cloud, so no PC has to stay on at home. You build the schedule in a timeline studio with overlays and automatic subtitles, it can import new videos from your YouTube channel automatically, viewers vote in chat for the next video, and the stream restarts by itself if it drops.
 Paid service, plans from $39/mo. Hosted in Switzerland, interface in English and French.
 
+## RipClip
+
+[RipClip](https://ripclip.org) is a browser app that clips, edits, posts and tracks short-form video. Paste a Kick or Twitch link, or upload any long video, and it finds the moments, frames them on the speaker and captions them word by word. Each clip opens in a multi-track timeline editor. Schedule posts from one calendar, and each post's views come back into the app.
+A free plan is available every month, with exports that carry a watermark. Paid plans start at $29.99 a month, with a 7-day trial that does not ask for a card.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

@@ -375,6 +375,11 @@ is a lot more lightweigth than the official app and the features are almost the 
 
 # Web Based Tools
 
+## TalkAStranger Streamer Companion
+
+[TalkAStranger Streamer Companion](https://github.com/umairkhan2582/talkastranger-streamer-extension) ([Direct Extension ZIP](https://talkastranger.com/talkastranger-streamer-extension-v1.0.2.zip)) is an open-source Manifest V3 Chrome, Edge, and Brave extension providing a docked Side Panel HUD for live broadcasters. It features real-time viewer counters, live chat feed, synthesized Web Audio gift alerts, a screen and tab broadcast studio, and instant launcher for TalkAStranger's 10-theme stream overlay suite.
+
+
 ## Streamable
 
 [Streamable](https://streamable.run/?utm_source=github&utm_medium=awesome-list&utm_campaign=juancarlospaco-awesome-streaming-tools) is cloud-hosted OBS that you control from a browser. Send your phone or backpack feed to it, switch scenes remotely, and keep the stream up through signal drops with stream drop protection. It streams to Twitch, Kick and other RTMP destinations. Paid plans from $39/mo.

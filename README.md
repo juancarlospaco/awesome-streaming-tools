@@ -139,6 +139,10 @@ The stock pads are free with an account and show the site's name under the pad; 
 [Neon Stream Overlay](https://github.com/berkantshn/neon-stream-overlay) is a free, open-source (MIT) neon chat box for an OBS Browser Source. For Twitch it reads public chat directly, with no backend, account or login; Kick chat is optional and runs through Kick's official webhooks and a small bridge you deploy to your own free Cloudflare account.
 A [setup page](https://berkantshn.github.io/neon-stream-overlay/) builds the link: five themes, custom colours, particle bursts on `!hype` or your own keywords, mod-only controls and a demo mode, and messages that mods delete on Twitch disappear from the overlay too. There is no watermark; an optional small credit line is off unless you turn it on.
 
+## TokElements
+
+[TokElements](https://tokelements.com/tiktok-overlay) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio. Pick gift alerts, goals, leaderboards, chat widgets or games viewers join with TikTok chat commands. Add the overlay URL as an OBS Browser Source or as a Link source in TikTok LIVE Studio. Free widgets are available with an account.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
@@ -350,6 +354,11 @@ If you livestream digital Art, you can colab with other streamers or viewers.
 ## Yaptake
 
 [Yaptake](https://yaptake.com) is a Mac video editor for cutting a stream highlight or a talking video into posts by editing its transcript. Delete a word and its sound and picture go with it; ask for a tighter cut and a model on your Mac trims filler words and long pauses as one undo step. It exports 9:16, 4:5, 1:1 and 16:9 with burned-in captions, keeps the speaker in frame for vertical crops, and levels sound to −14 LUFS. Everything runs on your Mac with no uploads and no account. Editing is free, and the first 3 exports are free with no watermark; after that, exporting needs a subscription ($9.99 a month or $79 a year). Apple silicon, macOS 26 or later; speech recognition is English only.
+
+
+## motu-ui
+
+[motu-ui](https://dvinerlove.github.io/motu-ui/) is a free, [open source](https://github.com/dvinerlove/motu-ui) (MIT) control panel for MOTU M-series (M2/M4/M6) USB audio interfaces on Windows. For streamers it answers "is OBS actually getting my audio": a live LOOP meter shows the level of the MOTU loopback capture device — the exact signal OBS, Discord, or any recorder hears — next to IN and OUT meters, plus a test-tone button that lights both up. It also exposes driver-level controls the stock panel hides: buffer size, sample rate, low-latency mode, WaveSRC, and editable latency presets (e.g. Record vs Stream). Windows 10/11 only; it wraps the official MOTU driver, nothing else to install.
 
 
 # Mobile Apps

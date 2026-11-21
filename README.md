@@ -754,6 +754,11 @@ Free to try: the first hour of shorts is free with no card and no watermark; pla
 [cv.cm Tier List Maker](https://cv.cm/en/tier-list/) is a free tier list maker in the browser: type names or drop in pictures, drag them into S to D or your own rows, then download a PNG or copy the ranking as text to paste into chat. Handy for ranking games, snacks or viewer suggestions live on stream, and the PNG goes straight into an OBS Image source.
 Pictures stay in the browser and nothing is uploaded. No sign-up, available in 8 languages. (Disclosure: I built this tool.)
 
+## Arcanastream
+
+[Arcanastream](https://arcanastream.io) streams your VODs and YouTube videos 24/7 to Twitch, YouTube, Kick or any custom RTMP destination from the cloud, so no PC has to stay on at home. You build the schedule in a timeline studio with overlays and automatic subtitles, it can import new videos from your YouTube channel automatically, viewers vote in chat for the next video, and the stream restarts by itself if it drops.
+Paid service, plans from $39/mo. Hosted in Switzerland, interface in English and French.
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

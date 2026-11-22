@@ -416,6 +416,11 @@ Handles PNG and animated GIF, batch processing, and automatic compression. Nothi
 
 [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) is a free, fully client-side tool that cuts the background from one photo at a time and exports a transparent PNG. Nothing is uploaded — everything runs in your browser with no sign-up. (Disclosure: I built this tool.) It pairs with Emote Resizer above: cut the face or symbol here first, then resize it into every Twitch and Discord emote size there.
 
+## bgnix
+
+[bgnix](https://bgnix.com/) removes the background from photos for PNGTuber avatars, emotes, stickers and thumbnails, and exports a full-resolution transparent PNG or a white/coloured background. It also does batches of up to 20 images.
+Free, no watermark, no sign-up; images are processed in your browser and never uploaded. The AI model downloads on first use and is slow on old phones. (Disclosure: I built this tool.)
+
 ## RunCue
 
 [RunCue](https://runcue.fly.dev/launch?utm_source=awesome_streaming_tools&utm_medium=resource_list&utm_campaign=runcue_launch) is a browser timer and cue board for webinars and remote productions.

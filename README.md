@@ -718,6 +718,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## setupdoc
+
+[setupdoc](https://setupdoc.com/) checks your microphone (level, clipping, background noise), webcam (light, fps, resolution), speakers, keyboard, mouse and gamepad before you go live, gives a clear verdict for each test and the steps to fix the problem on Windows, macOS, iOS or Android.
+Free, no sign-up, no ads, runs in the browser and nothing is recorded or uploaded. (Disclosure: I built this tool.)
+
 ## EmoteSize
 
 [EmoteSize](https://emotesize.com/twitch-emote-resizer) is a free browser tool that resizes images and GIFs to Twitch, Discord, Kick and Slack emote sizes.

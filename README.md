@@ -152,6 +152,11 @@ A [setup page](https://berkantshn.github.io/neon-stream-overlay/) builds the lin
 [Wheel of Item](https://wheelofitem.com) is a web app with a spin wheel, a gachapon capsule machine, a tarot draw and a claw machine that each run as an OBS Browser Source. Type your own list, style it in the browser and spin from the page. On the paid Pro plan a viewer's tip (Streamlabs, StreamElements, Ko-fi, YouTube Super Chat, TikTok gifts through TikFinity) or a Twitch Channel Points redeem plays it live on stream, with text-to-speech reading the name and an optional VTube Studio hotkey.
 The games themselves are free with no account, and Pro has a free trial. A free Discord bot (`/gacha`, `/claw`, `/tarot`) comes from the same project.
 
+## Overtok
+
+[Overtok](https://overtok.live) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio: gift alerts, gift goals, top gifters, battle effects, chat games, text-to-speech and chat overlays, plus a link-in-bio page and stats from past LIVEs. A scene is one URL you add as an OBS Browser Source or a LIVE Studio Link source.
+It is paid, with a 7-day free trial and no card needed. Its free tools, like the [TikTok coins calculator](https://overtok.live/tiktok-coins-calculator) and the [OBS settings guide for TikTok LIVE](https://overtok.live/tiktok-live-obs-settings), need no account.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
@@ -420,6 +425,11 @@ Handles PNG and animated GIF, batch processing, and automatic compression. Nothi
 ## TinyTools Background Remover
 
 [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) is a free, fully client-side tool that cuts the background from one photo at a time and exports a transparent PNG. Nothing is uploaded — everything runs in your browser with no sign-up. (Disclosure: I built this tool.) It pairs with Emote Resizer above: cut the face or symbol here first, then resize it into every Twitch and Discord emote size there.
+
+## bgnix
+
+[bgnix](https://bgnix.com/) removes the background from photos for PNGTuber avatars, emotes, stickers and thumbnails, and exports a full-resolution transparent PNG or a white/coloured background. It also does batches of up to 20 images.
+Free, no watermark, no sign-up; images are processed in your browser and never uploaded. The AI model downloads on first use and is slow on old phones. (Disclosure: I built this tool.)
 
 ## RunCue
 
@@ -723,6 +733,11 @@ Free, with no sign-up.
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
 
+## setupdoc
+
+[setupdoc](https://setupdoc.com/) checks your microphone (level, clipping, background noise), webcam (light, fps, resolution), speakers, keyboard, mouse and gamepad before you go live, gives a clear verdict for each test and the steps to fix the problem on Windows, macOS, iOS or Android.
+Free, no sign-up, no ads, runs in the browser and nothing is recorded or uploaded. (Disclosure: I built this tool.)
+
 ## EmoteSize
 
 [EmoteSize](https://emotesize.com/twitch-emote-resizer) is a free browser tool that resizes images and GIFs to Twitch, Discord, Kick and Slack emote sizes.
@@ -765,7 +780,7 @@ Visitors can fetch a few transcripts a day without signing up; new accounts get 
 ## EasyClippers
 
 [EasyClippers](https://easyclippers.com) clips a Twitch, Kick or YouTube stream while it is still live: it records from the channel link in the cloud, so nothing extra runs on your PC, and turns the moments worth posting into captioned vertical shorts for TikTok, YouTube Shorts and Reels, during the stream (a moment you clip is ready in a couple of minutes), with your facecam over the gameplay. It can post them for you, and it also takes past Twitch and Kick broadcasts.
-Free to try: the first hour of shorts is free with no card and no watermark; plans from $9.99/mo. Its free [Twitch clip maker](https://easyclippers.com/tools/twitch-clip-maker) and [Kick clip maker](https://easyclippers.com/tools/kick-clip-maker) turn a clip link into a vertical clip with captions.
+Free to try: 30 free minutes of shorts with no card and no watermark, or a free 1-hour trial with a card; plans from $9.99/mo. Its free [Twitch clip maker](https://easyclippers.com/tools/twitch-clip-maker) and [Kick clip maker](https://easyclippers.com/tools/kick-clip-maker) turn a clip link into a vertical clip with captions.
 
 ## cv.cm Tier List Maker
 
@@ -781,6 +796,10 @@ Paid service, plans from $39/mo. Hosted in Switzerland, interface in English and
 
 [RipClip](https://ripclip.org) is a browser app that clips, edits, posts and tracks short-form video. Paste a Kick or Twitch link, or upload any long video, and it finds the moments, frames them on the speaker and captions them word by word. Each clip opens in a multi-track timeline editor. Schedule posts from one calendar, and each post's views come back into the app.
 A free plan is available every month, with exports that carry a watermark. Paid plans start at $29.99 a month, with a 7-day trial that does not ask for a card.
+
+## Webcam Test
+
+[Webcam Test](https://bestlatestapps.com/tools/webcam-test/) is a free browser page for checking a camera before going live: it shows a live preview, the real resolution and frame rate the camera delivers, lets you switch between cameras and mirror the view, and takes a snapshot. No sign-up or install. The site shows ads. (Disclosure: I built this tool.)
 
 # Twitch Extensions
 

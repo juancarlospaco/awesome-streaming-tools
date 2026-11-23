@@ -792,6 +792,10 @@ Paid service, plans from $39/mo. Hosted in Switzerland, interface in English and
 [RipClip](https://ripclip.org) is a browser app that clips, edits, posts and tracks short-form video. Paste a Kick or Twitch link, or upload any long video, and it finds the moments, frames them on the speaker and captions them word by word. Each clip opens in a multi-track timeline editor. Schedule posts from one calendar, and each post's views come back into the app.
 A free plan is available every month, with exports that carry a watermark. Paid plans start at $29.99 a month, with a 7-day trial that does not ask for a card.
 
+## Webcam Test
+
+[Webcam Test](https://bestlatestapps.com/tools/webcam-test/) is a free browser page for checking a camera before going live: it shows a live preview, the real resolution and frame rate the camera delivers, lets you switch between cameras and mirror the view, and takes a snapshot. No sign-up or install. The site shows ads. (Disclosure: I built this tool.)
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

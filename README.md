@@ -147,6 +147,11 @@ A [setup page](https://berkantshn.github.io/neon-stream-overlay/) builds the lin
 
 [TokElements](https://tokelements.com/tiktok-overlay) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio. Pick gift alerts, goals, leaderboards, chat widgets or games viewers join with TikTok chat commands. Add the overlay URL as an OBS Browser Source or as a Link source in TikTok LIVE Studio. Free widgets are available with an account.
 
+## Overtok
+
+[Overtok](https://overtok.live) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio: gift alerts, gift goals, top gifters, battle effects, chat games, text-to-speech and chat overlays, plus a link-in-bio page and stats from past LIVEs. A scene is one URL you add as an OBS Browser Source or a LIVE Studio Link source.
+It is paid, with a 7-day free trial and no card needed. Its free tools, like the [TikTok coins calculator](https://overtok.live/tiktok-coins-calculator) and the [OBS settings guide for TikTok LIVE](https://overtok.live/tiktok-live-obs-settings), need no account.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

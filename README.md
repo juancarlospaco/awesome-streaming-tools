@@ -147,6 +147,11 @@ A [setup page](https://berkantshn.github.io/neon-stream-overlay/) builds the lin
 
 [TokElements](https://tokelements.com/tiktok-overlay) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio. Pick gift alerts, goals, leaderboards, chat widgets or games viewers join with TikTok chat commands. Add the overlay URL as an OBS Browser Source or as a Link source in TikTok LIVE Studio. Free widgets are available with an account.
 
+## Wheel of Item
+
+[Wheel of Item](https://wheelofitem.com) is a web app with a spin wheel, a gachapon capsule machine, a tarot draw and a claw machine that each run as an OBS Browser Source. Type your own list, style it in the browser and spin from the page. On the paid Pro plan a viewer's tip (Streamlabs, StreamElements, Ko-fi, YouTube Super Chat, TikTok gifts through TikFinity) or a Twitch Channel Points redeem plays it live on stream, with text-to-speech reading the name and an optional VTube Studio hotkey.
+The games themselves are free with no account, and Pro has a free trial. A free Discord bot (`/gacha`, `/claw`, `/tarot`) comes from the same project.
+
 ## Overtok
 
 [Overtok](https://overtok.live) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio: gift alerts, gift goals, top gifters, battle effects, chat games, text-to-speech and chat overlays, plus a link-in-bio page and stats from past LIVEs. A scene is one URL you add as an OBS Browser Source or a LIVE Studio Link source.

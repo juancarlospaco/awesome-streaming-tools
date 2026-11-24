@@ -375,6 +375,13 @@ If you livestream digital Art, you can colab with other streamers or viewers.
 [motu-ui](https://dvinerlove.github.io/motu-ui/) is a free, [open source](https://github.com/dvinerlove/motu-ui) (MIT) control panel for MOTU M-series (M2/M4/M6) USB audio interfaces on Windows. For streamers it answers "is OBS actually getting my audio": a live LOOP meter shows the level of the MOTU loopback capture device — the exact signal OBS, Discord, or any recorder hears — next to IN and OUT meters, plus a test-tone button that lights both up. It also exposes driver-level controls the stock panel hides: buffer size, sample rate, low-latency mode, WaveSRC, and editable latency presets (e.g. Record vs Stream). Windows 10/11 only; it wraps the official MOTU driver, nothing else to install.
 
 
+## Mic Control
+
+[Mic Control](https://miccontrol.app/en/dji-mic-3-obs/?ref=awesome-streaming-tools) is a free, [open source](https://github.com/qubik89/DJIMic3) (The Unlicense) desktop app that controls DJI Mic 3 and Mic Mini wireless mic receivers over USB, so you can watch each mic's level, mute it, start its internal recording and change gain, noise cancelling and other settings from the same computer that runs OBS, without a phone or the DJI Mimo app. The audio keeps going through the receiver's normal USB audio interface; the app only changes settings and has no network access. Tested on macOS (Apple silicon) with a DJI Mic 3; Windows and Linux builds are previews not yet tested with a receiver. Unofficial, not affiliated with DJI.
+
+[![](https://raw.githubusercontent.com/qubik89/DJIMic3/main/docs/screenshots/main-dark.png)](https://miccontrol.app/en/dji-mic-3-obs/?ref=awesome-streaming-tools)
+
+
 # Mobile Apps
 
 ## Twire

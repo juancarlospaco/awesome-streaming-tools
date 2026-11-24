@@ -431,6 +431,10 @@ Handles PNG and animated GIF, batch processing, and automatic compression. Nothi
 [bgnix](https://bgnix.com/) removes the background from photos for PNGTuber avatars, emotes, stickers and thumbnails, and exports a full-resolution transparent PNG or a white/coloured background. It also does batches of up to 20 images.
 Free, no watermark, no sign-up; images are processed in your browser and never uploaded. The AI model downloads on first use and is slow on old phones. (Disclosure: I built this tool.)
 
+## TinyTools Background Blur
+
+[TinyTools Background Blur](https://tomaserben.com/free-tools/background-blur) is a free, fully client-side tool that blurs the backdrop of a photo while keeping the subject sharp, for softer thumbnails, panels, and channel art. Nothing is uploaded — everything runs in your browser with no sign-up. (Disclosure: I built this tool.) It pairs with TinyTools Background Remover above: cut the subject out there first when the backdrop is beyond saving.
+
 ## RunCue
 
 [RunCue](https://runcue.fly.dev/launch?utm_source=awesome_streaming_tools&utm_medium=resource_list&utm_campaign=runcue_launch) is a browser timer and cue board for webinars and remote productions.

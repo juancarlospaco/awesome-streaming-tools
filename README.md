@@ -815,7 +815,7 @@ A free plan is available every month, with exports that carry a watermark. Paid 
 ## SurgeShorts
 
 [SurgeShorts](https://surgeshorts.com) reads the chat of a past YouTube live, Twitch VOD or Kick broadcast, marks where chat reacted most and ranks those moments, and plays each one on the page next to what chat said. Any part of the stream exports as a 9:16 short for TikTok, YouTube Shorts and Reels, or as a 16:9 MP4 for your editor; Twitch and Kick clip links work too. In English, Japanese, Spanish and Portuguese.
-The chat map is free with no sign-up. The free plan has a few exports a day, each ending with a 2-second SurgeShorts card; Pro is $19/month (7-day free trial) with no end card and longer clips. (Disclosure: I work on this tool.)
+Finding where chat reacted is free, with no sign-up. The free plan has a few exports a day, each ending with a 2-second SurgeShorts card; Pro is $19/month (7-day free trial) with no end card and longer clips. (Disclosure: I work on this tool.)
 
 # Twitch Extensions
 

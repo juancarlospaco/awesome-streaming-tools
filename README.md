@@ -467,6 +467,11 @@ Every draw uses the browser's Web Crypto API before the wheel animates, and ther
 [RandomWheel](https://randomwheel.com/streaming) is a free spinning wheel for giveaways and decisions on stream. Add any public wheel to OBS or Streamlabs as a browser source with a transparent background, then spin it with a click or the Space key.
 You can have it remove the winner after each spin, and it works in 18 languages. No account needed to spin, no ads, no watermark.
 
+## SpinWheelNames
+
+[SpinWheelNames](https://spinwheelnames.com) is a free spin wheel for drawing giveaway winners live on stream, with weighted entries, elimination mode and a transparent OBS overlay. Add any saved wheel as a browser source, spin it with a click or the Space key, and share the result as an image or video.
+Picks use crypto-secure random, not Math.random, with a public 100,000-spin fairness test. No signup, no account, nothing to install.
+
 ## Custom Spinner Wheel
 
 [Custom Spinner Wheel](https://customspinnerwheel.com) is a free spinner wheel for picking random names, splitting viewers into teams and drawing giveaway winners live on stream — add your entries, spin, and let the wheel decide. It also includes an Instagram comment picker and a truth-or-dare wheel.
@@ -819,7 +824,7 @@ A free plan is available every month, with exports that carry a watermark. Paid 
 ## SurgeShorts
 
 [SurgeShorts](https://surgeshorts.com) reads the chat of a past YouTube live, Twitch VOD or Kick broadcast, marks where chat reacted most and ranks those moments, and plays each one on the page next to what chat said. Any part of the stream exports as a 9:16 short for TikTok, YouTube Shorts and Reels, or as a 16:9 MP4 for your editor; Twitch and Kick clip links work too. In English, Japanese, Spanish and Portuguese.
-The chat map is free with no sign-up. The free plan has a few exports a day, each ending with a 2-second SurgeShorts card; Pro is $19/month (7-day free trial) with no end card and longer clips. (Disclosure: I work on this tool.)
+Finding where chat reacted is free, with no sign-up. The free plan has a few exports a day, each ending with a 2-second SurgeShorts card; Pro is $19/month (7-day free trial) with no end card and longer clips. (Disclosure: I work on this tool.)
 
 # Twitch Extensions
 

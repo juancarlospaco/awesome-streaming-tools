@@ -472,6 +472,10 @@ You can have it remove the winner after each spin, and it works in 18 languages.
 [Custom Spinner Wheel](https://customspinnerwheel.com) is a free spinner wheel for picking random names, splitting viewers into teams and drawing giveaway winners live on stream — add your entries, spin, and let the wheel decide. It also includes an Instagram comment picker and a truth-or-dare wheel.
 No signup, no account, nothing to install — it runs entirely in the browser, and it is also available in Spanish, French and Portuguese.
 
+## Emote Studio — Free Twitch Emotes & Resizer
+
+[Emote Studio](https://twitchemotemaker.app/free-twitch-emotes) offers 42 free original Twitch emotes (30 static PNGs and 12 animated GIFs) with a live 28 px light/dark chat preview and one-click ZIP downloads pre-sized to 28, 56, and 112 px — no sign-up required. It also includes a free browser-based [Twitch Emote Resizer](https://twitchemotemaker.app/twitch-emote-resizer) and size checker; optional paid credit packs unlock AI-generated custom emotes. (Disclosure: I built this tool.)
+
 ## ReStream
 
 [ReStream](https://restream.io) re-streams your stream into several platforms for free,

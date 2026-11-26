@@ -384,6 +384,10 @@ If you livestream digital Art, you can colab with other streamers or viewers.
 
 # Mobile Apps
 
+## Mouse Jiggler for Mac
+
+[Mouse Jiggler for Mac](https://mousejigglermac.com/) is a menu bar app that keeps a Mac awake during live streams, presentations and long downloads. It can prevent sleep without moving the cursor, or move the cursor with an adjustable idle delay, interval and range. You can give it a weekday schedule or a stop time, or run it only while selected apps are open. It pauses when the screen is locked and stops on low battery. Free download on the [Mac App Store](https://apps.apple.com/app/id6740313656) with an optional one-time PRO in-app purchase, no subscription. macOS 12 or later, closed source. No ads.
+
 ## Twire
 
 [Twire](https://f-droid.org/en/packages/com.perflyst.twire) is an open source Android Twitch Client app for Mobile,

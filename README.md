@@ -157,6 +157,12 @@ The games themselves are free with no account, and Pro has a free trial. A free 
 [Overtok](https://overtok.live) is a web app for TikTok LIVE overlays in OBS Studio and TikTok LIVE Studio: gift alerts, gift goals, top gifters, battle effects, chat games, text-to-speech and chat overlays, plus a link-in-bio page and stats from past LIVEs. A scene is one URL you add as an OBS Browser Source or a LIVE Studio Link source.
 It is paid, with a 7-day free trial and no card needed. Its free tools, like the [TikTok coins calculator](https://overtok.live/tiktok-coins-calculator) and the [OBS settings guide for TikTok LIVE](https://overtok.live/tiktok-live-obs-settings), need no account.
 
+## Overlay Folio
+
+[Overlay Folio](https://overlay-folio.com) is a browser-based generator for personalized stream overlays for OBS Studio, Streamlabs, Twitch, YouTube and Kick.
+Choose from 25 themes and personalize matching Starting Soon, Be Right Back, Stream Ending screens and webcam frames with your channel name.
+Three themes are completely free, with no registration or watermarks. Each theme includes three color variants and four resolution tiers. Optional premium themes are available as one-time purchases.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

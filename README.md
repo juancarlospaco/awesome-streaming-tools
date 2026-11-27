@@ -836,6 +836,11 @@ A free plan is available every month, with exports that carry a watermark. Paid 
 [SurgeShorts](https://surgeshorts.com) reads the chat of a past YouTube live, Twitch VOD or Kick broadcast, marks where chat reacted most and ranks those moments, and plays each one on the page next to what chat said. Any part of the stream exports as a 9:16 short for TikTok, YouTube Shorts and Reels, or as a 16:9 MP4 for your editor; Twitch and Kick clip links work too. In English, Japanese, Spanish and Portuguese.
 Finding where chat reacted is free, with no sign-up. The free plan has a few exports a day, each ending with a 2-second SurgeShorts card; Pro is $19/month (7-day free trial) with no end card and longer clips. (Disclosure: I work on this tool.)
 
+## YapCam Teleprompter
+
+[YapCam Teleprompter](https://yapcam.cc/teleprompter) is a free browser teleprompter that follows your voice: it scrolls your script as you read it aloud, waits when you pause and catches up when you skip a line, using the browser's own speech recognition (Chrome, Edge or Safari). It can also scroll at a fixed speed in any browser, mirror the text for teleprompter glass and fill the screen.
+Free, with no sign-up and no ads (the end screen links to our iPhone app); the script stays in your browser. The voice-following engine is open source ([voice-follow](https://github.com/founden-bot/voice-follow), MIT). (Disclosure: we make this tool and the YapCam iPhone app.)
+
 # Twitch Extensions
 
 Few Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.

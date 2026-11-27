@@ -87,7 +87,7 @@ text-to-speech, real-time chat translation, alerts overlays and moderation/bot t
 
 ## FWG Studio Gridline
 
-[FWG Studio Gridline](https://forgeworldgaming.itch.io/gridline-animated-obs) is a downloadable OBS overlay pack with an offline HTML personalizer for four animated 1920 × 1080 local Browser Source scenes (Starting Soon, Be Right Back, Ending and Offline), plus webcam frames, channel panels and editable SVGs. The commercial pack is separately licensed, with a regular price of US$12 paid once. A [free sample](https://forgeworldgaming.itch.io/gridline-free-stream-sample) provides two static PNGs, a Starting Soon screen and an About panel. The abstract backgrounds are AI-assisted.
+[FWG Studio Gridline](https://forgeworldgaming.itch.io/gridline-animated-obs) is a downloadable OBS overlay pack with an offline HTML personalizer for four animated 1920 × 1080 local Browser Source scenes (Starting Soon, Be Right Back, Ending and Offline), plus webcam frames, channel panels and editable SVGs. The separately licensed commercial pack has a regular one-time price of US$12 on itch.io, and the [US$13/month Gumroad membership](https://fwgworld.gumroad.com/l/gridline-obs-membership) covers channel use and downloads during the paid period. A [free sample](https://forgeworldgaming.itch.io/gridline-free-stream-sample) provides two static PNGs, a Starting Soon screen and an About panel. The abstract backgrounds are AI-assisted.
 
 ## GGCombat Esports Overlay
 

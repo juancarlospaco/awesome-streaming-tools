@@ -128,6 +128,10 @@ The clip overlay and the wheel work for any Twitch channel. The timer, chat over
 
 [send21 Stream Tips](https://github.com/send21io/send21-stream-tips) is a free, open-source (MIT) tip-alert overlay for OBS, built on send21: crypto pay links and API for people and AI agents. Viewers tip from their phone, and the Browser Source plays the alert once, only after the payment is confirmed; self-hosted, with a goal bar, moderation queue and test alerts, and tips go straight to the streamer's own wallet.
 
+## Crypto Jar
+
+[Crypto Jar](https://github.com/kraiwen23/crypto-jar) is a free, open-source (MIT) crypto donation page and OBS goal widget with no account and no custody. Enter a title, a goal and your USDT (TRC20 / TON), TON or Bitcoin addresses to get a shareable jar page (progress bar, QR codes, latest donations) and a Browser Source goal bar (600×160) that shows an alert on each new donation. Totals are read from public block explorers, all jar data lives in the URL, and donations go wallet-to-wallet with no platform fee. [Web app](https://kripto-banka.pages.dev/en/) in English, Ukrainian and Russian.
+
 ## CrossChat
 
 [CrossChat](https://github.com/RandyNorthrup/crosschat-obs) is a free, open source (MIT) companion for OBS Studio when you stream to several platforms at once. It reads Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble chat into one window, lets you answer everyone with one message (or one person on their own platform), and moderates Twitch, YouTube, Kick and Rumble (and deletes Facebook comments).

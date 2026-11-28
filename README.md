@@ -456,6 +456,10 @@ Free, no watermark, no sign-up; images are processed in your browser and never u
 
 [TinyTools Background Blur](https://tomaserben.com/free-tools/background-blur) is a free, fully client-side tool that blurs the backdrop of a photo while keeping the subject sharp, for softer thumbnails, panels, and channel art. Nothing is uploaded — everything runs in your browser with no sign-up. (Disclosure: I built this tool.) It pairs with TinyTools Background Remover above: cut the subject out there first when the backdrop is beyond saving.
 
+## TinyTools ASCII Art Converter
+
+[TinyTools ASCII Art Converter](https://tomaserben.com/free-tools/image-to-ascii-art) is a free, fully client-side tool that turns any image (JPG, PNG, GIF, WebP) into text art with an adjustable width slider, for Twitch chat art, panels, and channel descriptions. Nothing is uploaded — everything runs in your browser with no sign-up. (Disclosure: I built this tool.)
+
 ## RunCue
 
 [RunCue](https://runcue.fly.dev/launch?utm_source=awesome_streaming_tools&utm_medium=resource_list&utm_campaign=runcue_launch) is a browser timer and cue board for webinars and remote productions.

@@ -177,9 +177,11 @@ Three themes are completely free, with no registration or watermarks. Each theme
 
 ## Modly
 
-[Modly](https://modly.tv/overlays) lets a Twitch or Kick streamer [invite a moderator to their overlay](https://modly.tv/tutorials/let-mods-edit-overlay).
-The streamer adds one Browser Source in OBS. The mod can then move images or play a video from their own browser while the streamer keeps playing.
-The free plan includes one overlay and one moderator.
+[Modly](https://modly.tv/overlays) lets a Twitch or Kick streamer and their moderators edit the same overlay live from their browsers. The streamer adds one Browser Source in OBS and [invites a mod](https://modly.tv/tutorials/let-mods-edit-overlay).
+
+A mod can [prepare a meme or video just outside the frame](https://modly.tv/tutorials/preload-zone). OBS loads it in the background, so the mod can drag it on screen when the joke lands. During a game, a mod can draw an arrow to point out a play or type `!death` in Twitch or Kick chat to update an on-screen death counter.
+
+The streamer chooses what each teammate can edit. The free plan includes one overlay and one moderator.
 
 # Fiver Twitch Store
 

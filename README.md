@@ -163,6 +163,10 @@ It is paid, with a 7-day free trial and no card needed. Its free tools, like the
 Choose from 25 themes and personalize matching Starting Soon, Be Right Back, Stream Ending screens and webcam frames with your channel name.
 Three themes are completely free, with no registration or watermarks. Each theme includes three color variants and four resolution tiers. Optional premium themes are available as one-time purchases.
 
+## DankMachine Stream Tools
+
+[DankMachine](https://dankmachine.com) is a free meme soundboard with three OBS Browser Sources built on it: a [countdown timer](https://dankmachine.com/timer/) that ends with a meme sound (vine boom, airhorn, bruh or any other) and has a transparent background, a [Be Right Back and Starting Soon screen](https://dankmachine.com/brb/) with a dancing pixel frog, your own text and a random meme sound every few seconds, and a [Sound Room overlay](https://dankmachine.com/obs/) that pops up and plays every sound your viewers press in a live room. Free, no account, no watermark.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

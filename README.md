@@ -175,6 +175,12 @@ Three themes are completely free, with no registration or watermarks. Each theme
 
 [CommunityGames](https://www.communitygames.io) runs games a stream's chat plays together: a 3D marble race, a duck race, Plinko, Bingo, a name wheel, Tug of War and trivia brackets. Viewers join by typing one word in Twitch, Kick or YouTube chat, and one lobby takes all three at once, up to 500 players a round. You start a round from a web dashboard and it plays in one OBS Browser Source, with your own logo and colours and no watermark. Every winner card carries a round code and a verify ID that anyone can check on the site after the stream, so it also works for giveaways. Paid, $9 a month, closed source.
 
+## Modly
+
+[Modly](https://modly.tv/overlays) lets a Twitch or Kick streamer [invite a moderator to their overlay](https://modly.tv/tutorials/let-mods-edit-overlay).
+The streamer adds one Browser Source in OBS. The mod can then move images or play a video from their own browser while the streamer keeps playing.
+The free plan includes one overlay and one moderator.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars

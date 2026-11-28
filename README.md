@@ -171,6 +171,10 @@ Three themes are completely free, with no registration or watermarks. Each theme
 
 [DankMachine](https://dankmachine.com) is a free meme soundboard with three OBS Browser Sources built on it: a [countdown timer](https://dankmachine.com/timer/) that ends with a meme sound (vine boom, airhorn, bruh or any other) and has a transparent background, a [Be Right Back and Starting Soon screen](https://dankmachine.com/brb/) with a dancing pixel frog, your own text and a random meme sound every few seconds, and a [Sound Room overlay](https://dankmachine.com/obs/) that pops up and plays every sound your viewers press in a live room. Free, no account, no watermark.
 
+## CommunityGames
+
+[CommunityGames](https://www.communitygames.io) runs games a stream's chat plays together: a 3D marble race, a duck race, Plinko, Bingo, a name wheel, Tug of War and trivia brackets. Viewers join by typing one word in Twitch, Kick or YouTube chat, and one lobby takes all three at once, up to 500 players a round. You start a round from a web dashboard and it plays in one OBS Browser Source, with your own logo and colours and no watermark. Every winner card carries a round code and a verify ID that anyone can check on the site after the stream, so it also works for giveaways. Paid, $9 a month, closed source.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
